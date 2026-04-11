@@ -7,6 +7,25 @@ site_author: Dan McCreary
 nav:
   - Home: index.md
   - Course Description: course-description.md
+  - Chapters:
+    - List of Chapters: chapters/index.md
+    - 1. Welcome to the Digital World: chapters/01-welcome-to-digital-world/index.md
+    - 2. What Is a Digital Citizen?: chapters/02-what-is-a-digital-citizen/index.md
+    - 3. Media Balance and Spotting Imbalance: chapters/03-media-balance/index.md
+    - 4. Building Healthy Tech Habits: chapters/04-healthy-tech-habits/index.md
+    - 5. Private vs. Personal Information: chapters/05-private-vs-personal-info/index.md
+    - 6. Passwords, Clickbait, and Staying Safe Online: chapters/06-passwords-and-online-safety/index.md
+    - 7. What Is a Digital Footprint?: chapters/07-what-is-a-digital-footprint/index.md
+    - 8. Reputation, Sharing, and Giving Credit: chapters/08-reputation-and-credit/index.md
+    - 9. Online Friends and How We Talk: chapters/09-online-friends-and-talk/index.md
+    - 10. Safe Talk and Setting Boundaries: chapters/10-safe-talk-and-boundaries/index.md
+    - 11. When Conflict Becomes Cyberbullying: chapters/11-conflict-vs-cyberbullying/index.md
+    - 12. Standing Up Safely as an Upstander: chapters/12-standing-up-safely/index.md
+    - 13. What Is Misinformation?: chapters/13-what-is-misinformation/index.md
+    - 14. Becoming a Fact Checker: chapters/14-becoming-a-fact-checker/index.md
+    - 15. The Four Critical Questions: chapters/15-four-critical-questions/index.md
+    - 16. Healthy Doubt and Open Minds: chapters/16-healthy-doubt-open-minds/index.md
+    - 17. Your Digital Citizenship Toolkit: chapters/17-digital-citizenship-toolkit/index.md
   - Learning Graph:
     - Introduction: learning-graph/index.md
     - Concept List: learning-graph/concept-list.md
@@ -14,6 +33,7 @@ nav:
     - Quality Metrics: learning-graph/quality-metrics.md
     - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
     - Design Notes: learning-graph/learning-graph-design-notes.md
+    - Chapter Design Log: learning-graph/chapter-design.md
     - Mascot Style Guide: learning-graph/mascot-test.md
     - Mascot Design Decisions: learning-graph/mascot-design-decisions.md
   - MicroSims:
