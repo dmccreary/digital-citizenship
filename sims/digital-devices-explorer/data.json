@@ -1,0 +1,114 @@
+{
+  "title": "Which Devices Collect Personal Information?",
+  "orientation": "landscape",
+  "image": "digital-devices.png",
+  "layout": "dual-panel",
+  "clickOnly": true,
+  "quizMode": "select-all",
+  "quizPrompt": "Click on every device that collects personal information about you. Skip any device that does not. Watch out — almost every digital device collects something!",
+  "callouts": [
+    {
+      "id": 2,
+      "label": "Tablet",
+      "x": 46.6,
+      "y": 8.1,
+      "radius": 5,
+      "color": "#E74C3C",
+      "panel": "left",
+      "quizCorrect": true,
+      "hint": "A flat device with a touch screen, bigger than a phone but smaller than a laptop.",
+      "description": "Yes, a tablet collects personal information. The apps on your tablet can collect your location, your photos, the things you type, and how long you spend in each app. Some apps ask for permission first, and some collect information quietly in the background."
+    },
+    {
+      "id": 1,
+      "label": "Laptop",
+      "x": 18.1,
+      "y": 23.8,
+      "radius": 5,
+      "color": "#E74C3C",
+      "panel": "left",
+      "quizCorrect": true,
+      "hint": "A small computer with a screen that opens like a book and a keyboard.",
+      "description": "Yes, a laptop collects personal information. It can save your browsing history, your location, the files you create, and the accounts you sign in to. When the laptop is connected to wifi, websites can also collect information about what you click and how long you stay."
+    },
+    {
+      "id": 4,
+      "label": "Video Game Console",
+      "x": 20,
+      "y": 50,
+      "radius": 5,
+      "color": "#E74C3C",
+      "panel": "left",
+      "quizCorrect": true,
+      "hint": "A controller you use to play games on a screen.",
+      "description": "Yes, a video game console collects personal information. It can save how long you play, which games you play, who your friends are, and what you say if you use voice chat. If you sign in with an account, it remembers you the next time you play."
+    },
+    {
+      "id": 5,
+      "label": "Smartwatch",
+      "x": 44.4,
+      "y": 57.1,
+      "radius": 5,
+      "color": "#E74C3C",
+      "panel": "left",
+      "quizCorrect": true,
+      "hint": "A small computer you wear on your wrist like a watch.",
+      "description": "Yes, a smartwatch collects very personal information about your body. It can measure your heart rate, count your steps, track when you fall asleep and wake up, and follow your location everywhere you go. That is a lot of private information from one little device."
+    },
+    {
+      "id": 7,
+      "label": "Digital Camera",
+      "x": 18.5,
+      "y": 79.6,
+      "radius": 5,
+      "color": "#F39C12",
+      "panel": "left",
+      "quizCorrect": true,
+      "hint": "A device with a big round lens used to take pictures.",
+      "description": "Some — a digital camera can collect a little personal information. Every photo it takes saves the date and time. If the camera has GPS turned on, it also saves the location where the photo was taken. But a camera by itself doesn't connect to the internet, so the information stays on the camera until you copy it somewhere else."
+    },
+    {
+      "id": 3,
+      "label": "Cell Phone",
+      "x": 78.1,
+      "y": 23,
+      "radius": 5,
+      "color": "#E74C3C",
+      "quizCorrect": true,
+      "hint": "A small device you can hold in one hand that can also make phone calls.",
+      "description": "Yes, a cell phone collects a lot of personal information. It knows your location almost all the time, who you call, who you text, the photos you take, and the apps you use the most. Cell phones collect more personal information than almost any other device."
+    },
+    {
+      "id": 6,
+      "label": "Smart TV",
+      "x": 83.4,
+      "y": 50,
+      "radius": 5,
+      "color": "#F39C12",
+      "quizCorrect": true,
+      "hint": "A big flat screen on a stand, used for watching shows and videos.",
+      "description": "Some — a smart TV can collect information, but only some of the time. It can save which shows you watch and how long you watch them. If the TV has a microphone for voice commands, it can also listen for words like 'play' or 'pause'. An older TV without wifi does not collect any personal information at all."
+    },
+    {
+      "id": 8,
+      "label": "E-reader",
+      "x": 55.8,
+      "y": 70.2,
+      "radius": 5,
+      "color": "#F39C12",
+      "quizCorrect": true,
+      "hint": "A thin tablet made just for reading books on a soft cream screen.",
+      "description": "Some — an e-reader can collect a little personal information. It remembers which books you have, what page you are on, and which words you highlight. If it is connected to wifi, the bookstore that made it can see which books you read and how long you spend on each one."
+    },
+    {
+      "id": 9,
+      "label": "Toaster",
+      "x": 81.1,
+      "y": 84.1,
+      "radius": 5,
+      "color": "#2ECC71",
+      "hint": "A small kitchen machine with two slots that pops up warm bread.",
+      "description": "Not yet! 😉 Today, most regular toasters have no screen, no wifi, and no way to send anything to the internet — so it does not collect any personal information about you. It just makes toast. (Some day, maybe a toaster will know how you like your bread… but for now, your breakfast secrets are safe!)"
+    }
+  ]
+}
