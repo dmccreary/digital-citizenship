@@ -278,7 +278,10 @@ words, then a concrete example in the next sentence.
 Grade 5 students learn through stories. Most chapter sections should open
 with or include a short scenario involving a fictional kid. Use a variety
 of names, backgrounds, and situations. Recurring fictional characters can
-appear across chapters (the textbook plans for graphic-novel stories).
+appear across chapters. When a chapter has one strong narrative moment that
+deserves more than a paragraph, consider lifting it out into a **mini
+graphic novel** in `docs/stories/` — see the dedicated section near the
+end of this file for the two-pass workflow.
 
 **Scenario opening pattern:**
 
@@ -390,3 +393,114 @@ Before any chapter file is considered done, verify:
 - [ ] A Grade 5 student could read it out loud and understand it
 
 If any box is unchecked, revise before publishing.
+
+## Mini Graphic Novel Stories
+
+This project supports **mini graphic novel stories** — short 6 to 8 panel
+narrative companions to a chapter, with one image per panel and a short
+prose paragraph below each image. Stories live in `docs/stories/` and are
+generated using the `/story-generator` Claude skill (adapted from the
+historical-figure version of that skill to handle fictional contemporary
+Grade 5 characters).
+
+**Working example:** [Jordan's One-Second Choice](docs/stories/jordan-one-second-choice/index.md)
+— companion to Chapter 2.
+
+### When to Use a Mini Graphic Novel
+
+Not every chapter needs one. Consider lifting a story out of the chapter
+prose into its own mini graphic novel when **all** of these are true:
+
+- The chapter has one specific narrative moment with a clear emotional arc
+  (invitation → conflict → choice → resolution).
+- That moment is doing real teaching work — it models a habit or skill
+  that the chapter is asking students to learn.
+- The arc has at least 6 distinct beats. Two beats is a paragraph; six or
+  more beats is a story that wants to breathe.
+- The story can stand on its own and be revisited by a teacher or a
+  student outside the chapter context.
+
+If those conditions are not met, keep the scenario inline in the chapter.
+Don't manufacture stories just because the capability exists.
+
+### Two-Pass Workflow (Important)
+
+When the chapter content generator decides a chapter would benefit from a
+mini graphic novel, it should **not** try to write the full story on the
+first pass. Image generation is the expensive step, and the story-generator
+skill is the right tool for the full expansion. Instead, use a two-pass
+workflow:
+
+**Pass 1 — chapter content generator (this skill):**
+
+1. Identify the one narrative moment in the chapter that would make a
+   strong mini graphic novel. Most chapters will have zero or one. A few
+   may have none — that is fine.
+2. In the chapter prose, keep the narrative scene short (one or two
+   paragraphs as a frame), and add a `!!! note "Read..."` callout that
+   links to the planned story file.
+3. Create a **stub file** at `docs/stories/{kebab-case-name}/index.md`
+   containing only:
+   - YAML frontmatter (`title`, `description`, placeholder image paths)
+   - An H1 with the story title
+   - A one-paragraph summary of the story arc (what happens from beat 1
+     to beat N, in plain prose)
+   - A list of the 6 to 8 planned panel beats, one line each
+   - A clearly visible **TODO** marker at the top of the body, e.g.:
+
+     ```markdown
+     > **TODO (story-generator):** This file is a stub. The full mini
+     > graphic novel — image prompts, panel narration, cover, and
+     > epilogue — will be generated in a future pass using the
+     > `/story-generator` skill. Do not generate images until then.
+     ```
+4. Add the stub to the `Stories` section of `mkdocs.yml`.
+5. Stop. Do not write image prompts. Do not write panel narration. Do
+   not invoke the story-generator skill.
+
+**Pass 2 — story-generator skill (separate, later task):**
+
+When the user is ready to invest the time and image-generation budget,
+they will explicitly invoke the `/story-generator` skill on the stub. The
+skill expands the stub into a full mini graphic novel: cover image prompt,
+6 to 8 panels with image prompts in `<details>` blocks, prose narration
+below each panel, an epilogue table, and cross-links back to the chapter.
+The user then runs `generate-images.py` to produce the PNGs (current
+budget: ~Create.039 per image, ~Create.30 to Create.45 per story).
+
+Splitting the work this way means the chapter content generator stays
+fast and cheap, the story-generator skill stays focused on its strength,
+and the user controls when image-generation costs are incurred.
+
+### Style Rules for Mini Graphic Novel Stories
+
+- **No Maka.** The mascot appears only in chapter content, never in
+  stories. Stories use plain prose narration.
+- **Same Grade 5 voice as chapters.** Sentences ≤ 20 words, paragraphs
+  2 to 4 sentences, second person where appropriate, no slang, no
+  platform names, no scary language.
+- **The "tell a trusted adult" rule** still appears in plain prose,
+  never in any admonition or callout block.
+- **Diverse, kind characters.** Vary names, skin tones, hair, clothing,
+  and family situations across stories. No bullying caricatures — even
+  the kids making bad choices should read as kids in a moment of bad
+  judgment, not as villains.
+- **No Indigenous appropriation.** The same cultural-sensitivity rules
+  from the Maka and Bdote sections apply to story characters.
+- **Visual style consistency.** Image prompts should specify modern flat
+  cartoon vector style, warm palette, river-blue (#2e6f8e) accents, and
+  16:9 horizontal landscape format — matching Maka and the rest of the
+  textbook art.
+- **Cross-link, don't duplicate.** The chapter and the story link to
+  each other. The chapter does not repeat the full story; the story
+  does not repeat the full chapter.
+
+### File and Directory Conventions
+
+- Story directories use kebab-case: `docs/stories/jordan-one-second-choice/`
+- Each story has exactly one `index.md`
+- Image filenames are `cover.png` and `panel-01.png` through `panel-08.png`
+  (or `panel-12.png` for a full-length story)
+- Stories are listed in `mkdocs.yml` under a top-level `Stories` section
+  in chronological order of when they were added (or by chapter order
+  if they map cleanly to chapters)
