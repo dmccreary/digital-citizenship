@@ -45,8 +45,12 @@ nav:
     - Mascot Style Guide: learning-graph/mascot-test.md
     - Mascot Design Decisions: learning-graph/mascot-design-decisions.md
   - MicroSims:
-    - Learning Graph Viewer: sims/graph-viewer/index.md
+    - List of MicroSims: sims/index.md
     - Digital Devices Explorer: sims/digital-devices-explorer/index.md
+    - How a Video Gets to Your Tablet: sims/internet-flow/index.md
+    - Learning Graph Viewer: sims/graph-viewer/index.md
+
+
   - Prompts:
     - prompts/01-seed.md
     - Economy-Mode Chapter Prompt: prompts/economy-mode-chapter.md
@@ -58,7 +62,8 @@ theme:
   palette:
     primary: 'custom'
     accent: 'amber'
-  favicon: img/favicon.png
+  logo: img/mascot/neutral.png
+  favicon: img/mascot/favicon.png
   include_sidebar: true
   features:
     - content.code.copy
@@ -109,5 +114,5 @@ copyright: Copyright &copy; 2026 Dan McCreary. Licensed under <a href="license/"
 
 extra:
   schema: https://dmccreary.github.io/intelligent-textbooks/ns/textbook/v1
-  textbook_name: Digital Citizenship for Grade 5
+  textbook_name: Digital Citizenship
   textbook_version: "1.0"

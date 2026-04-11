@@ -37,7 +37,7 @@ For each chapter, perform these steps in Claude Code:
 ## Prompt template
 
 ````text
-Generate Chapter [N] ("[Chapter Title]") of the Digital Citizenship
+Generate Chapter [N] of the Digital Citizenship
 for Grade 5 textbook for ISD 197.
 
 ECONOMY MODE — strict constraints:

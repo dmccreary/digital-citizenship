@@ -129,12 +129,18 @@ Here is a simple picture of how a video gets from a faraway computer to your tab
 
 #### Diagram: How a Video Gets to Your Tablet
 
+<iframe src="../../sims/internet-flow/main.html" height="382px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+[Open the How a Video Gets to Your Tablet diagram in a new tab](../../sims/internet-flow/main.html){target="_blank"}
+
+Click any blue box in the diagram to read what it does. Notice that the video has to pass through *every* step before you can watch it on your tablet.
+
 <details markdown="1">
-<summary>How a video gets to your tablet</summary>
+<summary>Diagram specification</summary>
 Type: diagram
 **sim-id:** internet-flow<br/>
 **Library:** Mermaid<br/>
-**Status:** Specified
+**Status:** Deployed
 
 A simple horizontal flow diagram showing the path a video takes from a faraway computer to a tablet in a Grade 5 student's bedroom. The diagram has five labeled nodes connected by left-to-right arrows:
 
