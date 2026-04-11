@@ -14,7 +14,9 @@ nav:
       - Content: chapters/01-welcome-to-digital-world/index.md
       - Plan: chapters/01-welcome-to-digital-world/plan.md
       - Cost: chapters/01-welcome-to-digital-world/cost.md
-    - 2. What Is a Digital Citizen?: chapters/02-what-is-a-digital-citizen/index.md
+    - 2. What Is a Digital Citizen?: 
+      - Content: chapters/02-what-is-a-digital-citizen/index.md
+      - Changes: chapters/02-what-is-a-digital-citizen/changes.md
     - 3. Media Balance and Spotting Imbalance: chapters/03-media-balance/index.md
     - 4. Building Healthy Tech Habits: chapters/04-healthy-tech-habits/index.md
     - 5. Private vs. Personal Information: chapters/05-private-vs-personal-info/index.md
@@ -44,6 +46,7 @@ nav:
     - Mascot Design Decisions: learning-graph/mascot-design-decisions.md
   - MicroSims:
     - Learning Graph Viewer: sims/graph-viewer/index.md
+    - Digital Devices Explorer: sims/digital-devices-explorer/index.md
   - Prompts:
     - prompts/01-seed.md
     - Economy-Mode Chapter Prompt: prompts/economy-mode-chapter.md
@@ -68,6 +71,9 @@ theme:
     - navigation.footer
     - content.action.edit
 
+exclude_docs: |
+  sims/digital-devices-explorer/image-prompt.md
+
 plugins:
   - search
 
@@ -82,6 +88,9 @@ markdown_extensions:
       linenums: true
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
   - css/extra.css

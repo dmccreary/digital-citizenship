@@ -1,3 +1,25 @@
+// ── MicroSim auto-resize ────────────────────────────────────────────────
+// Listens for `{ type: 'microsim-resize', height: <px> }` messages posted
+// by embedded MicroSim iframes (see docs/sims/shared-libs/diagram.js, which
+// calls window.parent.postMessage(...) once it has measured its content).
+// When a message arrives, find the iframe whose contentWindow sent it and
+// resize its height attribute to fit. This eliminates the need to hand-tune
+// per-page iframe heights for diagram-overlay MicroSims.
+window.addEventListener("message", function (event) {
+    const data = event.data;
+    if (!data || data.type !== "microsim-resize") return;
+    if (typeof data.height !== "number" || data.height <= 0) return;
+
+    const iframes = document.querySelectorAll("iframe");
+    for (const iframe of iframes) {
+        if (iframe.contentWindow === event.source) {
+            iframe.style.height = data.height + "px";
+            iframe.setAttribute("height", data.height);
+            break;
+        }
+    }
+});
+
 document.addEventListener("DOMContentLoaded", function () {
 
     // Mcollege placement Delta admonition title keywords to pose image and CSS class

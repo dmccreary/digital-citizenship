@@ -1,11 +1,8 @@
 ---
 title: "Chapter 2: What Is a Digital Citizen?"
-description: Learn what it means to be a citizen of the digital world — not just a user — and meet Maka's central habit: pause, think, act.
-generated_by: claude skill chapter-content-generator
-date: 2026-04-11
-version: 0.07
+description: "Learn what it means to be a citizen of the digital world — not just a user — and meet Maka's central habit: pause, think, act."
 ---
-
+<!-- TODO - add a chapter image to the metadata --->
 # Chapter 2: What Is a Digital Citizen?
 
 ## Summary
@@ -42,22 +39,18 @@ This chapter builds on concepts from:
 
 ---
 
-## Jordan's Choice
-
-It is recess. Jordan walks across the playground and sees a group of kids huddled around a tablet. They are all laughing. One of them waves him over.
-
-"Jordan! Watch this!" she says. On the screen is a short video of a kid from another grade tripping and falling in the lunchroom. The kid in the video looks embarrassed. The group is laughing anyway. "Send it to the class chat! Everyone's gonna love it."
-
-Jordan feels two things at once. He wants to fit in with the group. But something else inside him feels a little tight, like a small knot in his stomach. His finger hovers over the screen. Should he tap share?
-
-If you have ever felt like Jordan, this chapter is for you. In Chapter 1 you learned the *words* of the digital world — devices, the internet, browsers, and apps. In this chapter, you'll learn what it means to *be* somebody in that world. Not just a user. A *citizen*.
-
-!!! note "Read Jordan's Story"
-    See what Jordan decides — and how he gets there — in the mini graphic novel [Jordan's One-Second Choice](../../stories/jordan-one-second-choice/index.md). It walks through the same playground moment one panel at a time.
+## Beyond the Words
 
 !!! mascot-welcome "Welcome Back, Friends!"
     <img src="../../img/mascot/welcome.png" class="mascot-admonition-img" alt="Maka the River Otter waving welcome">
     Hi again, friends! I'm so glad you're back. Last chapter we learned about devices and the internet. This chapter is one of my favorites — it's where you find out who you are in the digital world. Pause, think, act!
+
+In Chapter 1 you learned the *words* of the digital world — devices, the internet, browsers, and apps. In this chapter, you'll learn what it means to *be* somebody in that world. Not just a user. A *citizen*.
+
+The biggest ideas in this chapter come to life in a story. Meet **Jordan** — a fifth-grader who has one tough second to choose who he wants to be. Read the mini graphic novel below before you keep going, or save it for after. Either order works.
+
+[Read Jordan's Story](../../stories/jordan-one-second-choice/index.md){ .md-button .md-button--primary }
+
 
 ## A New Kind of Place
 
@@ -81,7 +74,7 @@ Tell a trusted adult any time something online confuses you, scares you, or make
 
 You already know what it means to be a citizen of a country. A citizen lives in a place, follows its rules, helps neighbors, and has things nobody can take away. The digital world has citizens too.
 
-A **digital citizen** is a person who uses digital devices and the internet in a way that is safe, kind, smart, and fair to everyone. When Jordan stops to ask whether sharing that video is kind, he is acting like a digital citizen — even though his finger is still hovering over the screen.
+A **digital citizen** is a person who uses digital devices and the internet in a way that is safe, kind, smart, and fair to everyone. When you stop to ask whether sharing something is kind *before* you tap, you are already acting like a digital citizen.
 
 The way digital citizens act has its own name.
 
@@ -119,6 +112,8 @@ These three things travel together. You can think of them like the three legs of
 
 #### Diagram: The Three-Legged Stool
 
+![Image of the Three-Legged Stool](./three-legs-of-the-stool.png)
+
 <details markdown="1">
 <summary>The three-legged stool of digital citizenship — concept illustration</summary>
 Type: diagram
@@ -149,19 +144,21 @@ Behind the stool, a soft pale-cream background with a few light dot-grid marking
 - Image dimensions: 4:3 or square, suitable for inline placement at content width.
 </details>
 
-A great way to test whether you understand a new idea is to ask: which leg is this? When Jordan thinks "the kid in the video deserves to be treated with respect," he is thinking about the *rights* leg. When he thinks "I have a job to be kind in this chat," he is thinking about the *responsibilities* leg.
+A great way to test whether you understand a new idea is to ask: which leg is this? When you think "everyone in our class chat deserves to be treated kindly," you are thinking about the *rights* leg. When you think "I have a job to be kind in this chat," you are thinking about the *responsibilities* leg.
 
-## The Digital Threshold
+## The Digital Threshold 🚪
 
 Picture the front door of your house. The little space right at the edge of the door, where you step from outside to inside, has a name. It is called a *threshold*. Most people cross thresholds without thinking about them.
 
 The digital world has thresholds too.
 
-The **digital threshold** is the moment right before you tap, click, share, or post something online. When Jordan's finger is hovering over the share button — but he hasn't pressed yet — he is standing on the digital threshold.
+The **digital threshold** is the moment right before you tap, click, share, or post something online. When your finger is hovering over a share button — but you haven't pressed yet — you are standing on the digital threshold.
 
 The digital threshold is the most powerful spot in the whole digital world. It is the one second when you can still change your mind. After you tap, the message is sent. After you share, the picture is out there. But before you tap, you are still in charge. That one second belongs to you.
 
 #### Diagram: Standing at the Digital Threshold
+
+![Threshold image](./threshold.png)
 
 <details markdown="1">
 <summary>The digital threshold — doorway concept illustration</summary>
@@ -190,7 +187,7 @@ A small, glowing strip on the threshold itself is highlighted in soft yellow. Th
 
 Standing on the threshold for an extra second is the single most important habit a digital citizen can build. We have a name for what to do during that second.
 
-**Pause, think, act** is a three-step habit for making good choices online. Before you tap a link, you pause (stop your finger), think (ask yourself a few quick questions), and then act (make your choice on purpose).
+**Pause, think, act** ⏸️ is a three-step habit for making good choices online. Before you tap a link, you pause (stop your finger), think (ask yourself a few quick questions), and then act (make your choice on purpose).
 
 Here is what each step looks like.
 
@@ -298,24 +295,15 @@ The background is a soft sunny landscape with rolling green hills, a few maple t
     <img src="../../img/mascot/warning.png" class="mascot-admonition-img" alt="Maka the River Otter warning">
     Just because something is *legal* doesn't mean it is *kind*. And just because something is *kind* doesn't always mean it is *safe*. Check all four — etiquette, ethics, the law, and safety — before you tap. Slow is smooth, and smooth is safe.
 
-## Jordan's Choice, One More Time
+## You Can Do This Too
 
-Let's go back to the playground.
+Being a digital citizen does not mean being perfect. It does not mean never feeling the pull to tap, click, or share. It means pausing for one second and choosing on purpose.
 
-Jordan's finger is still hovering over the share button. The little knot in his stomach has not gone away. He remembers something his teacher said last week: *pause, think, act*.
+You can do that, every single day.
 
-He pauses. He takes one slow breath.
+If you haven't read Jordan's story yet, now is a perfect time. It puts every idea from this chapter into one short scene.
 
-He thinks. *Is this kind?* No — the kid in the video looks embarrassed. *Is this safe for the kid in the video?* Probably not. People might keep laughing all week. *Would I want my own bad moment shared with everyone?* No way.
-
-Then he acts. He hands the tablet back. "I'm good," he says. "I'm not gonna share that one." He walks across the playground to find his teacher, because the kid in the video should know what is happening. Telling a trusted adult is part of the job.
-
-That is what a digital citizen looks like. Not somebody perfect. Not somebody who never feels the pull to tap. Just somebody who pauses for one second and chooses on purpose.
-
-You can do that too. Every single day.
-
-!!! note "Read the Whole Story"
-    Want to see Jordan's full choice from start to finish? The mini graphic novel [Jordan's One-Second Choice](../../stories/jordan-one-second-choice/index.md) shows every beat — the invitation, the knot in his stomach, the pause, the three questions, and the walk to his teacher.
+[Read Jordan's Story](../../stories/jordan-one-second-choice/index.md){ .md-button .md-button--primary }
 
 ## Quick Recap
 

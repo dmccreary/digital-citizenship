@@ -70,7 +70,19 @@ A **tablet** is a flat digital device with a touch screen. It is bigger than a p
 
 A **smartphone** is a small digital device you can hold in one hand. It can make phone calls, but it can also do many of the same things a laptop or tablet can do. You can take pictures with it, play games on it, or open a website.
 
-These three are all digital devices. So is a smart watch. So is a video-game console. Even some new TVs are digital devices.
+These three are not the only digital devices in your life. A smart watch is a digital device. So is a video-game console. So is a smart TV, an e-reader, and even some kinds of cameras. There are more digital devices around you than you might think.
+
+### Meet Some Digital Devices
+
+Here is something interesting. Some digital devices quietly collect information about *you* while you use them — things like where you are, what you click, or how fast your heart is beating. Some collect a lot. Some collect only a little. And some, like a regular toaster, don't collect any information at all.
+
+In the interactive picture below, you will see nine different devices. Click on each one to find out whether it is a digital device, whether it collects personal information about you, and what kind.
+
+<iframe src="../../sims/digital-devices-explorer/main.html" height="640px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+[Open the Digital Devices Explorer in a new tab](../../sims/digital-devices-explorer/main.html){target="_blank"}
+
+Did anything surprise you? You will learn a lot more about private and personal information in Chapter 5. For now, the big idea is this: not every device is the same. The more a device knows about you, the more careful you should be about how you use it. **Pause, think, act!**
 
 ### School Devices and Family Devices
 

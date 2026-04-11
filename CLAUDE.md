@@ -376,11 +376,55 @@ A typical chapter for Grade 5 should be:
 Longer than this and Grade 5 students lose focus. Shorter than this and the
 content feels too thin to teach the concept.
 
+### YAML Frontmatter Quoting
+
+Every chapter file (and every story file) starts with a YAML frontmatter
+block. **Always wrap the `title:` and `description:` values in double
+quotes**, even when they look like they don't need it. Chapter titles
+follow the pattern `Chapter N: <Title>`, and that embedded colon will
+silently break mkdocs's frontmatter parser if the value is unquoted —
+the parser fails, and the entire `---` block gets rendered as page
+content at the top of the published chapter.
+
+**Right:**
+
+```yaml
+---
+title: "Chapter 2: What Is a Digital Citizen?"
+description: "Learn what it means to be a citizen of the digital world — not just a user — and meet Maka's central habit: pause, think, act."
+generated_by: claude skill chapter-content-generator
+---
+```
+
+**Wrong (silently breaks rendering):**
+
+```yaml
+---
+title: Chapter 2: What Is a Digital Citizen?
+description: Learn what it means to be a citizen of the digital world — not just a user — and meet Maka's central habit: pause, think, act.
+---
+```
+
+The general rule: any frontmatter value that contains a `:`, `#`, `&`,
+`*`, `?`, `|`, `>`, `!`, `%`, `@`, or backtick must be wrapped in double
+quotes. Titles like "Chapter N: …" are the most common offender, but
+descriptions with colon-adjacent phrases or punctuation also benefit from
+defensive quoting. Leave a blank line between the closing `---` and the
+H1 below it for readability.
+
+### Emoji Use
+
+Use emoji only when they signal a metaphor the chapter teaches. Decorative
+emoji compete with Maka and the bold-and-define pattern — leave them out.
+See `logs/when-to-use-emoji.md` for the full reasoning grounded in Mayer's
+multimedia learning principles.
+
 ### Quick Checklist Before Submitting Chapter Content
 
 Before any chapter file is considered done, verify:
 
 - [ ] File path is in `docs/chapters/` (if not, this style guide does not apply)
+- [ ] YAML frontmatter `title:` and `description:` are wrapped in double quotes
 - [ ] Reading level is grade 4–6 (check with a tool if unsure)
 - [ ] No sentence is longer than ~20 words
 - [ ] No paragraph is longer than 4 sentences
