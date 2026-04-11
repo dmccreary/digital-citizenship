@@ -228,3 +228,99 @@ This list enumerates the 200 concepts that form the learning graph for the *Digi
 198. Knowledge Sharing
 199. Continuous Improvement
 200. Lifelong Learner
+
+## Additional Concepts (Revision 2)
+
+Concepts 201–265 were added in a second pass to broaden coverage. They are appended at the end so that all existing dependency references in `learning-graph.csv` remain stable. They are still grouped by cluster below for readability.
+
+### Foundations of Digital Citizenship (additions)
+
+201. App
+202. Account
+203. Login
+204. Search Engine
+205. URL
+206. Address Bar
+207. Wifi
+208. Public Wifi
+209. Tablet
+210. Laptop
+211. Smartphone
+
+### Media Balance and Wellbeing (additions)
+
+212. Notification
+213. FOMO
+214. Eye Strain
+215. Active Vs Passive Use
+216. App Time Limit
+217. Blue Light
+218. Posture
+219. Doomscrolling
+
+### Privacy and Security (additions)
+
+220. HTTPS
+221. Padlock Icon
+222. Location Sharing
+223. GPS
+224. Screen Lock
+225. Biometric Login
+226. Incognito Mode
+227. Email Privacy
+
+### Digital Footprint and Identity (additions)
+
+228. Screenshot
+229. Photo Tagging
+230. Geotag
+231. Plagiarism
+232. Creative Commons
+233. Personal Brand
+234. College Audience
+
+### Relationships and Communication (additions)
+
+235. Netiquette
+236. All Caps
+237. Read Receipt
+238. Ghosting
+239. Stranger Danger
+
+### Cyberbullying, Digital Drama, and Hate Speech (additions)
+
+240. Trolling
+241. Exclusion
+242. Impersonation
+243. De-escalation
+244. Repair Harm
+245. Apology Online
+
+### Misinformation and News Literacy (additions)
+
+246. Satire
+247. Parody
+248. Out Of Context
+249. Lateral Reading
+250. Headline Vs Article
+251. Algorithm Amplification
+252. Recommendation Feed
+
+### Critical Thinking (additions)
+
+253. Confirmation Bias
+254. Cause Vs Correlation
+255. Counter Argument
+256. Premise
+257. Conclusion
+258. Inference
+259. Generalization
+260. Stereotype
+261. Anecdote Vs Evidence
+
+### Capstone and Synthesis (additions)
+
+262. Peer Teaching
+263. Self Assessment
+264. Goal Setting
+265. Habit Formation

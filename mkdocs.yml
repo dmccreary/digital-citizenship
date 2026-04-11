@@ -13,6 +13,8 @@ nav:
     - Concept Taxonomy: learning-graph/concept-taxonomy.md
     - Quality Metrics: learning-graph/quality-metrics.md
     - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
+    - Design Notes: learning-graph/learning-graph-design-notes.md
+    - Mascot Style Guide: learning-graph/mascot-test.md
   - MicroSims:
     - Learning Graph Viewer: sims/graph-viewer/index.md
   - Prompts:
@@ -23,8 +25,8 @@ nav:
 theme:
   name: material
   palette:
-    primary: 'teal'
-    accent: 'white'
+    primary: 'blue grey'
+    accent: 'amber'
   favicon: img/favicon.png
   include_sidebar: true
   features:

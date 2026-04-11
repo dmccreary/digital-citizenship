@@ -51,4 +51,4 @@ The 200 concepts in the learning graph are organized into nine taxonomy categori
 
 ## Distribution Target
 
-The taxonomy is designed so that no single category exceeds 30% of total concepts. Each module-aligned category contains roughly 22 concepts (~11% each), and the capstone category contains 21 concepts. Detailed counts are reported in [taxonomy-distribution.md](./taxonomy-distribution.md).
+The taxonomy is designed so that no single category exceeds 30% of total concepts. After Revision 2, the 265 concepts are distributed across the nine categories with each category holding between 25 and 33 concepts (9.4%–12.5% of the total). Detailed counts are reported in [taxonomy-distribution.md](./taxonomy-distribution.md).

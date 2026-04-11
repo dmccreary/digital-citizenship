@@ -4,7 +4,7 @@ description: A detailed course description for a Digital Citizenship intelligent
 quality_score: 99
 ---
 
-# Digital Citizenship for Grade 5
+# Digital Citizenship
 
 **Title:** Digital Citizenship: Building Safe, Kind, and Balanced Lives Online
 

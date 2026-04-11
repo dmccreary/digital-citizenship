@@ -1,13 +1,16 @@
 /* ============================================
-   Learning Mascot: Sofia the Owl
-   Pedagogical agent for Theory of Knowledge
+   Learning Mascot: Maka the River Otter
+   Pedagogical agent for Digital Citizenship (Grade 5)
+   Color palette inspired by the Mississippi River
+   at Bdote — the confluence of the Minnesota
+   and Mississippi rivers near ISD 197.
    ============================================ */
 
 :root {
-  --mascot-primary:   #00897b;   /* teal — matches book theme      */
-  --mascot-secondary: #795548;   /* warm brown — owl feathers       */
-  --mascot-bg:        #e0f2f1;   /* light teal background           */
-  --mascot-border:    #00897b;   /* teal border                     */
+  --mascot-primary:   #2e6f8e;   /* deep river blue — Mississippi at the confluence */
+  --mascot-secondary: #6d4c41;   /* warm otter brown — otter fur                    */
+  --mascot-bg:        #e3eef3;   /* soft river mist                                  */
+  --mascot-border:    #4a8aab;   /* medium river blue                                */
   --mascot-size: 90px;
 }
 
@@ -31,7 +34,7 @@
   font-size: inherit;
 }
 
-/* ---- Welcome (chapter openings) — teal ---- */
+/* ---- Welcome (chapter openings) — deep river blue ---- */
 .md-typeset .admonition.mascot-welcome,
 .md-typeset details.mascot-welcome {
   border-color: var(--mascot-primary);
@@ -43,7 +46,7 @@
   color: white;
 }
 
-/* ---- Thinking (key concepts) — warm brown ---- */
+/* ---- Thinking (key concepts) — warm otter brown ---- */
 .md-typeset .admonition.mascot-thinking,
 .md-typeset details.mascot-thinking {
   border-color: var(--mascot-secondary);
@@ -55,63 +58,63 @@
   color: white;
 }
 
-/* ---- Tip (hints) — teal ---- */
+/* ---- Tip (hints) — river-reed green ---- */
 .md-typeset .admonition.mascot-tip,
 .md-typeset details.mascot-tip {
-  border-color: #00897b;
-  background-color: #e0f2f1;
+  border-color: #2e7d57;
+  background-color: #e6f2ea;
 }
 .md-typeset .mascot-tip > .admonition-title,
 .md-typeset .mascot-tip > summary {
-  background-color: #00897b;
+  background-color: #2e7d57;
   color: white;
 }
 
-/* ---- Warning (common mistakes) — red ---- */
+/* ---- Warning (common mistakes) — clay red ---- */
 .md-typeset .admonition.mascot-warning,
 .md-typeset details.mascot-warning {
-  border-color: #c62828;
-  background-color: #ffebee;
+  border-color: #b3502c;
+  background-color: #fbe9e0;
 }
 .md-typeset .mascot-warning > .admonition-title,
 .md-typeset .mascot-warning > summary {
-  background-color: #c62828;
+  background-color: #b3502c;
   color: white;
 }
 
-/* ---- Celebration (achievements) — purple ---- */
+/* ---- Celebration (achievements) — sunset amber ---- */
 .md-typeset .admonition.mascot-celebration,
 .md-typeset details.mascot-celebration {
-  border-color: #6a1b9a;
-  background-color: #f3e5f5;
+  border-color: #c47b1a;
+  background-color: #fdf2dc;
 }
 .md-typeset .mascot-celebration > .admonition-title,
 .md-typeset .mascot-celebration > summary {
-  background-color: #6a1b9a;
+  background-color: #c47b1a;
   color: white;
 }
 
-/* ---- Encourage (difficult content) — blue ---- */
+/* ---- Encourage (difficult content) — light river blue ---- */
 .md-typeset .admonition.mascot-encourage,
 .md-typeset details.mascot-encourage {
-  border-color: #0277bd;
-  background-color: #e1f5fe;
+  border-color: #4a8aab;
+  background-color: #e8f1f6;
 }
 .md-typeset .mascot-encourage > .admonition-title,
 .md-typeset .mascot-encourage > summary {
-  background-color: #0277bd;
+  background-color: #4a8aab;
   color: white;
 }
 
-/* ---- Neutral (general purpose) — slate gray ---- */
+/* ---- Neutral (general purpose) — river stone slate ---- */
 .md-typeset .admonition.mascot-neutral,
 .md-typeset details.mascot-neutral {
-  border-color: #546e7a;
-  background-color: #eceff1;
+  border-color: #5b6e76;
+  background-color: #ecf0f2;
 }
 .md-typeset .mascot-neutral > .admonition-title,
 .md-typeset .mascot-neutral > summary {
-  background-color: #546e7a;
+  background-color: #5b6e76;
   color: white;
 }
 

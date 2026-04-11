@@ -31,7 +31,7 @@ The course description uses the 2001 Bloom taxonomy to order learning objectives
 We use generative AI to convert the course description into a [Concept List](./concept-list.md).
 Each concept is in the form of a short Title Case label with most labels under 32 characters long.
 
-The 200 concepts in this textbook are organized into nine clusters: eight subject-area modules
+The 265 concepts in this textbook are organized into nine clusters: eight subject-area modules
 (Foundations, Media Balance & Wellbeing, Privacy & Security, Digital Footprint & Identity,
 Relationships & Communication, Cyberbullying & Digital Drama, Misinformation & News Literacy,
 and Critical Thinking) plus a ninth Capstone & Synthesis cluster.
@@ -51,11 +51,11 @@ graph using an editor built with the vis-network tools.
 This report gives an overall assessment of the quality of the learning graph.
 It uses graph algorithms to look for specific quality patterns in the graph.
 
-- Graph structure validation — all 200 concepts are connected in a single component
+- Graph structure validation — all 265 concepts are connected in a single component
 - DAG validation (0 cycles detected)
 - 3 foundational concepts (Digital Device, Internet, Trusted Adult)
-- 65 terminal nodes (32.5% — within healthy range)
-- Maximum dependency chain length: 16
+- 101 terminal nodes (within healthy range)
+- Maximum dependency chain length: 19
 - Indegree distribution analysis (Critical Thinking is the most depended-upon concept)
 
 [View the Learning Graph Quality Validation](quality-metrics.md)
@@ -68,7 +68,7 @@ create about a dozen categories for our concepts and then place each concept
 into a single primary classifier.
 
 - 9 categories matching the 8 course modules plus a capstone cluster
-- Balanced — every category contains 21 or 22 concepts (10.5%–12.5% each)
+- Balanced — every category contains 25 to 33 concepts (9.4%–12.5% each)
 - No category exceeds 30%
 - Clear 3-5 letter abbreviations (FOUND, BAL, PRIV, FOOT, REL, CYB, MIS, CRIT, CAP)
 - No MISC category needed — every concept maps cleanly to a course module

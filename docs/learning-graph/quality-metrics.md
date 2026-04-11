@@ -2,12 +2,12 @@
 
 ## Overview
 
-- **Total Concepts**: 200
+- **Total Concepts**: 265
 - **Foundational Concepts** (no prerequisites, other concepts depend on them): 3
-- **Terminal Nodes** (nothing depends on them, but have prerequisites): 65
+- **Terminal Nodes** (nothing depends on them, but have prerequisites): 101
 - **Orphaned Nodes** (completely disconnected, no edges): 0
-- **Concepts with Dependencies**: 197
-- **Average Dependencies per Concept**: 1.71
+- **Concepts with Dependencies**: 262
+- **Average Dependencies per Concept**: 1.74
 
 ## Graph Structure Validation
 
@@ -25,7 +25,7 @@ These concepts have no prerequisites:
 
 ## Dependency Chain Analysis
 
-- **Maximum Dependency Chain Length**: 16
+- **Maximum Dependency Chain Length**: 19
 
 ### Longest Learning Path:
 
@@ -40,17 +40,20 @@ These concepts have no prerequisites:
 9. **Critical Thinking** (ID: 158)
 10. **Curious Mind** (ID: 159)
 11. **Asking Questions** (ID: 160)
-12. **Critical Thinker Toolkit** (ID: 185)
-13. **Mini Lesson** (ID: 187)
-14. **Public Service Message** (ID: 188)
-15. **Buddy Class Sharing** (ID: 190)
-16. **Knowledge Sharing** (ID: 198)
+12. **What Evidence** (ID: 163)
+13. **Evidence** (ID: 165)
+14. **Reason** (ID: 167)
+15. **Premise** (ID: 256)
+16. **Conclusion** (ID: 257)
+17. **Inference** (ID: 258)
+18. **Generalization** (ID: 259)
+19. **Stereotype** (ID: 260)
 
 ## Terminal Nodes Analysis
 
 Terminal nodes are concepts that nothing else depends on but have prerequisites. They represent natural endpoints of learning paths — culminating or specialized concepts.
 
-- **Total Terminal Nodes**: 65 (32.5% of all concepts)
+- **Total Terminal Nodes**: 101 (38.1% of all concepts)
 - **Healthy Range**: 5-40% of total concepts
 
 Concepts at the end of learning paths:
@@ -73,10 +76,10 @@ Concepts at the end of learning paths:
 - **72**: Searchable Post
 - **78**: Avatar
 - **79**: Username Choice
-- **80**: Profile Picture
 - **83**: Post History
+- **101**: Video Chat
 
-*...and 45 more*
+*...and 81 more*
 
 ## Orphaned Nodes Analysis
 
@@ -98,33 +101,33 @@ Top 10 concepts that are prerequisites for the most other concepts:
 
 | Rank | Concept ID | Concept Label | Indegree |
 |------|-----------|---------------|----------|
-| 1 | 158 | Critical Thinking | 13 |
-| 2 | 5 | Online Activity | 11 |
-| 3 | 46 | Private Information | 10 |
-| 4 | 115 | Cyberbullying | 10 |
-| 5 | 92 | Online Friend | 8 |
-| 6 | 4 | Website | 7 |
-| 7 | 14 | Digital Responsibilities | 7 |
-| 8 | 137 | News Story | 7 |
-| 9 | 150 | Fact Check | 7 |
-| 10 | 12 | Digital Citizen | 6 |
+| 1 | 158 | Critical Thinking | 14 |
+| 2 | 5 | Online Activity | 13 |
+| 3 | 46 | Private Information | 12 |
+| 4 | 115 | Cyberbullying | 12 |
+| 5 | 23 | Screen Time | 10 |
+| 6 | 137 | News Story | 10 |
+| 7 | 4 | Website | 9 |
+| 8 | 1 | Digital Device | 8 |
+| 9 | 92 | Online Friend | 8 |
+| 10 | 150 | Fact Check | 8 |
 
 ## Outdegree Distribution
 
 | Dependencies | Number of Concepts |
 |--------------|--------------------|
 | 0 | 3 |
-| 1 | 69 |
-| 2 | 120 |
-| 3 | 6 |
+| 1 | 79 |
+| 2 | 174 |
+| 3 | 7 |
 | 4 | 1 |
 | 5 | 1 |
 
 ## Recommendations
 
-- ✅ **Terminal node percentage** (32.5%): Within healthy range (5-40%)
+- ✅ **Terminal node percentage** (38.1%): Within healthy range (5-40%)
 - ✅ **DAG structure verified**: Graph supports valid learning progressions
-- ℹ️ **Long dependency chains** (16): Ensure students can follow extended learning paths
+- ℹ️ **Long dependency chains** (19): Ensure students can follow extended learning paths
 
 ---
 

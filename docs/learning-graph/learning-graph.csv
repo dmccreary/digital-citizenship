@@ -199,3 +199,68 @@ ConceptID,ConceptLabel,Dependencies,TaxonomyID
 198,Knowledge Sharing,190|187,CAP
 199,Continuous Improvement,179|197,CAP
 200,Lifelong Learner,179|199,CAP
+201,App,1|5,FOUND
+202,Account,5|201,FOUND
+203,Login,202|55,FOUND
+204,Search Engine,2|3,FOUND
+205,URL,4,FOUND
+206,Address Bar,3|205,FOUND
+207,Wifi,2,FOUND
+208,Public Wifi,207,FOUND
+209,Tablet,1,FOUND
+210,Laptop,1,FOUND
+211,Smartphone,1,FOUND
+212,Notification,201|211,BAL
+213,FOMO,212|123,BAL
+214,Eye Strain,23|29,BAL
+215,Active Vs Passive Use,25|26|27,BAL
+216,App Time Limit,201|34,BAL
+217,Blue Light,23|36,BAL
+218,Posture,23|27,BAL
+219,Doomscrolling,23|33,BAL
+220,HTTPS,4|205,PRIV
+221,Padlock Icon,220,PRIV
+222,Location Sharing,46|201,PRIV
+223,GPS,211|222,PRIV
+224,Screen Lock,60|211,PRIV
+225,Biometric Login,224,PRIV
+226,Incognito Mode,3|62,PRIV
+227,Email Privacy,46|55,PRIV
+228,Screenshot,71|73,FOOT
+229,Photo Tagging,80|74,FOOT
+230,Geotag,222|229,FOOT
+231,Plagiarism,87|88,FOOT
+232,Creative Commons,89|90,FOOT
+233,Personal Brand,76|85,FOOT
+234,College Audience,84|85,FOOT
+235,Netiquette,21|111,REL
+236,All Caps,96|110,REL
+237,Read Receipt,100,REL
+238,Ghosting,100|123,REL
+239,Stranger Danger,95|103,REL
+240,Trolling,116|118,CYB
+241,Exclusion,99|115,CYB
+242,Impersonation,77|115,CYB
+243,De-escalation,16|125,CYB
+244,Repair Harm,126|243,CYB
+245,Apology Online,96|244,CYB
+246,Satire,137|140,MIS
+247,Parody,246,MIS
+248,Out Of Context,137|141,MIS
+249,Lateral Reading,150|153,MIS
+250,Headline Vs Article,137|146,MIS
+251,Algorithm Amplification,145|62,MIS
+252,Recommendation Feed,251|64,MIS
+253,Confirmation Bias,158|176,CRIT
+254,Cause Vs Correlation,165|167,CRIT
+255,Counter Argument,166|167,CRIT
+256,Premise,166|167,CRIT
+257,Conclusion,256|167,CRIT
+258,Inference,165|257,CRIT
+259,Generalization,258|169,CRIT
+260,Stereotype,259|172,CRIT
+261,Anecdote Vs Evidence,165|259,CRIT
+262,Peer Teaching,187|190,CAP
+263,Self Assessment,179|197,CAP
+264,Goal Setting,196|263,CAP
+265,Habit Formation,39|264,CAP

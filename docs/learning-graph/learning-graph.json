@@ -12,63 +12,63 @@
   "groups": {
     "FOUND": {
       "classifierName": "Foundations of Digital Citizenship",
-      "color": "Lavender",
+      "color": "PeachPuff",
       "font": {
         "color": "black"
       }
     },
     "BAL": {
       "classifierName": "Media Balance and Wellbeing",
-      "color": "MistyRose",
+      "color": "Thistle",
       "font": {
         "color": "black"
       }
     },
     "PRIV": {
       "classifierName": "Privacy and Security",
-      "color": "PaleTurquoise",
+      "color": "Honeydew",
       "font": {
         "color": "black"
       }
     },
     "FOOT": {
       "classifierName": "Digital Footprint and Identity",
-      "color": "PeachPuff",
+      "color": "MistyRose",
       "font": {
         "color": "black"
       }
     },
     "REL": {
       "classifierName": "Relationships and Communication",
-      "color": "Honeydew",
+      "color": "LavenderBlush",
       "font": {
         "color": "black"
       }
     },
     "CYB": {
       "classifierName": "Cyberbullying and Digital Drama",
-      "color": "Thistle",
+      "color": "LightYellow",
       "font": {
         "color": "black"
       }
     },
     "MIS": {
       "classifierName": "Misinformation and News Literacy",
-      "color": "LavenderBlush",
+      "color": "PaleTurquoise",
       "font": {
         "color": "black"
       }
     },
     "CRIT": {
       "classifierName": "Critical Thinking",
-      "color": "LightYellow",
+      "color": "SteelBlue",
       "font": {
         "color": "black"
       }
     },
     "CAP": {
       "classifierName": "Capstone and Synthesis",
-      "color": "SteelBlue",
+      "color": "Lavender",
       "font": {
         "color": "black"
       }
@@ -1076,6 +1076,331 @@
     {
       "id": 200,
       "label": "Lifelong Learner",
+      "group": "CAP"
+    },
+    {
+      "id": 201,
+      "label": "App",
+      "group": "FOUND"
+    },
+    {
+      "id": 202,
+      "label": "Account",
+      "group": "FOUND"
+    },
+    {
+      "id": 203,
+      "label": "Login",
+      "group": "FOUND"
+    },
+    {
+      "id": 204,
+      "label": "Search Engine",
+      "group": "FOUND"
+    },
+    {
+      "id": 205,
+      "label": "URL",
+      "group": "FOUND"
+    },
+    {
+      "id": 206,
+      "label": "Address Bar",
+      "group": "FOUND"
+    },
+    {
+      "id": 207,
+      "label": "Wifi",
+      "group": "FOUND"
+    },
+    {
+      "id": 208,
+      "label": "Public Wifi",
+      "group": "FOUND"
+    },
+    {
+      "id": 209,
+      "label": "Tablet",
+      "group": "FOUND"
+    },
+    {
+      "id": 210,
+      "label": "Laptop",
+      "group": "FOUND"
+    },
+    {
+      "id": 211,
+      "label": "Smartphone",
+      "group": "FOUND"
+    },
+    {
+      "id": 212,
+      "label": "Notification",
+      "group": "BAL"
+    },
+    {
+      "id": 213,
+      "label": "FOMO",
+      "group": "BAL"
+    },
+    {
+      "id": 214,
+      "label": "Eye Strain",
+      "group": "BAL"
+    },
+    {
+      "id": 215,
+      "label": "Active Vs Passive Use",
+      "group": "BAL"
+    },
+    {
+      "id": 216,
+      "label": "App Time Limit",
+      "group": "BAL"
+    },
+    {
+      "id": 217,
+      "label": "Blue Light",
+      "group": "BAL"
+    },
+    {
+      "id": 218,
+      "label": "Posture",
+      "group": "BAL"
+    },
+    {
+      "id": 219,
+      "label": "Doomscrolling",
+      "group": "BAL"
+    },
+    {
+      "id": 220,
+      "label": "HTTPS",
+      "group": "PRIV"
+    },
+    {
+      "id": 221,
+      "label": "Padlock Icon",
+      "group": "PRIV"
+    },
+    {
+      "id": 222,
+      "label": "Location Sharing",
+      "group": "PRIV"
+    },
+    {
+      "id": 223,
+      "label": "GPS",
+      "group": "PRIV"
+    },
+    {
+      "id": 224,
+      "label": "Screen Lock",
+      "group": "PRIV"
+    },
+    {
+      "id": 225,
+      "label": "Biometric Login",
+      "group": "PRIV"
+    },
+    {
+      "id": 226,
+      "label": "Incognito Mode",
+      "group": "PRIV"
+    },
+    {
+      "id": 227,
+      "label": "Email Privacy",
+      "group": "PRIV"
+    },
+    {
+      "id": 228,
+      "label": "Screenshot",
+      "group": "FOOT"
+    },
+    {
+      "id": 229,
+      "label": "Photo Tagging",
+      "group": "FOOT"
+    },
+    {
+      "id": 230,
+      "label": "Geotag",
+      "group": "FOOT"
+    },
+    {
+      "id": 231,
+      "label": "Plagiarism",
+      "group": "FOOT"
+    },
+    {
+      "id": 232,
+      "label": "Creative Commons",
+      "group": "FOOT"
+    },
+    {
+      "id": 233,
+      "label": "Personal Brand",
+      "group": "FOOT"
+    },
+    {
+      "id": 234,
+      "label": "College Audience",
+      "group": "FOOT"
+    },
+    {
+      "id": 235,
+      "label": "Netiquette",
+      "group": "REL"
+    },
+    {
+      "id": 236,
+      "label": "All Caps",
+      "group": "REL"
+    },
+    {
+      "id": 237,
+      "label": "Read Receipt",
+      "group": "REL"
+    },
+    {
+      "id": 238,
+      "label": "Ghosting",
+      "group": "REL"
+    },
+    {
+      "id": 239,
+      "label": "Stranger Danger",
+      "group": "REL"
+    },
+    {
+      "id": 240,
+      "label": "Trolling",
+      "group": "CYB"
+    },
+    {
+      "id": 241,
+      "label": "Exclusion",
+      "group": "CYB"
+    },
+    {
+      "id": 242,
+      "label": "Impersonation",
+      "group": "CYB"
+    },
+    {
+      "id": 243,
+      "label": "De-escalation",
+      "group": "CYB"
+    },
+    {
+      "id": 244,
+      "label": "Repair Harm",
+      "group": "CYB"
+    },
+    {
+      "id": 245,
+      "label": "Apology Online",
+      "group": "CYB"
+    },
+    {
+      "id": 246,
+      "label": "Satire",
+      "group": "MIS"
+    },
+    {
+      "id": 247,
+      "label": "Parody",
+      "group": "MIS"
+    },
+    {
+      "id": 248,
+      "label": "Out Of Context",
+      "group": "MIS"
+    },
+    {
+      "id": 249,
+      "label": "Lateral Reading",
+      "group": "MIS"
+    },
+    {
+      "id": 250,
+      "label": "Headline Vs Article",
+      "group": "MIS"
+    },
+    {
+      "id": 251,
+      "label": "Algorithm Amplification",
+      "group": "MIS"
+    },
+    {
+      "id": 252,
+      "label": "Recommendation Feed",
+      "group": "MIS"
+    },
+    {
+      "id": 253,
+      "label": "Confirmation Bias",
+      "group": "CRIT"
+    },
+    {
+      "id": 254,
+      "label": "Cause Vs Correlation",
+      "group": "CRIT"
+    },
+    {
+      "id": 255,
+      "label": "Counter Argument",
+      "group": "CRIT"
+    },
+    {
+      "id": 256,
+      "label": "Premise",
+      "group": "CRIT"
+    },
+    {
+      "id": 257,
+      "label": "Conclusion",
+      "group": "CRIT"
+    },
+    {
+      "id": 258,
+      "label": "Inference",
+      "group": "CRIT"
+    },
+    {
+      "id": 259,
+      "label": "Generalization",
+      "group": "CRIT"
+    },
+    {
+      "id": 260,
+      "label": "Stereotype",
+      "group": "CRIT"
+    },
+    {
+      "id": 261,
+      "label": "Anecdote Vs Evidence",
+      "group": "CRIT"
+    },
+    {
+      "id": 262,
+      "label": "Peer Teaching",
+      "group": "CAP"
+    },
+    {
+      "id": 263,
+      "label": "Self Assessment",
+      "group": "CAP"
+    },
+    {
+      "id": 264,
+      "label": "Goal Setting",
+      "group": "CAP"
+    },
+    {
+      "id": 265,
+      "label": "Habit Formation",
       "group": "CAP"
     }
   ],
@@ -2423,6 +2748,490 @@
     {
       "from": 200,
       "to": 199
+    },
+    {
+      "from": 201,
+      "to": 1
+    },
+    {
+      "from": 201,
+      "to": 5
+    },
+    {
+      "from": 202,
+      "to": 5
+    },
+    {
+      "from": 202,
+      "to": 201
+    },
+    {
+      "from": 203,
+      "to": 202
+    },
+    {
+      "from": 203,
+      "to": 55
+    },
+    {
+      "from": 204,
+      "to": 2
+    },
+    {
+      "from": 204,
+      "to": 3
+    },
+    {
+      "from": 205,
+      "to": 4
+    },
+    {
+      "from": 206,
+      "to": 3
+    },
+    {
+      "from": 206,
+      "to": 205
+    },
+    {
+      "from": 207,
+      "to": 2
+    },
+    {
+      "from": 208,
+      "to": 207
+    },
+    {
+      "from": 209,
+      "to": 1
+    },
+    {
+      "from": 210,
+      "to": 1
+    },
+    {
+      "from": 211,
+      "to": 1
+    },
+    {
+      "from": 212,
+      "to": 201
+    },
+    {
+      "from": 212,
+      "to": 211
+    },
+    {
+      "from": 213,
+      "to": 212
+    },
+    {
+      "from": 213,
+      "to": 123
+    },
+    {
+      "from": 214,
+      "to": 23
+    },
+    {
+      "from": 214,
+      "to": 29
+    },
+    {
+      "from": 215,
+      "to": 25
+    },
+    {
+      "from": 215,
+      "to": 26
+    },
+    {
+      "from": 215,
+      "to": 27
+    },
+    {
+      "from": 216,
+      "to": 201
+    },
+    {
+      "from": 216,
+      "to": 34
+    },
+    {
+      "from": 217,
+      "to": 23
+    },
+    {
+      "from": 217,
+      "to": 36
+    },
+    {
+      "from": 218,
+      "to": 23
+    },
+    {
+      "from": 218,
+      "to": 27
+    },
+    {
+      "from": 219,
+      "to": 23
+    },
+    {
+      "from": 219,
+      "to": 33
+    },
+    {
+      "from": 220,
+      "to": 4
+    },
+    {
+      "from": 220,
+      "to": 205
+    },
+    {
+      "from": 221,
+      "to": 220
+    },
+    {
+      "from": 222,
+      "to": 46
+    },
+    {
+      "from": 222,
+      "to": 201
+    },
+    {
+      "from": 223,
+      "to": 211
+    },
+    {
+      "from": 223,
+      "to": 222
+    },
+    {
+      "from": 224,
+      "to": 60
+    },
+    {
+      "from": 224,
+      "to": 211
+    },
+    {
+      "from": 225,
+      "to": 224
+    },
+    {
+      "from": 226,
+      "to": 3
+    },
+    {
+      "from": 226,
+      "to": 62
+    },
+    {
+      "from": 227,
+      "to": 46
+    },
+    {
+      "from": 227,
+      "to": 55
+    },
+    {
+      "from": 228,
+      "to": 71
+    },
+    {
+      "from": 228,
+      "to": 73
+    },
+    {
+      "from": 229,
+      "to": 80
+    },
+    {
+      "from": 229,
+      "to": 74
+    },
+    {
+      "from": 230,
+      "to": 222
+    },
+    {
+      "from": 230,
+      "to": 229
+    },
+    {
+      "from": 231,
+      "to": 87
+    },
+    {
+      "from": 231,
+      "to": 88
+    },
+    {
+      "from": 232,
+      "to": 89
+    },
+    {
+      "from": 232,
+      "to": 90
+    },
+    {
+      "from": 233,
+      "to": 76
+    },
+    {
+      "from": 233,
+      "to": 85
+    },
+    {
+      "from": 234,
+      "to": 84
+    },
+    {
+      "from": 234,
+      "to": 85
+    },
+    {
+      "from": 235,
+      "to": 21
+    },
+    {
+      "from": 235,
+      "to": 111
+    },
+    {
+      "from": 236,
+      "to": 96
+    },
+    {
+      "from": 236,
+      "to": 110
+    },
+    {
+      "from": 237,
+      "to": 100
+    },
+    {
+      "from": 238,
+      "to": 100
+    },
+    {
+      "from": 238,
+      "to": 123
+    },
+    {
+      "from": 239,
+      "to": 95
+    },
+    {
+      "from": 239,
+      "to": 103
+    },
+    {
+      "from": 240,
+      "to": 116
+    },
+    {
+      "from": 240,
+      "to": 118
+    },
+    {
+      "from": 241,
+      "to": 99
+    },
+    {
+      "from": 241,
+      "to": 115
+    },
+    {
+      "from": 242,
+      "to": 77
+    },
+    {
+      "from": 242,
+      "to": 115
+    },
+    {
+      "from": 243,
+      "to": 16
+    },
+    {
+      "from": 243,
+      "to": 125
+    },
+    {
+      "from": 244,
+      "to": 126
+    },
+    {
+      "from": 244,
+      "to": 243
+    },
+    {
+      "from": 245,
+      "to": 96
+    },
+    {
+      "from": 245,
+      "to": 244
+    },
+    {
+      "from": 246,
+      "to": 137
+    },
+    {
+      "from": 246,
+      "to": 140
+    },
+    {
+      "from": 247,
+      "to": 246
+    },
+    {
+      "from": 248,
+      "to": 137
+    },
+    {
+      "from": 248,
+      "to": 141
+    },
+    {
+      "from": 249,
+      "to": 150
+    },
+    {
+      "from": 249,
+      "to": 153
+    },
+    {
+      "from": 250,
+      "to": 137
+    },
+    {
+      "from": 250,
+      "to": 146
+    },
+    {
+      "from": 251,
+      "to": 145
+    },
+    {
+      "from": 251,
+      "to": 62
+    },
+    {
+      "from": 252,
+      "to": 251
+    },
+    {
+      "from": 252,
+      "to": 64
+    },
+    {
+      "from": 253,
+      "to": 158
+    },
+    {
+      "from": 253,
+      "to": 176
+    },
+    {
+      "from": 254,
+      "to": 165
+    },
+    {
+      "from": 254,
+      "to": 167
+    },
+    {
+      "from": 255,
+      "to": 166
+    },
+    {
+      "from": 255,
+      "to": 167
+    },
+    {
+      "from": 256,
+      "to": 166
+    },
+    {
+      "from": 256,
+      "to": 167
+    },
+    {
+      "from": 257,
+      "to": 256
+    },
+    {
+      "from": 257,
+      "to": 167
+    },
+    {
+      "from": 258,
+      "to": 165
+    },
+    {
+      "from": 258,
+      "to": 257
+    },
+    {
+      "from": 259,
+      "to": 258
+    },
+    {
+      "from": 259,
+      "to": 169
+    },
+    {
+      "from": 260,
+      "to": 259
+    },
+    {
+      "from": 260,
+      "to": 172
+    },
+    {
+      "from": 261,
+      "to": 165
+    },
+    {
+      "from": 261,
+      "to": 259
+    },
+    {
+      "from": 262,
+      "to": 187
+    },
+    {
+      "from": 262,
+      "to": 190
+    },
+    {
+      "from": 263,
+      "to": 179
+    },
+    {
+      "from": 263,
+      "to": 197
+    },
+    {
+      "from": 264,
+      "to": 196
+    },
+    {
+      "from": 264,
+      "to": 263
+    },
+    {
+      "from": 265,
+      "to": 39
+    },
+    {
+      "from": 265,
+      "to": 264
     }
   ]
 }
