@@ -6,7 +6,7 @@ description: Ready-to-use prompts for generating consistent images of Maka the R
 # Maka the River Otter — Image Generation Prompts
 
 These prompts produce consistent illustrations of **Maka the River Otter**, the
-learning mascot for the *Digital Citizenship for Grade 5* textbook.
+learning mascot for the *Digital Citizenship* textbook.
 
 Maka is inspired by the river otters that live at **Bdote** — the confluence of
 the Minnesota and Mississippi rivers, near ISD 197 in Minnesota.
@@ -29,7 +29,7 @@ Each prompt is **fully self-contained** — you do not need to copy a separate
 
 **Filename:** `neutral.png`
 
-```
+
 I am about to ask you to generate 7 mascot images for a textbook. 
 Please make them use a consistent style.
 
@@ -49,7 +49,7 @@ Style: modern flat vector cartoon, clean lines, child-friendly, transparent
 background, suitable for embedding in educational content. No text in image.
 
 Please generate a new png image now with a fully transparent background now.
-```
+
 
 ---
 
@@ -57,7 +57,7 @@ Please generate a new png image now with a fully transparent background now.
 
 **Filename:** `welcome.png`
 
-```
+
 Please generate a new welcome pose for Maka the River Otter.
 A modern flat cartoon vector illustration of Maka the River Otter, a friendly
 pedagogical mascot for a Grade 5 Digital Citizenship textbook. Maka has warm
@@ -74,7 +74,7 @@ background, suitable for embedding in educational content. No text in image.
 
 Please generate a new png image now with a fully transparent background now.
 The background MUST be fully transparent.  DO NOT use a white, black or a checkered background.
-```
+
 
 ---
 

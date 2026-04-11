@@ -15,6 +15,7 @@ nav:
     - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
     - Design Notes: learning-graph/learning-graph-design-notes.md
     - Mascot Style Guide: learning-graph/mascot-test.md
+    - Mascot Design Decisions: learning-graph/mascot-design-decisions.md
   - MicroSims:
     - Learning Graph Viewer: sims/graph-viewer/index.md
   - Prompts:
@@ -25,7 +26,7 @@ nav:
 theme:
   name: material
   palette:
-    primary: 'blue grey'
+    primary: 'custom'
     accent: 'amber'
   favicon: img/favicon.png
   include_sidebar: true
