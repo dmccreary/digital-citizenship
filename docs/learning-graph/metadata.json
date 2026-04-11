@@ -1,0 +1,10 @@
+{
+  "title": "Digital Citizenship for Grade 5",
+  "description": "An interactive intelligent textbook for Grade 5 Digital Citizenship, aligned to the ISTE Student Standards 1.2 Digital Citizen indicators (digital identity, safe & ethical behavior, intellectual property, personal data privacy & security). Eight modules covering foundations, media balance, privacy, digital footprint, relationships, cyberbullying, misinformation, and critical thinking, plus a capstone Digital Citizenship Toolkit.",
+  "creator": "Dan McCreary",
+  "date": "2026-04-11",
+  "version": "1.0",
+  "format": "Learning Graph JSON v1.0",
+  "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+  "license": "CC BY-NC-SA 4.0 DEED"
+}

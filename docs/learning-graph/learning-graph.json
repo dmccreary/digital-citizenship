@@ -1,0 +1,2428 @@
+{
+  "metadata": {
+    "title": "Digital Citizenship for Grade 5",
+    "description": "An interactive intelligent textbook for Grade 5 Digital Citizenship, aligned to the ISTE Student Standards 1.2 Digital Citizen indicators (digital identity, safe & ethical behavior, intellectual property, personal data privacy & security). Eight modules covering foundations, media balance, privacy, digital footprint, relationships, cyberbullying, misinformation, and critical thinking, plus a capstone Digital Citizenship Toolkit.",
+    "creator": "Dan McCreary",
+    "date": "2026-04-11",
+    "version": "1.0",
+    "format": "Learning Graph JSON v1.0",
+    "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+    "license": "CC BY-NC-SA 4.0 DEED"
+  },
+  "groups": {
+    "FOUND": {
+      "classifierName": "Foundations of Digital Citizenship",
+      "color": "Lavender",
+      "font": {
+        "color": "black"
+      }
+    },
+    "BAL": {
+      "classifierName": "Media Balance and Wellbeing",
+      "color": "MistyRose",
+      "font": {
+        "color": "black"
+      }
+    },
+    "PRIV": {
+      "classifierName": "Privacy and Security",
+      "color": "PaleTurquoise",
+      "font": {
+        "color": "black"
+      }
+    },
+    "FOOT": {
+      "classifierName": "Digital Footprint and Identity",
+      "color": "PeachPuff",
+      "font": {
+        "color": "black"
+      }
+    },
+    "REL": {
+      "classifierName": "Relationships and Communication",
+      "color": "Honeydew",
+      "font": {
+        "color": "black"
+      }
+    },
+    "CYB": {
+      "classifierName": "Cyberbullying and Digital Drama",
+      "color": "Thistle",
+      "font": {
+        "color": "black"
+      }
+    },
+    "MIS": {
+      "classifierName": "Misinformation and News Literacy",
+      "color": "LavenderBlush",
+      "font": {
+        "color": "black"
+      }
+    },
+    "CRIT": {
+      "classifierName": "Critical Thinking",
+      "color": "LightYellow",
+      "font": {
+        "color": "black"
+      }
+    },
+    "CAP": {
+      "classifierName": "Capstone and Synthesis",
+      "color": "SteelBlue",
+      "font": {
+        "color": "black"
+      }
+    }
+  },
+  "nodes": [
+    {
+      "id": 1,
+      "label": "Digital Device",
+      "group": "FOUND",
+      "shape": "box"
+    },
+    {
+      "id": 2,
+      "label": "Internet",
+      "group": "FOUND",
+      "shape": "box"
+    },
+    {
+      "id": 3,
+      "label": "Web Browser",
+      "group": "FOUND"
+    },
+    {
+      "id": 4,
+      "label": "Website",
+      "group": "FOUND"
+    },
+    {
+      "id": 5,
+      "label": "Online Activity",
+      "group": "FOUND"
+    },
+    {
+      "id": 6,
+      "label": "Online Community",
+      "group": "FOUND"
+    },
+    {
+      "id": 7,
+      "label": "Digital World",
+      "group": "FOUND"
+    },
+    {
+      "id": 8,
+      "label": "Trusted Adult",
+      "group": "FOUND",
+      "shape": "box"
+    },
+    {
+      "id": 9,
+      "label": "School Device",
+      "group": "FOUND"
+    },
+    {
+      "id": 10,
+      "label": "Family Device",
+      "group": "FOUND"
+    },
+    {
+      "id": 11,
+      "label": "Digital Citizenship",
+      "group": "FOUND"
+    },
+    {
+      "id": 12,
+      "label": "Digital Citizen",
+      "group": "FOUND"
+    },
+    {
+      "id": 13,
+      "label": "Digital Rights",
+      "group": "FOUND"
+    },
+    {
+      "id": 14,
+      "label": "Digital Responsibilities",
+      "group": "FOUND"
+    },
+    {
+      "id": 15,
+      "label": "Digital Opportunities",
+      "group": "FOUND"
+    },
+    {
+      "id": 16,
+      "label": "Pause Think Act",
+      "group": "FOUND"
+    },
+    {
+      "id": 17,
+      "label": "Safe Online Behavior",
+      "group": "FOUND"
+    },
+    {
+      "id": 18,
+      "label": "Legal Online Behavior",
+      "group": "FOUND"
+    },
+    {
+      "id": 19,
+      "label": "Ethical Online Behavior",
+      "group": "FOUND"
+    },
+    {
+      "id": 20,
+      "label": "ISTE Standards",
+      "group": "FOUND"
+    },
+    {
+      "id": 21,
+      "label": "Digital Etiquette",
+      "group": "FOUND"
+    },
+    {
+      "id": 22,
+      "label": "Digital Threshold",
+      "group": "FOUND"
+    },
+    {
+      "id": 23,
+      "label": "Screen Time",
+      "group": "BAL"
+    },
+    {
+      "id": 24,
+      "label": "Media Balance",
+      "group": "BAL"
+    },
+    {
+      "id": 25,
+      "label": "Heart Activity",
+      "group": "BAL"
+    },
+    {
+      "id": 26,
+      "label": "Brain Activity",
+      "group": "BAL"
+    },
+    {
+      "id": 27,
+      "label": "Body Activity",
+      "group": "BAL"
+    },
+    {
+      "id": 28,
+      "label": "Activity Sorting",
+      "group": "BAL"
+    },
+    {
+      "id": 29,
+      "label": "Tired Eyes",
+      "group": "BAL"
+    },
+    {
+      "id": 30,
+      "label": "Grumpy Mood",
+      "group": "BAL"
+    },
+    {
+      "id": 31,
+      "label": "Skipped Meal",
+      "group": "BAL"
+    },
+    {
+      "id": 32,
+      "label": "Skipped Play",
+      "group": "BAL"
+    },
+    {
+      "id": 33,
+      "label": "Media Imbalance",
+      "group": "BAL"
+    },
+    {
+      "id": 34,
+      "label": "Screen Break",
+      "group": "BAL"
+    },
+    {
+      "id": 35,
+      "label": "Outdoor Time",
+      "group": "BAL"
+    },
+    {
+      "id": 36,
+      "label": "Sleep Habits",
+      "group": "BAL"
+    },
+    {
+      "id": 37,
+      "label": "Healthy Habits",
+      "group": "BAL"
+    },
+    {
+      "id": 38,
+      "label": "Mindful Use",
+      "group": "BAL"
+    },
+    {
+      "id": 39,
+      "label": "Digital Habit Tracker",
+      "group": "BAL"
+    },
+    {
+      "id": 40,
+      "label": "Daily Tech Log",
+      "group": "BAL"
+    },
+    {
+      "id": 41,
+      "label": "Offline Activity",
+      "group": "BAL"
+    },
+    {
+      "id": 42,
+      "label": "Family Media Plan",
+      "group": "BAL"
+    },
+    {
+      "id": 43,
+      "label": "Tech Free Zone",
+      "group": "BAL"
+    },
+    {
+      "id": 44,
+      "label": "Wellbeing Check",
+      "group": "BAL"
+    },
+    {
+      "id": 45,
+      "label": "Personal Information",
+      "group": "PRIV"
+    },
+    {
+      "id": 46,
+      "label": "Private Information",
+      "group": "PRIV"
+    },
+    {
+      "id": 47,
+      "label": "Full Name",
+      "group": "PRIV"
+    },
+    {
+      "id": 48,
+      "label": "Home Address",
+      "group": "PRIV"
+    },
+    {
+      "id": 49,
+      "label": "School Name",
+      "group": "PRIV"
+    },
+    {
+      "id": 50,
+      "label": "Birthday",
+      "group": "PRIV"
+    },
+    {
+      "id": 51,
+      "label": "Phone Number",
+      "group": "PRIV"
+    },
+    {
+      "id": 52,
+      "label": "Favorite Color",
+      "group": "PRIV"
+    },
+    {
+      "id": 53,
+      "label": "Hobby Information",
+      "group": "PRIV"
+    },
+    {
+      "id": 54,
+      "label": "Identifying Information",
+      "group": "PRIV"
+    },
+    {
+      "id": 55,
+      "label": "Password",
+      "group": "PRIV"
+    },
+    {
+      "id": 56,
+      "label": "Strong Password",
+      "group": "PRIV"
+    },
+    {
+      "id": 57,
+      "label": "Passphrase",
+      "group": "PRIV"
+    },
+    {
+      "id": 58,
+      "label": "Password Sharing",
+      "group": "PRIV"
+    },
+    {
+      "id": 59,
+      "label": "Sign Out Habit",
+      "group": "PRIV"
+    },
+    {
+      "id": 60,
+      "label": "Account Security",
+      "group": "PRIV"
+    },
+    {
+      "id": 61,
+      "label": "Two Factor Authentication",
+      "group": "PRIV"
+    },
+    {
+      "id": 62,
+      "label": "Data Tracking",
+      "group": "PRIV"
+    },
+    {
+      "id": 63,
+      "label": "Cookies",
+      "group": "PRIV"
+    },
+    {
+      "id": 64,
+      "label": "Targeted Ad",
+      "group": "PRIV"
+    },
+    {
+      "id": 65,
+      "label": "Clickbait",
+      "group": "PRIV"
+    },
+    {
+      "id": 66,
+      "label": "Online Scam",
+      "group": "PRIV"
+    },
+    {
+      "id": 67,
+      "label": "Phishing Basics",
+      "group": "PRIV"
+    },
+    {
+      "id": 68,
+      "label": "Sign Up Form",
+      "group": "PRIV"
+    },
+    {
+      "id": 69,
+      "label": "App Permission",
+      "group": "PRIV"
+    },
+    {
+      "id": 70,
+      "label": "Digital Footprint",
+      "group": "FOOT"
+    },
+    {
+      "id": 71,
+      "label": "Permanent Post",
+      "group": "FOOT"
+    },
+    {
+      "id": 72,
+      "label": "Searchable Post",
+      "group": "FOOT"
+    },
+    {
+      "id": 73,
+      "label": "Copyable Content",
+      "group": "FOOT"
+    },
+    {
+      "id": 74,
+      "label": "Shareable Content",
+      "group": "FOOT"
+    },
+    {
+      "id": 75,
+      "label": "Digital Trail",
+      "group": "FOOT"
+    },
+    {
+      "id": 76,
+      "label": "Online Reputation",
+      "group": "FOOT"
+    },
+    {
+      "id": 77,
+      "label": "Digital Identity",
+      "group": "FOOT"
+    },
+    {
+      "id": 78,
+      "label": "Avatar",
+      "group": "FOOT"
+    },
+    {
+      "id": 79,
+      "label": "Username Choice",
+      "group": "FOOT"
+    },
+    {
+      "id": 80,
+      "label": "Profile Picture",
+      "group": "FOOT"
+    },
+    {
+      "id": 81,
+      "label": "Public Post",
+      "group": "FOOT"
+    },
+    {
+      "id": 82,
+      "label": "Private Post",
+      "group": "FOOT"
+    },
+    {
+      "id": 83,
+      "label": "Post History",
+      "group": "FOOT"
+    },
+    {
+      "id": 84,
+      "label": "Future Audience",
+      "group": "FOOT"
+    },
+    {
+      "id": 85,
+      "label": "Positive Footprint",
+      "group": "FOOT"
+    },
+    {
+      "id": 86,
+      "label": "Intellectual Property",
+      "group": "FOOT"
+    },
+    {
+      "id": 87,
+      "label": "Giving Credit",
+      "group": "FOOT"
+    },
+    {
+      "id": 88,
+      "label": "Citing Source",
+      "group": "FOOT"
+    },
+    {
+      "id": 89,
+      "label": "Copyright Basics",
+      "group": "FOOT"
+    },
+    {
+      "id": 90,
+      "label": "Creative Work",
+      "group": "FOOT"
+    },
+    {
+      "id": 91,
+      "label": "Footprint Audit",
+      "group": "FOOT"
+    },
+    {
+      "id": 92,
+      "label": "Online Friend",
+      "group": "REL"
+    },
+    {
+      "id": 93,
+      "label": "In Person Friend",
+      "group": "REL"
+    },
+    {
+      "id": 94,
+      "label": "Online Only Friend",
+      "group": "REL"
+    },
+    {
+      "id": 95,
+      "label": "Stranger Online",
+      "group": "REL"
+    },
+    {
+      "id": 96,
+      "label": "Tone In Text",
+      "group": "REL"
+    },
+    {
+      "id": 97,
+      "label": "Emoji Meaning",
+      "group": "REL"
+    },
+    {
+      "id": 98,
+      "label": "Text Misunderstanding",
+      "group": "REL"
+    },
+    {
+      "id": 99,
+      "label": "Group Chat",
+      "group": "REL"
+    },
+    {
+      "id": 100,
+      "label": "Direct Message",
+      "group": "REL"
+    },
+    {
+      "id": 101,
+      "label": "Video Chat",
+      "group": "REL"
+    },
+    {
+      "id": 102,
+      "label": "Voice Chat",
+      "group": "REL"
+    },
+    {
+      "id": 103,
+      "label": "Safe Talk Rule",
+      "group": "REL"
+    },
+    {
+      "id": 104,
+      "label": "Warning Sign",
+      "group": "REL"
+    },
+    {
+      "id": 105,
+      "label": "Stop Conversation",
+      "group": "REL"
+    },
+    {
+      "id": 106,
+      "label": "Tell Adult",
+      "group": "REL"
+    },
+    {
+      "id": 107,
+      "label": "Block Feature",
+      "group": "REL"
+    },
+    {
+      "id": 108,
+      "label": "Report Feature",
+      "group": "REL"
+    },
+    {
+      "id": 109,
+      "label": "Mute Feature",
+      "group": "REL"
+    },
+    {
+      "id": 110,
+      "label": "Polite Reply",
+      "group": "REL"
+    },
+    {
+      "id": 111,
+      "label": "Respectful Tone",
+      "group": "REL"
+    },
+    {
+      "id": 112,
+      "label": "Boundary Setting",
+      "group": "REL"
+    },
+    {
+      "id": 113,
+      "label": "Friend Request",
+      "group": "REL"
+    },
+    {
+      "id": 114,
+      "label": "Online Conflict",
+      "group": "CYB"
+    },
+    {
+      "id": 115,
+      "label": "Cyberbullying",
+      "group": "CYB"
+    },
+    {
+      "id": 116,
+      "label": "Digital Drama",
+      "group": "CYB"
+    },
+    {
+      "id": 117,
+      "label": "Hate Speech",
+      "group": "CYB"
+    },
+    {
+      "id": 118,
+      "label": "Mean Comment",
+      "group": "CYB"
+    },
+    {
+      "id": 119,
+      "label": "Online Target",
+      "group": "CYB"
+    },
+    {
+      "id": 120,
+      "label": "Bystander",
+      "group": "CYB"
+    },
+    {
+      "id": 121,
+      "label": "Upstander",
+      "group": "CYB"
+    },
+    {
+      "id": 122,
+      "label": "Bully Role",
+      "group": "CYB"
+    },
+    {
+      "id": 123,
+      "label": "Emotional Impact",
+      "group": "CYB"
+    },
+    {
+      "id": 124,
+      "label": "Hurt Feelings",
+      "group": "CYB"
+    },
+    {
+      "id": 125,
+      "label": "Anger Online",
+      "group": "CYB"
+    },
+    {
+      "id": 126,
+      "label": "Empathy Online",
+      "group": "CYB"
+    },
+    {
+      "id": 127,
+      "label": "Kind Reply",
+      "group": "CYB"
+    },
+    {
+      "id": 128,
+      "label": "Reporting Bullying",
+      "group": "CYB"
+    },
+    {
+      "id": 129,
+      "label": "Saving Evidence",
+      "group": "CYB"
+    },
+    {
+      "id": 130,
+      "label": "Adult Help",
+      "group": "CYB"
+    },
+    {
+      "id": 131,
+      "label": "Conflict Vs Bullying",
+      "group": "CYB"
+    },
+    {
+      "id": 132,
+      "label": "Repeated Harm",
+      "group": "CYB"
+    },
+    {
+      "id": 133,
+      "label": "Power Imbalance",
+      "group": "CYB"
+    },
+    {
+      "id": 134,
+      "label": "Group Pile On",
+      "group": "CYB"
+    },
+    {
+      "id": 135,
+      "label": "Standing Up Safely",
+      "group": "CYB"
+    },
+    {
+      "id": 136,
+      "label": "Information Source",
+      "group": "MIS"
+    },
+    {
+      "id": 137,
+      "label": "News Story",
+      "group": "MIS"
+    },
+    {
+      "id": 138,
+      "label": "News Literacy",
+      "group": "MIS"
+    },
+    {
+      "id": 139,
+      "label": "Fact",
+      "group": "MIS"
+    },
+    {
+      "id": 140,
+      "label": "Opinion",
+      "group": "MIS"
+    },
+    {
+      "id": 141,
+      "label": "Misinformation",
+      "group": "MIS"
+    },
+    {
+      "id": 142,
+      "label": "Disinformation",
+      "group": "MIS"
+    },
+    {
+      "id": 143,
+      "label": "Rumor",
+      "group": "MIS"
+    },
+    {
+      "id": 144,
+      "label": "Hoax",
+      "group": "MIS"
+    },
+    {
+      "id": 145,
+      "label": "Viral Post",
+      "group": "MIS"
+    },
+    {
+      "id": 146,
+      "label": "Shocking Headline",
+      "group": "MIS"
+    },
+    {
+      "id": 147,
+      "label": "Emotional Hook",
+      "group": "MIS"
+    },
+    {
+      "id": 148,
+      "label": "Urgency Cue",
+      "group": "MIS"
+    },
+    {
+      "id": 149,
+      "label": "Curiosity Gap",
+      "group": "MIS"
+    },
+    {
+      "id": 150,
+      "label": "Fact Check",
+      "group": "MIS"
+    },
+    {
+      "id": 151,
+      "label": "Fact Check Steps",
+      "group": "MIS"
+    },
+    {
+      "id": 152,
+      "label": "Trusted Source",
+      "group": "MIS"
+    },
+    {
+      "id": 153,
+      "label": "Source Comparison",
+      "group": "MIS"
+    },
+    {
+      "id": 154,
+      "label": "Date Check",
+      "group": "MIS"
+    },
+    {
+      "id": 155,
+      "label": "Author Check",
+      "group": "MIS"
+    },
+    {
+      "id": 156,
+      "label": "Edited Image",
+      "group": "MIS"
+    },
+    {
+      "id": 157,
+      "label": "Slow Down Habit",
+      "group": "MIS"
+    },
+    {
+      "id": 158,
+      "label": "Critical Thinking",
+      "group": "CRIT"
+    },
+    {
+      "id": 159,
+      "label": "Curious Mind",
+      "group": "CRIT"
+    },
+    {
+      "id": 160,
+      "label": "Asking Questions",
+      "group": "CRIT"
+    },
+    {
+      "id": 161,
+      "label": "Who Said It",
+      "group": "CRIT"
+    },
+    {
+      "id": 162,
+      "label": "How They Know",
+      "group": "CRIT"
+    },
+    {
+      "id": 163,
+      "label": "What Evidence",
+      "group": "CRIT"
+    },
+    {
+      "id": 164,
+      "label": "What Is Missing",
+      "group": "CRIT"
+    },
+    {
+      "id": 165,
+      "label": "Evidence",
+      "group": "CRIT"
+    },
+    {
+      "id": 166,
+      "label": "Claim",
+      "group": "CRIT"
+    },
+    {
+      "id": 167,
+      "label": "Reason",
+      "group": "CRIT"
+    },
+    {
+      "id": 168,
+      "label": "Logical Reason",
+      "group": "CRIT"
+    },
+    {
+      "id": 169,
+      "label": "Jumping To Conclusion",
+      "group": "CRIT"
+    },
+    {
+      "id": 170,
+      "label": "Confirming Sources",
+      "group": "CRIT"
+    },
+    {
+      "id": 171,
+      "label": "Comparing Versions",
+      "group": "CRIT"
+    },
+    {
+      "id": 172,
+      "label": "Spotting Bias",
+      "group": "CRIT"
+    },
+    {
+      "id": 173,
+      "label": "Checking Feelings",
+      "group": "CRIT"
+    },
+    {
+      "id": 174,
+      "label": "Pause Before Share",
+      "group": "CRIT"
+    },
+    {
+      "id": 175,
+      "label": "Asking For Help",
+      "group": "CRIT"
+    },
+    {
+      "id": 176,
+      "label": "Healthy Doubt",
+      "group": "CRIT"
+    },
+    {
+      "id": 177,
+      "label": "Open Mindedness",
+      "group": "CRIT"
+    },
+    {
+      "id": 178,
+      "label": "Changing Mind",
+      "group": "CRIT"
+    },
+    {
+      "id": 179,
+      "label": "Reflective Thinking",
+      "group": "CRIT"
+    },
+    {
+      "id": 180,
+      "label": "Digital Citizenship Toolkit",
+      "group": "CAP"
+    },
+    {
+      "id": 181,
+      "label": "Personal Pledge",
+      "group": "CAP"
+    },
+    {
+      "id": 182,
+      "label": "Habit Tracker Project",
+      "group": "CAP"
+    },
+    {
+      "id": 183,
+      "label": "Upstander Script",
+      "group": "CAP"
+    },
+    {
+      "id": 184,
+      "label": "Fact Check Card",
+      "group": "CAP"
+    },
+    {
+      "id": 185,
+      "label": "Critical Thinker Toolkit",
+      "group": "CAP"
+    },
+    {
+      "id": 186,
+      "label": "Antibullying Poster",
+      "group": "CAP"
+    },
+    {
+      "id": 187,
+      "label": "Mini Lesson",
+      "group": "CAP"
+    },
+    {
+      "id": 188,
+      "label": "Public Service Message",
+      "group": "CAP"
+    },
+    {
+      "id": 189,
+      "label": "Family Tech Plan",
+      "group": "CAP"
+    },
+    {
+      "id": 190,
+      "label": "Buddy Class Sharing",
+      "group": "CAP"
+    },
+    {
+      "id": 191,
+      "label": "Classroom Pledge",
+      "group": "CAP"
+    },
+    {
+      "id": 192,
+      "label": "Footprint Plan",
+      "group": "CAP"
+    },
+    {
+      "id": 193,
+      "label": "Password Plan",
+      "group": "CAP"
+    },
+    {
+      "id": 194,
+      "label": "Safe Talk Plan",
+      "group": "CAP"
+    },
+    {
+      "id": 195,
+      "label": "Media Balance Plan",
+      "group": "CAP"
+    },
+    {
+      "id": 196,
+      "label": "Screen Time Goal",
+      "group": "CAP"
+    },
+    {
+      "id": 197,
+      "label": "Reflection Journal",
+      "group": "CAP"
+    },
+    {
+      "id": 198,
+      "label": "Knowledge Sharing",
+      "group": "CAP"
+    },
+    {
+      "id": 199,
+      "label": "Continuous Improvement",
+      "group": "CAP"
+    },
+    {
+      "id": 200,
+      "label": "Lifelong Learner",
+      "group": "CAP"
+    }
+  ],
+  "edges": [
+    {
+      "from": 3,
+      "to": 1
+    },
+    {
+      "from": 3,
+      "to": 2
+    },
+    {
+      "from": 4,
+      "to": 2
+    },
+    {
+      "from": 4,
+      "to": 3
+    },
+    {
+      "from": 5,
+      "to": 1
+    },
+    {
+      "from": 5,
+      "to": 2
+    },
+    {
+      "from": 6,
+      "to": 2
+    },
+    {
+      "from": 6,
+      "to": 5
+    },
+    {
+      "from": 7,
+      "to": 2
+    },
+    {
+      "from": 7,
+      "to": 6
+    },
+    {
+      "from": 9,
+      "to": 1
+    },
+    {
+      "from": 10,
+      "to": 1
+    },
+    {
+      "from": 11,
+      "to": 6
+    },
+    {
+      "from": 11,
+      "to": 7
+    },
+    {
+      "from": 12,
+      "to": 11
+    },
+    {
+      "from": 13,
+      "to": 12
+    },
+    {
+      "from": 14,
+      "to": 12
+    },
+    {
+      "from": 15,
+      "to": 12
+    },
+    {
+      "from": 16,
+      "to": 12
+    },
+    {
+      "from": 17,
+      "to": 14
+    },
+    {
+      "from": 17,
+      "to": 16
+    },
+    {
+      "from": 18,
+      "to": 14
+    },
+    {
+      "from": 19,
+      "to": 14
+    },
+    {
+      "from": 20,
+      "to": 11
+    },
+    {
+      "from": 21,
+      "to": 6
+    },
+    {
+      "from": 21,
+      "to": 14
+    },
+    {
+      "from": 22,
+      "to": 12
+    },
+    {
+      "from": 22,
+      "to": 5
+    },
+    {
+      "from": 23,
+      "to": 5
+    },
+    {
+      "from": 23,
+      "to": 9
+    },
+    {
+      "from": 24,
+      "to": 23
+    },
+    {
+      "from": 25,
+      "to": 24
+    },
+    {
+      "from": 26,
+      "to": 24
+    },
+    {
+      "from": 27,
+      "to": 24
+    },
+    {
+      "from": 28,
+      "to": 25
+    },
+    {
+      "from": 28,
+      "to": 26
+    },
+    {
+      "from": 28,
+      "to": 27
+    },
+    {
+      "from": 29,
+      "to": 23
+    },
+    {
+      "from": 30,
+      "to": 23
+    },
+    {
+      "from": 31,
+      "to": 23
+    },
+    {
+      "from": 32,
+      "to": 23
+    },
+    {
+      "from": 33,
+      "to": 29
+    },
+    {
+      "from": 33,
+      "to": 30
+    },
+    {
+      "from": 33,
+      "to": 31
+    },
+    {
+      "from": 33,
+      "to": 32
+    },
+    {
+      "from": 34,
+      "to": 33
+    },
+    {
+      "from": 35,
+      "to": 27
+    },
+    {
+      "from": 35,
+      "to": 34
+    },
+    {
+      "from": 36,
+      "to": 33
+    },
+    {
+      "from": 37,
+      "to": 35
+    },
+    {
+      "from": 37,
+      "to": 36
+    },
+    {
+      "from": 38,
+      "to": 24
+    },
+    {
+      "from": 38,
+      "to": 16
+    },
+    {
+      "from": 39,
+      "to": 28
+    },
+    {
+      "from": 39,
+      "to": 34
+    },
+    {
+      "from": 40,
+      "to": 39
+    },
+    {
+      "from": 41,
+      "to": 27
+    },
+    {
+      "from": 41,
+      "to": 34
+    },
+    {
+      "from": 42,
+      "to": 10
+    },
+    {
+      "from": 42,
+      "to": 41
+    },
+    {
+      "from": 43,
+      "to": 41
+    },
+    {
+      "from": 43,
+      "to": 42
+    },
+    {
+      "from": 44,
+      "to": 33
+    },
+    {
+      "from": 44,
+      "to": 37
+    },
+    {
+      "from": 45,
+      "to": 5
+    },
+    {
+      "from": 46,
+      "to": 45
+    },
+    {
+      "from": 47,
+      "to": 46
+    },
+    {
+      "from": 48,
+      "to": 46
+    },
+    {
+      "from": 49,
+      "to": 46
+    },
+    {
+      "from": 50,
+      "to": 46
+    },
+    {
+      "from": 51,
+      "to": 46
+    },
+    {
+      "from": 52,
+      "to": 45
+    },
+    {
+      "from": 53,
+      "to": 45
+    },
+    {
+      "from": 54,
+      "to": 47
+    },
+    {
+      "from": 54,
+      "to": 48
+    },
+    {
+      "from": 54,
+      "to": 49
+    },
+    {
+      "from": 54,
+      "to": 50
+    },
+    {
+      "from": 54,
+      "to": 51
+    },
+    {
+      "from": 55,
+      "to": 4
+    },
+    {
+      "from": 56,
+      "to": 55
+    },
+    {
+      "from": 57,
+      "to": 56
+    },
+    {
+      "from": 58,
+      "to": 55
+    },
+    {
+      "from": 58,
+      "to": 14
+    },
+    {
+      "from": 59,
+      "to": 55
+    },
+    {
+      "from": 59,
+      "to": 17
+    },
+    {
+      "from": 60,
+      "to": 56
+    },
+    {
+      "from": 60,
+      "to": 59
+    },
+    {
+      "from": 61,
+      "to": 60
+    },
+    {
+      "from": 62,
+      "to": 5
+    },
+    {
+      "from": 62,
+      "to": 46
+    },
+    {
+      "from": 63,
+      "to": 4
+    },
+    {
+      "from": 63,
+      "to": 62
+    },
+    {
+      "from": 64,
+      "to": 62
+    },
+    {
+      "from": 64,
+      "to": 63
+    },
+    {
+      "from": 65,
+      "to": 4
+    },
+    {
+      "from": 65,
+      "to": 64
+    },
+    {
+      "from": 66,
+      "to": 65
+    },
+    {
+      "from": 66,
+      "to": 18
+    },
+    {
+      "from": 67,
+      "to": 66
+    },
+    {
+      "from": 67,
+      "to": 55
+    },
+    {
+      "from": 68,
+      "to": 4
+    },
+    {
+      "from": 68,
+      "to": 46
+    },
+    {
+      "from": 68,
+      "to": 45
+    },
+    {
+      "from": 69,
+      "to": 5
+    },
+    {
+      "from": 69,
+      "to": 62
+    },
+    {
+      "from": 70,
+      "to": 5
+    },
+    {
+      "from": 70,
+      "to": 22
+    },
+    {
+      "from": 71,
+      "to": 70
+    },
+    {
+      "from": 72,
+      "to": 70
+    },
+    {
+      "from": 72,
+      "to": 4
+    },
+    {
+      "from": 73,
+      "to": 70
+    },
+    {
+      "from": 74,
+      "to": 70
+    },
+    {
+      "from": 75,
+      "to": 70
+    },
+    {
+      "from": 75,
+      "to": 71
+    },
+    {
+      "from": 76,
+      "to": 75
+    },
+    {
+      "from": 77,
+      "to": 75
+    },
+    {
+      "from": 77,
+      "to": 46
+    },
+    {
+      "from": 78,
+      "to": 77
+    },
+    {
+      "from": 79,
+      "to": 77
+    },
+    {
+      "from": 80,
+      "to": 77
+    },
+    {
+      "from": 80,
+      "to": 46
+    },
+    {
+      "from": 81,
+      "to": 71
+    },
+    {
+      "from": 81,
+      "to": 74
+    },
+    {
+      "from": 82,
+      "to": 81
+    },
+    {
+      "from": 82,
+      "to": 46
+    },
+    {
+      "from": 83,
+      "to": 71
+    },
+    {
+      "from": 83,
+      "to": 75
+    },
+    {
+      "from": 84,
+      "to": 71
+    },
+    {
+      "from": 84,
+      "to": 76
+    },
+    {
+      "from": 85,
+      "to": 76
+    },
+    {
+      "from": 85,
+      "to": 84
+    },
+    {
+      "from": 86,
+      "to": 19
+    },
+    {
+      "from": 86,
+      "to": 73
+    },
+    {
+      "from": 87,
+      "to": 86
+    },
+    {
+      "from": 87,
+      "to": 19
+    },
+    {
+      "from": 88,
+      "to": 87
+    },
+    {
+      "from": 89,
+      "to": 86
+    },
+    {
+      "from": 90,
+      "to": 89
+    },
+    {
+      "from": 91,
+      "to": 75
+    },
+    {
+      "from": 91,
+      "to": 85
+    },
+    {
+      "from": 92,
+      "to": 6
+    },
+    {
+      "from": 92,
+      "to": 5
+    },
+    {
+      "from": 93,
+      "to": 92
+    },
+    {
+      "from": 94,
+      "to": 92
+    },
+    {
+      "from": 94,
+      "to": 93
+    },
+    {
+      "from": 95,
+      "to": 6
+    },
+    {
+      "from": 95,
+      "to": 94
+    },
+    {
+      "from": 96,
+      "to": 5
+    },
+    {
+      "from": 97,
+      "to": 96
+    },
+    {
+      "from": 98,
+      "to": 96
+    },
+    {
+      "from": 98,
+      "to": 97
+    },
+    {
+      "from": 99,
+      "to": 92
+    },
+    {
+      "from": 100,
+      "to": 92
+    },
+    {
+      "from": 100,
+      "to": 82
+    },
+    {
+      "from": 101,
+      "to": 92
+    },
+    {
+      "from": 101,
+      "to": 5
+    },
+    {
+      "from": 102,
+      "to": 92
+    },
+    {
+      "from": 102,
+      "to": 5
+    },
+    {
+      "from": 103,
+      "to": 8
+    },
+    {
+      "from": 103,
+      "to": 95
+    },
+    {
+      "from": 104,
+      "to": 95
+    },
+    {
+      "from": 104,
+      "to": 103
+    },
+    {
+      "from": 105,
+      "to": 103
+    },
+    {
+      "from": 105,
+      "to": 104
+    },
+    {
+      "from": 106,
+      "to": 8
+    },
+    {
+      "from": 106,
+      "to": 105
+    },
+    {
+      "from": 107,
+      "to": 95
+    },
+    {
+      "from": 108,
+      "to": 107
+    },
+    {
+      "from": 108,
+      "to": 14
+    },
+    {
+      "from": 109,
+      "to": 107
+    },
+    {
+      "from": 110,
+      "to": 96
+    },
+    {
+      "from": 110,
+      "to": 21
+    },
+    {
+      "from": 111,
+      "to": 110
+    },
+    {
+      "from": 111,
+      "to": 21
+    },
+    {
+      "from": 112,
+      "to": 103
+    },
+    {
+      "from": 112,
+      "to": 111
+    },
+    {
+      "from": 113,
+      "to": 92
+    },
+    {
+      "from": 113,
+      "to": 95
+    },
+    {
+      "from": 114,
+      "to": 92
+    },
+    {
+      "from": 114,
+      "to": 98
+    },
+    {
+      "from": 115,
+      "to": 114
+    },
+    {
+      "from": 115,
+      "to": 17
+    },
+    {
+      "from": 116,
+      "to": 114
+    },
+    {
+      "from": 117,
+      "to": 18
+    },
+    {
+      "from": 117,
+      "to": 115
+    },
+    {
+      "from": 118,
+      "to": 116
+    },
+    {
+      "from": 119,
+      "to": 115
+    },
+    {
+      "from": 120,
+      "to": 115
+    },
+    {
+      "from": 121,
+      "to": 120
+    },
+    {
+      "from": 122,
+      "to": 115
+    },
+    {
+      "from": 122,
+      "to": 119
+    },
+    {
+      "from": 123,
+      "to": 115
+    },
+    {
+      "from": 124,
+      "to": 123
+    },
+    {
+      "from": 125,
+      "to": 123
+    },
+    {
+      "from": 125,
+      "to": 114
+    },
+    {
+      "from": 126,
+      "to": 124
+    },
+    {
+      "from": 126,
+      "to": 111
+    },
+    {
+      "from": 127,
+      "to": 110
+    },
+    {
+      "from": 127,
+      "to": 126
+    },
+    {
+      "from": 128,
+      "to": 115
+    },
+    {
+      "from": 128,
+      "to": 108
+    },
+    {
+      "from": 129,
+      "to": 71
+    },
+    {
+      "from": 129,
+      "to": 128
+    },
+    {
+      "from": 130,
+      "to": 8
+    },
+    {
+      "from": 130,
+      "to": 128
+    },
+    {
+      "from": 131,
+      "to": 114
+    },
+    {
+      "from": 131,
+      "to": 115
+    },
+    {
+      "from": 132,
+      "to": 115
+    },
+    {
+      "from": 132,
+      "to": 131
+    },
+    {
+      "from": 133,
+      "to": 115
+    },
+    {
+      "from": 133,
+      "to": 131
+    },
+    {
+      "from": 134,
+      "to": 116
+    },
+    {
+      "from": 134,
+      "to": 118
+    },
+    {
+      "from": 135,
+      "to": 121
+    },
+    {
+      "from": 135,
+      "to": 130
+    },
+    {
+      "from": 136,
+      "to": 4
+    },
+    {
+      "from": 136,
+      "to": 45
+    },
+    {
+      "from": 137,
+      "to": 4
+    },
+    {
+      "from": 137,
+      "to": 136
+    },
+    {
+      "from": 138,
+      "to": 137
+    },
+    {
+      "from": 138,
+      "to": 136
+    },
+    {
+      "from": 139,
+      "to": 137
+    },
+    {
+      "from": 140,
+      "to": 137
+    },
+    {
+      "from": 141,
+      "to": 138
+    },
+    {
+      "from": 141,
+      "to": 139
+    },
+    {
+      "from": 142,
+      "to": 141
+    },
+    {
+      "from": 143,
+      "to": 141
+    },
+    {
+      "from": 144,
+      "to": 142
+    },
+    {
+      "from": 145,
+      "to": 74
+    },
+    {
+      "from": 145,
+      "to": 141
+    },
+    {
+      "from": 146,
+      "to": 65
+    },
+    {
+      "from": 146,
+      "to": 137
+    },
+    {
+      "from": 147,
+      "to": 65
+    },
+    {
+      "from": 147,
+      "to": 123
+    },
+    {
+      "from": 148,
+      "to": 65
+    },
+    {
+      "from": 149,
+      "to": 65
+    },
+    {
+      "from": 150,
+      "to": 138
+    },
+    {
+      "from": 150,
+      "to": 141
+    },
+    {
+      "from": 151,
+      "to": 150
+    },
+    {
+      "from": 152,
+      "to": 136
+    },
+    {
+      "from": 152,
+      "to": 150
+    },
+    {
+      "from": 153,
+      "to": 152
+    },
+    {
+      "from": 153,
+      "to": 150
+    },
+    {
+      "from": 154,
+      "to": 137
+    },
+    {
+      "from": 154,
+      "to": 150
+    },
+    {
+      "from": 155,
+      "to": 137
+    },
+    {
+      "from": 155,
+      "to": 150
+    },
+    {
+      "from": 156,
+      "to": 142
+    },
+    {
+      "from": 156,
+      "to": 145
+    },
+    {
+      "from": 157,
+      "to": 16
+    },
+    {
+      "from": 157,
+      "to": 147
+    },
+    {
+      "from": 157,
+      "to": 148
+    },
+    {
+      "from": 158,
+      "to": 16
+    },
+    {
+      "from": 158,
+      "to": 150
+    },
+    {
+      "from": 159,
+      "to": 158
+    },
+    {
+      "from": 160,
+      "to": 158
+    },
+    {
+      "from": 160,
+      "to": 159
+    },
+    {
+      "from": 161,
+      "to": 160
+    },
+    {
+      "from": 161,
+      "to": 155
+    },
+    {
+      "from": 162,
+      "to": 160
+    },
+    {
+      "from": 162,
+      "to": 155
+    },
+    {
+      "from": 163,
+      "to": 160
+    },
+    {
+      "from": 164,
+      "to": 160
+    },
+    {
+      "from": 165,
+      "to": 163
+    },
+    {
+      "from": 165,
+      "to": 139
+    },
+    {
+      "from": 166,
+      "to": 137
+    },
+    {
+      "from": 166,
+      "to": 139
+    },
+    {
+      "from": 167,
+      "to": 165
+    },
+    {
+      "from": 167,
+      "to": 166
+    },
+    {
+      "from": 168,
+      "to": 167
+    },
+    {
+      "from": 169,
+      "to": 158
+    },
+    {
+      "from": 169,
+      "to": 166
+    },
+    {
+      "from": 170,
+      "to": 153
+    },
+    {
+      "from": 170,
+      "to": 161
+    },
+    {
+      "from": 171,
+      "to": 153
+    },
+    {
+      "from": 172,
+      "to": 158
+    },
+    {
+      "from": 172,
+      "to": 140
+    },
+    {
+      "from": 172,
+      "to": 155
+    },
+    {
+      "from": 173,
+      "to": 158
+    },
+    {
+      "from": 173,
+      "to": 147
+    },
+    {
+      "from": 174,
+      "to": 16
+    },
+    {
+      "from": 174,
+      "to": 157
+    },
+    {
+      "from": 174,
+      "to": 158
+    },
+    {
+      "from": 175,
+      "to": 8
+    },
+    {
+      "from": 175,
+      "to": 158
+    },
+    {
+      "from": 176,
+      "to": 158
+    },
+    {
+      "from": 176,
+      "to": 169
+    },
+    {
+      "from": 177,
+      "to": 158
+    },
+    {
+      "from": 177,
+      "to": 176
+    },
+    {
+      "from": 178,
+      "to": 158
+    },
+    {
+      "from": 178,
+      "to": 176
+    },
+    {
+      "from": 178,
+      "to": 177
+    },
+    {
+      "from": 179,
+      "to": 158
+    },
+    {
+      "from": 179,
+      "to": 177
+    },
+    {
+      "from": 180,
+      "to": 11
+    },
+    {
+      "from": 180,
+      "to": 158
+    },
+    {
+      "from": 181,
+      "to": 12
+    },
+    {
+      "from": 181,
+      "to": 14
+    },
+    {
+      "from": 182,
+      "to": 39
+    },
+    {
+      "from": 182,
+      "to": 44
+    },
+    {
+      "from": 183,
+      "to": 121
+    },
+    {
+      "from": 183,
+      "to": 135
+    },
+    {
+      "from": 184,
+      "to": 150
+    },
+    {
+      "from": 184,
+      "to": 151
+    },
+    {
+      "from": 185,
+      "to": 158
+    },
+    {
+      "from": 185,
+      "to": 160
+    },
+    {
+      "from": 186,
+      "to": 115
+    },
+    {
+      "from": 186,
+      "to": 121
+    },
+    {
+      "from": 187,
+      "to": 184
+    },
+    {
+      "from": 187,
+      "to": 185
+    },
+    {
+      "from": 188,
+      "to": 65
+    },
+    {
+      "from": 188,
+      "to": 187
+    },
+    {
+      "from": 189,
+      "to": 42
+    },
+    {
+      "from": 189,
+      "to": 181
+    },
+    {
+      "from": 190,
+      "to": 187
+    },
+    {
+      "from": 190,
+      "to": 188
+    },
+    {
+      "from": 191,
+      "to": 181
+    },
+    {
+      "from": 191,
+      "to": 11
+    },
+    {
+      "from": 192,
+      "to": 85
+    },
+    {
+      "from": 192,
+      "to": 91
+    },
+    {
+      "from": 193,
+      "to": 56
+    },
+    {
+      "from": 193,
+      "to": 60
+    },
+    {
+      "from": 194,
+      "to": 103
+    },
+    {
+      "from": 194,
+      "to": 106
+    },
+    {
+      "from": 195,
+      "to": 24
+    },
+    {
+      "from": 195,
+      "to": 44
+    },
+    {
+      "from": 196,
+      "to": 23
+    },
+    {
+      "from": 196,
+      "to": 195
+    },
+    {
+      "from": 197,
+      "to": 179
+    },
+    {
+      "from": 197,
+      "to": 181
+    },
+    {
+      "from": 198,
+      "to": 190
+    },
+    {
+      "from": 198,
+      "to": 187
+    },
+    {
+      "from": 199,
+      "to": 179
+    },
+    {
+      "from": 199,
+      "to": 197
+    },
+    {
+      "from": 200,
+      "to": 179
+    },
+    {
+      "from": 200,
+      "to": 199
+    }
+  ]
+}

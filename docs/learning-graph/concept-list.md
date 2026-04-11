@@ -70,7 +70,7 @@ This list enumerates the 200 concepts that form the learning graph for the *Digi
 58. Password Sharing
 59. Sign Out Habit
 60. Account Security
-61. Two Factor Auth
+61. Two Factor Authentication
 62. Data Tracking
 63. Cookies
 64. Targeted Ad
