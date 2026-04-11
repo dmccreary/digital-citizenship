@@ -1,0 +1,1950 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="An interactive intelligent textbook for Digital Citizenship, aligned to the ISTE Student Standards.">
+      
+      
+        <meta name="author" content="Dan McCreary">
+      
+      
+        <link rel="canonical" href="https://dmccreary.github.io/digital-citizenship/learning-graph/learning-graph-design-notes/">
+      
+      
+        <link rel="prev" href="../taxonomy-distribution/">
+      
+      
+        <link rel="next" href="../chapter-design/">
+      
+      
+      <link rel="icon" href="../../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.43">
+    
+    
+      
+        <title>Design Notes - Digital Citizenship</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.0253249f.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../css/extra.css">
+    
+      <link rel="stylesheet" href="../../css/mascot.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#learning-graph-generation-session-log" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Digital Citizenship" class="md-header__button md-logo" aria-label="Digital Citizenship" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Digital Citizenship
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Design Notes
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/dmccreary/digital-citizenship" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Digital Citizenship" class="md-nav__button md-logo" aria-label="Digital Citizenship" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Digital Citizenship
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/dmccreary/digital-citizenship" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../course-description/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Course Description
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../chapters/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Chapters
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Learning Graph
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Learning Graph
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../concept-list/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Concept List
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../concept-taxonomy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Concept Taxonomy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../quality-metrics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quality Metrics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../taxonomy-distribution/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Taxonomy Distribution
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Design Notes
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Design Notes
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-is-a-learning-graph-and-why-does-it-matter" class="md-nav__link">
+    <span class="md-ellipsis">
+      What is a learning graph and why does it matter?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-conversation-in-the-users-own-words" class="md-nav__link">
+    <span class="md-ellipsis">
+      The conversation, in the user's own words
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The conversation, in the user's own words">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#prompt-1-start" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prompt 1 — Start
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prompt-2-a-small-but-important-rename" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prompt 2 — A small but important rename
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prompt-3-the-pivotal-question" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prompt 3 — The pivotal question
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prompt-4-direction" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prompt 4 — Direction
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prompt-5-document-everything" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prompt 5 — Document everything
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-the-graph-was-built-step-by-step" class="md-nav__link">
+    <span class="md-ellipsis">
+      How the graph was built — step by step
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="How the graph was built — step by step">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-0-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 0 — Setup
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-1-course-description-quality-skipped" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1 — Course description quality (skipped)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-first-pass-concept-list-200-concepts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2 — First-pass concept list (200 concepts)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-dependency-graph-csv" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 3 — Dependency graph (CSV)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-4-quality-validation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 4 — Quality validation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-5-taxonomy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 5 — Taxonomy
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-6-metadata-and-json-generation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 6 — Metadata and JSON generation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-7-distribution-report" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 7 — Distribution report
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-tradeoffs-and-why-they-matter-for-teachers" class="md-nav__link">
+    <span class="md-ellipsis">
+      The tradeoffs — and why they matter for teachers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The tradeoffs — and why they matter for teachers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-original-tradeoff-simple-graph-vs-comprehensive-graph" class="md-nav__link">
+    <span class="md-ellipsis">
+      The original tradeoff: simple graph vs. comprehensive graph
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-pivot-prompt-3" class="md-nav__link">
+    <span class="md-ellipsis">
+      The pivot: prompt 3
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-decision-prompt-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      The decision: prompt 4
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-was-deliberately-not-added" class="md-nav__link">
+    <span class="md-ellipsis">
+      What was deliberately not added
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-dependency-design-tradeoff" class="md-nav__link">
+    <span class="md-ellipsis">
+      The dependency design tradeoff
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-cluster-size-tradeoff" class="md-nav__link">
+    <span class="md-ellipsis">
+      The cluster size tradeoff
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#final-graph-statistics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Final graph statistics
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#final-taxonomy-distribution" class="md-nav__link">
+    <span class="md-ellipsis">
+      Final taxonomy distribution
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#implementation-note-for-future-maintainers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Implementation note for future maintainers
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-this-means-for-the-classroom" class="md-nav__link">
+    <span class="md-ellipsis">
+      What this means for the classroom
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#files-produced-or-modified-in-this-session" class="md-nav__link">
+    <span class="md-ellipsis">
+      Files produced or modified in this session
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acknowledgements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acknowledgements
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chapter Design Log
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mascot-test/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mascot Style Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mascot-design-decisions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mascot Design Decisions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../sims/graph-viewer/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    MicroSims
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../prompts/01-seed/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Prompts
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../license/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    License
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contact/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contact
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-is-a-learning-graph-and-why-does-it-matter" class="md-nav__link">
+    <span class="md-ellipsis">
+      What is a learning graph and why does it matter?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-conversation-in-the-users-own-words" class="md-nav__link">
+    <span class="md-ellipsis">
+      The conversation, in the user's own words
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The conversation, in the user's own words">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#prompt-1-start" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prompt 1 — Start
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prompt-2-a-small-but-important-rename" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prompt 2 — A small but important rename
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prompt-3-the-pivotal-question" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prompt 3 — The pivotal question
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prompt-4-direction" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prompt 4 — Direction
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prompt-5-document-everything" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prompt 5 — Document everything
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-the-graph-was-built-step-by-step" class="md-nav__link">
+    <span class="md-ellipsis">
+      How the graph was built — step by step
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="How the graph was built — step by step">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-0-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 0 — Setup
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-1-course-description-quality-skipped" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1 — Course description quality (skipped)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-first-pass-concept-list-200-concepts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2 — First-pass concept list (200 concepts)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-dependency-graph-csv" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 3 — Dependency graph (CSV)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-4-quality-validation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 4 — Quality validation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-5-taxonomy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 5 — Taxonomy
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-6-metadata-and-json-generation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 6 — Metadata and JSON generation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-7-distribution-report" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 7 — Distribution report
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-tradeoffs-and-why-they-matter-for-teachers" class="md-nav__link">
+    <span class="md-ellipsis">
+      The tradeoffs — and why they matter for teachers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The tradeoffs — and why they matter for teachers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-original-tradeoff-simple-graph-vs-comprehensive-graph" class="md-nav__link">
+    <span class="md-ellipsis">
+      The original tradeoff: simple graph vs. comprehensive graph
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-pivot-prompt-3" class="md-nav__link">
+    <span class="md-ellipsis">
+      The pivot: prompt 3
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-decision-prompt-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      The decision: prompt 4
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-was-deliberately-not-added" class="md-nav__link">
+    <span class="md-ellipsis">
+      What was deliberately not added
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-dependency-design-tradeoff" class="md-nav__link">
+    <span class="md-ellipsis">
+      The dependency design tradeoff
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-cluster-size-tradeoff" class="md-nav__link">
+    <span class="md-ellipsis">
+      The cluster size tradeoff
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#final-graph-statistics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Final graph statistics
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#final-taxonomy-distribution" class="md-nav__link">
+    <span class="md-ellipsis">
+      Final taxonomy distribution
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#implementation-note-for-future-maintainers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Implementation note for future maintainers
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-this-means-for-the-classroom" class="md-nav__link">
+    <span class="md-ellipsis">
+      What this means for the classroom
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#files-produced-or-modified-in-this-session" class="md-nav__link">
+    <span class="md-ellipsis">
+      Files produced or modified in this session
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acknowledgements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acknowledgements
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/dmccreary/digital-citizenship/edit/master/docs/learning-graph/learning-graph-design-notes.md" title="Edit this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4zm10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1z"/></svg>
+    </a>
+  
+  
+
+
+<h1 id="learning-graph-generation-session-log">Learning Graph Generation — Session Log</h1>
+<p><strong>Project:</strong> Digital Citizenship Learning Graph Design<br/>
+<strong>Date:</strong> 2026-04-11<br/>
+<strong>Skill:</strong> learning-graph-generator (v0.04)<br/>
+<strong>Final result:</strong> 265 concepts, 457 dependency edges, 9 taxonomy clusters<br/></p>
+<p>This document is intended for the teachers, librarians, and curriculum coordinators who will use the <em>Digital Citizenship</em> intelligent textbook. It explains how the learning graph that powers the textbook's recommended learning paths was created, what choices were made along the way, and — most importantly — the tradeoffs we deliberately weighed when deciding what to include and what to leave out.</p>
+<h2 id="what-is-a-learning-graph-and-why-does-it-matter">What is a learning graph and why does it matter?</h2>
+<p>A <em>learning graph</em> is a structured map of every concept in the course and the prerequisite relationships among them. Each concept is a node; each arrow says "you should understand this before that." The graph is a Directed Acyclic Graph (DAG), which means there are no circular dependencies — the textbook can always recommend a sensible learning order.</p>
+<p>For teachers, the practical value is:</p>
+<ul>
+<li><strong>You can skip without breaking things.</strong> If your students already know what an "online community" is, you can start at module 2 and the graph will still tell you what other earlier ideas they need.</li>
+<li><strong>You can color-code by topic.</strong> Each concept is tagged with one of nine cluster colors so teachers and students can see at a glance which module an idea belongs to.</li>
+<li><strong>You can find the most important concepts quickly.</strong> The graph reports which concepts the most other concepts depend on (the <em>indegree</em> metric). Those are the highest-leverage things to teach well. In this textbook the top three are <em>Critical Thinking</em>, <em>Online Activity</em>, and <em>Private Information</em>.</li>
+<li><strong>You can use it as a checklist.</strong> If a student understands every concept that points into a target concept, they are ready for it.</li>
+</ul>
+<h2 id="the-conversation-in-the-users-own-words">The conversation, in the user's own words</h2>
+<p>Below is the chronological list of every instruction the project author (Dan McCreary) gave during this session. They are quoted verbatim so future maintainers can see exactly what was asked and how the graph evolved.</p>
+<h3 id="prompt-1-start">Prompt 1 — Start</h3>
+<blockquote>
+<p>"run the /learning-graph-generator skill now"</p>
+</blockquote>
+<h3 id="prompt-2-a-small-but-important-rename">Prompt 2 — A small but important rename</h3>
+<blockquote>
+<p>"please add 'Two Factor Authentication' to the concept list and the learning graph"</p>
+</blockquote>
+<p>This came in mid-session, while the first 200 concepts were being created. The original draft had used the abbreviation "Two Factor Auth" because the skill enforces a 32-character limit on labels. The full term ("Two Factor Authentication") is 25 characters, so it fits — and it is much clearer for a Grade 5 reader. Concept 61 was renamed in place rather than added as a duplicate.</p>
+<h3 id="prompt-3-the-pivotal-question">Prompt 3 — The pivotal question</h3>
+<blockquote>
+<p>"I noticed you stopped exactly at 200 concepts. Are there other concepts you considered but did not include?"</p>
+</blockquote>
+<p>This is the question that changed the whole shape of the textbook. See the <em>Tradeoffs</em> section below.</p>
+<h3 id="prompt-4-direction">Prompt 4 — Direction</h3>
+<blockquote>
+<p>"I want you to add ALL of the concepts you considered. I reviewed the list and agree that they all might be relevant and they are important. I would rather have a few extra concepts that the teachers can skip over than missing concepts. I realize you will have to regenerate the learning graph after these concepts are all added. My apologies for the 200 limit. I should have clarified."</p>
+</blockquote>
+<h3 id="prompt-5-document-everything">Prompt 5 — Document everything</h3>
+<blockquote>
+<p>"Wonderful! This is great! I love your reasoning. Please generate a detailed log of this session about the creation of the learning graph to @logs/01-learning-graph-generation.md - include all of my prompts and the tradeoffs that you made about a simple graph vs. not missing important concepts. I think the staff at the schools will appreciate this detailed analysis."</p>
+</blockquote>
+<h2 id="how-the-graph-was-built-step-by-step">How the graph was built — step by step</h2>
+<h3 id="step-0-setup">Step 0 — Setup</h3>
+<p>The learning-graph-generator skill is a 13-step Anthropic Claude Skill. It expects to find a <code>docs/course-description.md</code> file and writes its outputs to a new <code>docs/learning-graph/</code> directory. Helper Python programs (<code>analyze-graph.py</code>, <code>csv-to-json.py</code>, <code>taxonomy-distribution.py</code>) are copied from the skill into that directory so the project is self-contained.</p>
+<h3 id="step-1-course-description-quality-skipped">Step 1 — Course description quality (skipped)</h3>
+<p>The skill begins by scoring the course description against a 100-point rubric covering target audience, prerequisites, topics covered, topics excluded, and learning outcomes at each of the six Bloom's Taxonomy levels (Remember, Understand, Apply, Analyze, Evaluate, Create). If the score is 85 or above, the skill says it is safe to skip this step to save tokens.</p>
+<p>A previous session had already run the <em>course-description-analyzer</em> skill and recorded a score of <strong>99/100</strong> in the front matter of <code>docs/course-description.md</code>. We honored that and proceeded directly to concept generation.</p>
+<h3 id="step-2-first-pass-concept-list-200-concepts">Step 2 — First-pass concept list (200 concepts)</h3>
+<p>The skill recommends "200 concepts is fine for simple books." This was the first design decision and it turned out to be the most important one.</p>
+<p>The 200 concepts were partitioned across nine clusters that mirror the structure of the course:</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Cluster</th>
+<th>Concepts</th>
+<th>ID range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Foundations of Digital Citizenship</td>
+<td>22</td>
+<td>1–22</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Media Balance and Wellbeing</td>
+<td>22</td>
+<td>23–44</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Privacy and Security</td>
+<td>25</td>
+<td>45–69</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Digital Footprint and Identity</td>
+<td>22</td>
+<td>70–91</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Relationships and Communication</td>
+<td>22</td>
+<td>92–113</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Cyberbullying, Digital Drama, and Hate Speech</td>
+<td>22</td>
+<td>114–135</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Misinformation and News Literacy</td>
+<td>22</td>
+<td>136–157</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Critical Thinking</td>
+<td>22</td>
+<td>158–179</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Capstone and Synthesis</td>
+<td>21</td>
+<td>180–200</td>
+</tr>
+</tbody>
+</table>
+<h3 id="step-3-dependency-graph-csv">Step 3 — Dependency graph (CSV)</h3>
+<p>Each concept got a row in <code>learning-graph.csv</code> with four columns: <code>ConceptID</code>, <code>ConceptLabel</code>, <code>Dependencies</code> (pipe-delimited list of prerequisite IDs), and <code>TaxonomyID</code>. Two design rules were applied:</p>
+<ol>
+<li><strong>Foundational concepts have no dependencies.</strong> Three concepts have empty <code>Dependencies</code> fields: <em>Digital Device</em> (1), <em>Internet</em> (2), and <em>Trusted Adult</em> (8). Everything else builds from these.</li>
+<li><strong>Each concept only depends on lower-numbered concepts.</strong> This guarantees the graph is a DAG by construction — no possibility of a cycle. (A cycle would mean "you must learn A before B, and B before A," which is impossible for a learner.)</li>
+</ol>
+<h3 id="step-4-quality-validation">Step 4 — Quality validation</h3>
+<p>The <code>analyze-graph.py</code> script ran every check the skill recommends:</p>
+<ul>
+<li>✅ Valid DAG (0 cycles)</li>
+<li>✅ No self-dependencies</li>
+<li>✅ All 200 concepts connected in a single component</li>
+<li>✅ 0 orphaned (disconnected) nodes</li>
+<li>✅ 65 terminal nodes (32.5% — within the healthy 5–40% range)</li>
+<li>✅ Average 1.71 dependencies per concept</li>
+<li>✅ Longest learning path: 16 concepts</li>
+</ul>
+<h3 id="step-5-taxonomy">Step 5 — Taxonomy</h3>
+<p>The taxonomy file (<code>concept-taxonomy.md</code>) defines the nine cluster categories and gives each a 3-5 letter abbreviation that appears in the CSV: <code>FOUND</code>, <code>BAL</code>, <code>PRIV</code>, <code>FOOT</code>, <code>REL</code>, <code>CYB</code>, <code>MIS</code>, <code>CRIT</code>, <code>CAP</code>. There is no <code>MISC</code> (miscellaneous) bucket — every concept maps cleanly to one of the eight modules or the capstone.</p>
+<p>A companion file, <code>taxonomy-names.json</code>, maps each abbreviation to its human-readable display name. This is critical for the graph viewer — without it, the legend would show cryptic codes like "CYB" instead of "Cyberbullying and Digital Drama."</p>
+<h3 id="step-6-metadata-and-json-generation">Step 6 — Metadata and JSON generation</h3>
+<p>A <code>metadata.json</code> file recorded the textbook title, description, author, date, version, license (CC BY-NC-SA 4.0 DEED), and the URL of the schema. The <code>csv-to-json.py</code> script then combined the CSV, the metadata, and the taxonomy names into a single <code>learning-graph.json</code> file in the vis-network format that the interactive viewer reads.</p>
+<h3 id="step-7-distribution-report">Step 7 — Distribution report</h3>
+<p>The first-pass distribution was extremely balanced — every cluster between 10.5% and 12.5% of total concepts, with no cluster exceeding 30%.</p>
+<h2 id="the-tradeoffs-and-why-they-matter-for-teachers">The tradeoffs — and why they matter for teachers</h2>
+<h3 id="the-original-tradeoff-simple-graph-vs-comprehensive-graph">The original tradeoff: simple graph vs. comprehensive graph</h3>
+<p>The skill's default guidance is "200 concepts is fine for simple books." A 200-concept graph is genuinely easier to:</p>
+<ul>
+<li><strong>Read on screen</strong> — the graph viewer can show all nodes without overwhelming the user</li>
+<li><strong>Generate chapter content for</strong> — every concept becomes a section or sub-section in the textbook</li>
+<li><strong>Maintain over time</strong> — fewer concepts means fewer dependencies to verify when something is renamed</li>
+<li><strong>Estimate cost</strong> — chapter generation is the most expensive step; cost scales with concept count</li>
+</ul>
+<p>So the first pass aimed at exactly 200, distributed roughly evenly across 9 clusters (~22 concepts each). To hit that target, <strong>65 candidate concepts had to be cut</strong>. The cuts were not random — each cut concept was either:</p>
+<ul>
+<li>(a) <strong>Subsumed</strong> by a more general concept already in the list ("Eye Strain" subsumed by "Tired Eyes"), or</li>
+<li>(b) <strong>Borderline age-appropriate</strong> for Grade 5 ("Confirmation Bias", "Cause vs. Correlation"), or</li>
+<li>(c) <strong>Specialized vocabulary</strong> that a general term already covered ("Tablet", "Laptop", "Smartphone" all subsumed by "Digital Device"), or</li>
+<li>(d) <strong>Only relevant to one specific cluster</strong> and thought to be lower-priority than the 22 that made the cut.</li>
+</ul>
+<h3 id="the-pivot-prompt-3">The pivot: prompt 3</h3>
+<p>When the project author asked "Are there other concepts you considered but did not include?", the response was a candid list of all 65 cuts, organized by cluster, with stars on the ones I (the AI) thought were most worth adding. The starred candidates were chosen by asking, for each cut concept: <em>would a fifth-grade teacher in 2026 be surprised if this term were missing?</em></p>
+<p>The most important starred cuts were:</p>
+<ul>
+<li><strong>App</strong> and <strong>Search Engine</strong> (FOUND) — fundamental Grade 5 vocabulary that was hidden inside more general concepts</li>
+<li><strong>Notification</strong> (BAL) — drives most screen-time interruptions a Grade 5 student experiences</li>
+<li><strong>Screenshot</strong> (FOOT) — the single most common reason "things become permanent" for kids</li>
+<li><strong>Plagiarism</strong> (FOOT) — pairs naturally with the existing <em>Giving Credit</em> concept</li>
+<li><strong>Netiquette</strong> (REL) — the umbrella term for the entire Relationships module</li>
+<li><strong>Exclusion</strong> (CYB) — a primary form of Grade 5 cyberbullying ("you can't be in our group chat") that the original list missed</li>
+<li><strong>Satire / Parody</strong> (MIS) — fifth graders genuinely confuse The Onion with real news</li>
+<li><strong>Lateral Reading</strong> (MIS) — Stanford History Education Group's signature kid-friendly fact-check skill</li>
+<li><strong>Confirmation Bias</strong> (CRIT) — the most foundational critical-thinking bias</li>
+<li><strong>Peer Teaching</strong> (CAP) — explicitly mentioned in the course description but missing from the concept list</li>
+</ul>
+<h3 id="the-decision-prompt-4">The decision: prompt 4</h3>
+<p>The project author's response — "I would rather have a few extra concepts that the teachers can skip over than missing concepts" — is the right answer for a textbook intended for actual classroom use. It reflects three insights that are worth recording for future maintainers:</p>
+<ol>
+<li><strong>Teachers are the curators.</strong> The graph is a <em>menu</em>, not a script. A teacher who has 30 instructional days can pick the 30 highest-priority concepts for her classroom. A teacher who has 60 days can pick 60. A graph that is missing a concept forces the teacher to invent it on the fly; a graph that has extras simply gets pruned with no extra effort.</li>
+<li><strong>Coverage is cheap; gaps are expensive.</strong> Adding 65 concepts to the graph at this stage took roughly 5 minutes of token spend. Adding 65 concepts after chapter content has been generated would take <em>hours</em> of token spend because every chapter that mentioned the new concept would need re-generation. Front-loading coverage is a strict win.</li>
+<li><strong>Grade 5 vocabulary is the core deliverable.</strong> The whole point of this textbook is to give 10-, 11-, and 12-year-olds the <em>vocabulary</em> and <em>judgment</em> they need to be safe online. Vocabulary missing from the graph is vocabulary missing from the textbook.</li>
+</ol>
+<h3 id="what-was-deliberately-not-added">What was deliberately <em>not</em> added</h3>
+<p>Even after the expansion to 265 concepts, several candidates were still excluded. The course description's "Topics Not Covered" section was used as the authoritative scope filter:</p>
+<table>
+<thead>
+<tr>
+<th>Excluded topic</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Coding, Python, JavaScript</td>
+<td>Out of scope per course description</td>
+</tr>
+<tr>
+<td>COPPA / DMCA / contract law</td>
+<td>Legal depth too advanced for Grade 5</td>
+</tr>
+<tr>
+<td>Networking, cryptography, malware analysis</td>
+<td>Cybersecurity depth too advanced</td>
+</tr>
+<tr>
+<td>TikTok / Instagram / Snapchat / Discord</td>
+<td>Platform-specific tutorials go out of date</td>
+</tr>
+<tr>
+<td>Online dating, gambling, adult content</td>
+<td>Age-inappropriate</td>
+</tr>
+<tr>
+<td>VPN, parental controls, router config</td>
+<td>Belongs to parents and IT staff</td>
+</tr>
+<tr>
+<td>Deepfakes, generative AI policy</td>
+<td>Saved for a separate middle-school course</td>
+</tr>
+<tr>
+<td>Doxxing, grooming, catfishing (advanced)</td>
+<td>Age-inappropriate or scope-excluded</td>
+</tr>
+</tbody>
+</table>
+<p>Teachers should know that these are <em>deliberate</em> omissions, not oversights. If your district decides one of them is appropriate for your students, you can add it to the local copy of the graph without breaking anything.</p>
+<h3 id="the-dependency-design-tradeoff">The dependency design tradeoff</h3>
+<p>Dependencies are subjective. <em>Cyberbullying</em> could reasonably be said to depend on <em>Online Conflict</em>, on <em>Safe Online Behavior</em>, or on both. The graph leans toward including a <em>small number of strong</em> dependencies rather than trying to capture every possible relationship. The reasoning:</p>
+<ul>
+<li><strong>Too few dependencies</strong> → the graph becomes a flat list and stops recommending learning order</li>
+<li><strong>Too many dependencies</strong> → the graph becomes a wall of arrows, no path is highlighted, and "what should I teach next" is no longer answerable</li>
+<li><strong>A small number of strong dependencies</strong> → the longest learning path is 19 concepts and the average concept has 1.74 prerequisites, both of which are pedagogically reasonable</li>
+</ul>
+<h3 id="the-cluster-size-tradeoff">The cluster size tradeoff</h3>
+<p>After the expansion, the largest cluster (FOUND, with 33 concepts) is 12.5% of the total — well below the 30% ceiling. The smallest cluster (CAP, with 25 concepts) is 9.4%. The spread is 3.1 percentage points, which the distribution report flagged as "excellent balance." A more uneven distribution would have made some modules feel disproportionately heavy in the chapter generation stage.</p>
+<h2 id="final-graph-statistics">Final graph statistics</h2>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>First pass (200 concepts)</th>
+<th>After expansion (265 concepts)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Total concepts</td>
+<td>200</td>
+<td><strong>265</strong></td>
+</tr>
+<tr>
+<td>Total dependency edges</td>
+<td>336</td>
+<td><strong>457</strong></td>
+</tr>
+<tr>
+<td>Foundational concepts</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Connected components</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Cycles</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Self-dependencies</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Orphaned nodes</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Average dependencies per concept</td>
+<td>1.71</td>
+<td>1.74</td>
+</tr>
+<tr>
+<td>Longest learning path</td>
+<td>16 concepts</td>
+<td>19 concepts</td>
+</tr>
+<tr>
+<td>Terminal (leaf) nodes</td>
+<td>65</td>
+<td>101</td>
+</tr>
+<tr>
+<td>Most depended-upon concept</td>
+<td>Critical Thinking (indegree 13)</td>
+<td>Critical Thinking (indegree 13)</td>
+</tr>
+<tr>
+<td>Largest cluster as % of total</td>
+<td>12.5% (PRIV)</td>
+<td>12.5% (FOUND, PRIV)</td>
+</tr>
+<tr>
+<td>Cluster spread (max − min)</td>
+<td>2.0%</td>
+<td>3.1%</td>
+</tr>
+</tbody>
+</table>
+<h2 id="final-taxonomy-distribution">Final taxonomy distribution</h2>
+<table>
+<thead>
+<tr>
+<th>Cluster</th>
+<th>TaxonomyID</th>
+<th>First pass</th>
+<th>Added</th>
+<th>Final</th>
+<th>% of total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Foundations of Digital Citizenship</td>
+<td>FOUND</td>
+<td>22</td>
+<td>+11</td>
+<td><strong>33</strong></td>
+<td>12.5%</td>
+</tr>
+<tr>
+<td>Media Balance and Wellbeing</td>
+<td>BAL</td>
+<td>22</td>
+<td>+8</td>
+<td><strong>30</strong></td>
+<td>11.3%</td>
+</tr>
+<tr>
+<td>Privacy and Security</td>
+<td>PRIV</td>
+<td>25</td>
+<td>+8</td>
+<td><strong>33</strong></td>
+<td>12.5%</td>
+</tr>
+<tr>
+<td>Digital Footprint and Identity</td>
+<td>FOOT</td>
+<td>22</td>
+<td>+7</td>
+<td><strong>29</strong></td>
+<td>10.9%</td>
+</tr>
+<tr>
+<td>Relationships and Communication</td>
+<td>REL</td>
+<td>22</td>
+<td>+5</td>
+<td><strong>27</strong></td>
+<td>10.2%</td>
+</tr>
+<tr>
+<td>Cyberbullying and Digital Drama</td>
+<td>CYB</td>
+<td>22</td>
+<td>+6</td>
+<td><strong>28</strong></td>
+<td>10.6%</td>
+</tr>
+<tr>
+<td>Misinformation and News Literacy</td>
+<td>MIS</td>
+<td>22</td>
+<td>+7</td>
+<td><strong>29</strong></td>
+<td>10.9%</td>
+</tr>
+<tr>
+<td>Critical Thinking</td>
+<td>CRIT</td>
+<td>22</td>
+<td>+9</td>
+<td><strong>31</strong></td>
+<td>11.7%</td>
+</tr>
+<tr>
+<td>Capstone and Synthesis</td>
+<td>CAP</td>
+<td>21</td>
+<td>+4</td>
+<td><strong>25</strong></td>
+<td>9.4%</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td><strong>200</strong></td>
+<td><strong>+65</strong></td>
+<td><strong>265</strong></td>
+<td>100%</td>
+</tr>
+</tbody>
+</table>
+<h2 id="implementation-note-for-future-maintainers">Implementation note for future maintainers</h2>
+<p>When the 65 new concepts were added, they were assigned IDs <strong>201–265 and appended at the end</strong> of <code>learning-graph.csv</code> rather than being interleaved into their cluster ID ranges. This was a deliberate choice:</p>
+<ul>
+<li><strong>Renumbering would have rewritten thousands of dependency references</strong> in the existing 200 rows — every existing dependency points to a numeric ID, and shifting any ID would have required updating every reference to it.</li>
+<li><strong>The graph viewer doesn't care about ID order.</strong> Cluster grouping is driven by the <code>TaxonomyID</code> column (which controls color), not by ID. A user looking at the graph cannot tell that <em>Screenshot</em> is concept 228 and not concept 73.</li>
+<li><strong>The dependency rule still holds.</strong> Every new concept (IDs 201–265) only depends on lower-numbered concepts (1–264), so the DAG property is preserved by construction.</li>
+</ul>
+<p>The <code>concept-list.md</code> file shows the new concepts under an "Additional Concepts (Revision 2)" section organized by cluster, so a human reading the file can still find them in their cluster context.</p>
+<h2 id="what-this-means-for-the-classroom">What this means for the classroom</h2>
+<p>If you are a teacher, librarian, or curriculum coordinator looking at this textbook for the first time:</p>
+<ul>
+<li>The 265 concepts are a <strong>menu</strong>, not a contract. Pick the ones that fit your time, your students, and your district's standards.</li>
+<li>The <strong>eight modules plus capstone</strong> structure is the recommended scope-and-sequence, but the graph supports many alternative orderings. If a colleague wants to start with <em>Critical Thinking</em> and back-fill the foundations, the graph will tell her exactly which earlier concepts her students need.</li>
+<li>The <strong>graph viewer</strong> at <code>sims/graph-viewer/main.html</code> lets you and your students explore the concepts visually, filter by cluster, and search by name. It is a great whiteboard-projector tool for the first day of a unit.</li>
+<li>If a concept is missing that you would teach, <strong>please tell us</strong>. The graph is designed to grow.</li>
+</ul>
+<h2 id="files-produced-or-modified-in-this-session">Files produced or modified in this session</h2>
+<ul>
+<li><code>docs/learning-graph/concept-list.md</code> — full numbered list of all 265 concepts</li>
+<li><code>docs/learning-graph/learning-graph.csv</code> — authoritative CSV with <code>ConceptID</code>, <code>ConceptLabel</code>, <code>Dependencies</code>, <code>TaxonomyID</code></li>
+<li><code>docs/learning-graph/learning-graph.json</code> — vis-network JSON consumed by the interactive graph viewer</li>
+<li><code>docs/learning-graph/concept-taxonomy.md</code> — definitions of the nine taxonomy categories</li>
+<li><code>docs/learning-graph/taxonomy-names.json</code> — abbreviation-to-display-name mapping</li>
+<li><code>docs/learning-graph/metadata.json</code> — Dublin Core-style metadata</li>
+<li><code>docs/learning-graph/quality-metrics.md</code> — auto-generated DAG validation and indegree analysis</li>
+<li><code>docs/learning-graph/taxonomy-distribution.md</code> — auto-generated cluster distribution report</li>
+<li><code>docs/learning-graph/index.md</code> — landing page for the Learning Graph section</li>
+<li><code>docs/sims/graph-viewer/{main.html,script.js,local.css,index.md}</code> — interactive vis-network graph viewer</li>
+<li><code>mkdocs.yml</code> — added Learning Graph and MicroSims navigation entries</li>
+<li><code>logs/learning-graph-generator-0.04-2026-04-11.md</code> — technical session log</li>
+<li><code>logs/01-learning-graph-generation.md</code> — this document</li>
+</ul>
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>The author of the textbook, Dan McCreary, made the call that turned a serviceable 200-concept graph into a comprehensive 265-concept one. His instruction — <em>"I would rather have a few extra concepts that the teachers can skip over than missing concepts"</em> — should be recorded somewhere durable as the operating principle of this textbook. It is recorded here.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../taxonomy-distribution/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Taxonomy Distribution">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Taxonomy Distribution
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../chapter-design/" class="md-footer__link md-footer__link--next" aria-label="Next: Chapter Design Log">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Chapter Design Log
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2026 Dan McCreary. Licensed under <a href="license/">CC BY-NC-SA 4.0</a> for non-commercial use.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["content.code.copy", "navigation.expand", "navigation.path", "navigation.prune", "navigation.indexes", "toc.follow", "navigation.top", "navigation.footer", "content.action.edit"], "search": "../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.83f73b43.min.js"></script>
+      
+        <script src="../../js/extra.js"></script>
+      
+        <script src="../../js/config.js"></script>
+      
+        <script src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,140 @@
+/* ============================================
+   Learning Mascot: Maka the River Otter
+   Pedagogical agent for Digital Citizenship (Grade 5)
+   Color palette inspired by the Mississippi River
+   at Bdote — the confluence of the Minnesota
+   and Mississippi rivers near ISD 197.
+   ============================================ */
+
+:root {
+  --mascot-primary:   #2e6f8e;   /* deep river blue — Mississippi at the confluence */
+  --mascot-secondary: #6d4c41;   /* warm otter brown — otter fur                    */
+  --mascot-bg:        #e3eef3;   /* soft river mist                                  */
+  --mascot-border:    #4a8aab;   /* medium river blue                                */
+  --mascot-size: 90px;
+}
+
+/* ---- Shared base for all mascot admonitions ---- */
+/* Override MkDocs Material's default smaller admonition font size
+   so mascot admonition text matches the body text exactly. */
+.md-typeset .admonition.mascot-welcome,
+.md-typeset .admonition.mascot-thinking,
+.md-typeset .admonition.mascot-tip,
+.md-typeset .admonition.mascot-warning,
+.md-typeset .admonition.mascot-celebration,
+.md-typeset .admonition.mascot-encourage,
+.md-typeset .admonition.mascot-neutral,
+.md-typeset details.mascot-welcome,
+.md-typeset details.mascot-thinking,
+.md-typeset details.mascot-tip,
+.md-typeset details.mascot-warning,
+.md-typeset details.mascot-celebration,
+.md-typeset details.mascot-encourage,
+.md-typeset details.mascot-neutral {
+  font-size: inherit;
+}
+
+/* ---- Welcome (chapter openings) — deep river blue ---- */
+.md-typeset .admonition.mascot-welcome,
+.md-typeset details.mascot-welcome {
+  border-color: var(--mascot-primary);
+  background-color: var(--mascot-bg);
+}
+.md-typeset .mascot-welcome > .admonition-title,
+.md-typeset .mascot-welcome > summary {
+  background-color: var(--mascot-primary);
+  color: white;
+}
+
+/* ---- Thinking (key concepts) — warm otter brown ---- */
+.md-typeset .admonition.mascot-thinking,
+.md-typeset details.mascot-thinking {
+  border-color: var(--mascot-secondary);
+  background-color: #efebe9;
+}
+.md-typeset .mascot-thinking > .admonition-title,
+.md-typeset .mascot-thinking > summary {
+  background-color: var(--mascot-secondary);
+  color: white;
+}
+
+/* ---- Tip (hints) — river-reed green ---- */
+.md-typeset .admonition.mascot-tip,
+.md-typeset details.mascot-tip {
+  border-color: #2e7d57;
+  background-color: #e6f2ea;
+}
+.md-typeset .mascot-tip > .admonition-title,
+.md-typeset .mascot-tip > summary {
+  background-color: #2e7d57;
+  color: white;
+}
+
+/* ---- Warning (common mistakes) — clay red ---- */
+.md-typeset .admonition.mascot-warning,
+.md-typeset details.mascot-warning {
+  border-color: #b3502c;
+  background-color: #fbe9e0;
+}
+.md-typeset .mascot-warning > .admonition-title,
+.md-typeset .mascot-warning > summary {
+  background-color: #b3502c;
+  color: white;
+}
+
+/* ---- Celebration (achievements) — sunset amber ---- */
+.md-typeset .admonition.mascot-celebration,
+.md-typeset details.mascot-celebration {
+  border-color: #c47b1a;
+  background-color: #fdf2dc;
+}
+.md-typeset .mascot-celebration > .admonition-title,
+.md-typeset .mascot-celebration > summary {
+  background-color: #c47b1a;
+  color: white;
+}
+
+/* ---- Encourage (difficult content) — light river blue ---- */
+.md-typeset .admonition.mascot-encourage,
+.md-typeset details.mascot-encourage {
+  border-color: #4a8aab;
+  background-color: #e8f1f6;
+}
+.md-typeset .mascot-encourage > .admonition-title,
+.md-typeset .mascot-encourage > summary {
+  background-color: #4a8aab;
+  color: white;
+}
+
+/* ---- Neutral (general purpose) — river stone slate ---- */
+.md-typeset .admonition.mascot-neutral,
+.md-typeset details.mascot-neutral {
+  border-color: #5b6e76;
+  background-color: #ecf0f2;
+}
+.md-typeset .mascot-neutral > .admonition-title,
+.md-typeset .mascot-neutral > summary {
+  background-color: #5b6e76;
+  color: white;
+}
+
+/* ---- Title: left-align text, remove default MkDocs icon completely ---- */
+.md-typeset [class*="mascot-"] > .admonition-title,
+.md-typeset [class*="mascot-"] > summary {
+  text-align: left;
+  padding-left: 0.8rem;
+}
+.md-typeset [class*="mascot-"] > .admonition-title::before,
+.md-typeset [class*="mascot-"] > summary::before {
+  display: none;
+}
+
+/* ---- Mascot image floated LEFT of admonition body text ---- */
+.mascot-admonition-img {
+  float: left;
+  width: var(--mascot-size);
+  height: var(--mascot-size);
+  /* margin: top right bottom left */
+  margin: 0 .5em 0 0;
+  object-fit: contain;
+}

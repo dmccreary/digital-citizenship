@@ -1,0 +1,1767 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="An interactive intelligent textbook for Digital Citizenship, aligned to the ISTE Student Standards.">
+      
+      
+        <meta name="author" content="Dan McCreary">
+      
+      
+        <link rel="canonical" href="https://dmccreary.github.io/digital-citizenship/learning-graph/mascot-design-decisions/">
+      
+      
+        <link rel="prev" href="../mascot-test/">
+      
+      
+        <link rel="next" href="../../sims/graph-viewer/">
+      
+      
+      <link rel="icon" href="../../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.43">
+    
+    
+      
+        <title>Mascot Design Decisions - Digital Citizenship</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.0253249f.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../css/extra.css">
+    
+      <link rel="stylesheet" href="../../css/mascot.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#mascot-design-session-log" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Digital Citizenship" class="md-header__button md-logo" aria-label="Digital Citizenship" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Digital Citizenship
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Mascot Design Decisions
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/dmccreary/digital-citizenship" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Digital Citizenship" class="md-nav__button md-logo" aria-label="Digital Citizenship" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Digital Citizenship
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/dmccreary/digital-citizenship" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../course-description/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Course Description
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../chapters/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Chapters
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Learning Graph
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Learning Graph
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../concept-list/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Concept List
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../concept-taxonomy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Concept Taxonomy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../quality-metrics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quality Metrics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../taxonomy-distribution/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Taxonomy Distribution
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../learning-graph-design-notes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design Notes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chapter Design Log
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mascot-test/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mascot Style Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Mascot Design Decisions
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Mascot Design Decisions
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#why-a-mascot-at-all" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why a Mascot at All?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-original-prompt" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Original Prompt
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cultural-considerations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cultural Considerations
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cultural Considerations">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#why-not-a-bald-eagle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why Not a Bald Eagle?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-not-a-stylized-native-character" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why Not a Stylized "Native" Character?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-not-avoid-the-cultural-connection-entirely" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why Not Avoid the Cultural Connection Entirely?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-a-river-otter" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why a River Otter?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-name-maka" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Name "Maka"
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The Name "Maka"">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-reasoning" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Reasoning
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-maka-was-chosen-specifically" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why "Maka" Was Chosen Specifically
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-isd-197-should-do-before-publishing" class="md-nav__link">
+    <span class="md-ellipsis">
+      What ISD 197 Should Do Before Publishing
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#visual-design" class="md-nav__link">
+    <span class="md-ellipsis">
+      Visual Design
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-color-palette-conversation" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Color Palette Conversation
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-seven-poses" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Seven Poses
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#restraint-guidelines" class="md-nav__link">
+    <span class="md-ellipsis">
+      Restraint Guidelines
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#whats-in-the-file-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      What's in the File System
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a-note-for-the-next-curriculum-author" class="md-nav__link">
+    <span class="md-ellipsis">
+      A Note for the Next Curriculum Author
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acknowledgments" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acknowledgments
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../sims/graph-viewer/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    MicroSims
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../prompts/01-seed/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Prompts
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../license/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    License
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contact/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contact
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#why-a-mascot-at-all" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why a Mascot at All?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-original-prompt" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Original Prompt
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cultural-considerations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cultural Considerations
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cultural Considerations">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#why-not-a-bald-eagle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why Not a Bald Eagle?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-not-a-stylized-native-character" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why Not a Stylized "Native" Character?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-not-avoid-the-cultural-connection-entirely" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why Not Avoid the Cultural Connection Entirely?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-a-river-otter" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why a River Otter?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-name-maka" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Name "Maka"
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The Name "Maka"">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-reasoning" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Reasoning
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-maka-was-chosen-specifically" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why "Maka" Was Chosen Specifically
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-isd-197-should-do-before-publishing" class="md-nav__link">
+    <span class="md-ellipsis">
+      What ISD 197 Should Do Before Publishing
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#visual-design" class="md-nav__link">
+    <span class="md-ellipsis">
+      Visual Design
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-color-palette-conversation" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Color Palette Conversation
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-seven-poses" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Seven Poses
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#restraint-guidelines" class="md-nav__link">
+    <span class="md-ellipsis">
+      Restraint Guidelines
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#whats-in-the-file-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      What's in the File System
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a-note-for-the-next-curriculum-author" class="md-nav__link">
+    <span class="md-ellipsis">
+      A Note for the Next Curriculum Author
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acknowledgments" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acknowledgments
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/dmccreary/digital-citizenship/edit/master/docs/learning-graph/mascot-design-decisions.md" title="Edit this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4zm10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1z"/></svg>
+    </a>
+  
+  
+
+
+<h1 id="mascot-design-session-log">Mascot Design Session Log</h1>
+<p>This document is a session log of how the learning mascot for the <em>Digital
+Citizenship for Grade 5</em> textbook was designed in collaboration with an AI
+assistant. It is written for <strong>teachers, curriculum designers, and school
+administrators</strong> who want to understand:</p>
+<ol>
+<li>What the mascot is and why it exists</li>
+<li>How the design decisions were made</li>
+<li>What cultural considerations shaped the final character</li>
+<li>How to extend or adapt the mascot for other ISD 197 materials</li>
+</ol>
+<p>The log preserves the prompts the curriculum author gave the AI, the
+reasoning the AI offered in response, and the final decisions that were
+made together.</p>
+<hr />
+<h2 id="why-a-mascot-at-all">Why a Mascot at All?</h2>
+<p>Educational research on the <strong>persona effect</strong> (Lester et al., 1997, and many
+follow-up studies) shows that students engage more deeply with learning
+materials when those materials are guided by a consistent, friendly character.
+A pedagogical agent — a mascot with a name, personality, and visual identity —
+can:</p>
+<ul>
+<li><strong>Lower the affective barrier</strong> to difficult topics by making the page feel
+  warmer and less intimidating</li>
+<li><strong>Signal content type</strong> visually so students know whether they are reading
+  a tip, a warning, or a celebration of progress</li>
+<li><strong>Model the habits being taught</strong> through the character's voice and choices</li>
+<li><strong>Build community identity</strong> around a shared classroom symbol</li>
+</ul>
+<p>For a Grade 5 Digital Citizenship textbook — where students are learning to
+<em>pause, think, and act</em> before they post, share, or click — a mascot is an
+especially good fit. The character can model the very habits the textbook is
+trying to build.</p>
+<hr />
+<h2 id="the-original-prompt">The Original Prompt</h2>
+<p>The curriculum author began the session with this context:</p>
+<blockquote>
+<p>"The school district that requested this textbook was ISD 197 in Minnesota.
+It might be taught in the elementary and middle schools. The school is
+located near the intersection of the Minnesota and Mississippi rivers and
+is in a historically significant location. Please use this background and
+then run the book-installer mascot generation skill."</p>
+</blockquote>
+<p>Three pieces of context were doing important work in this prompt:</p>
+<ol>
+<li><strong>The school district</strong> — ISD 197 (West St. Paul–Mendota Heights–Eagan
+   Area Schools) is a real district with a real student body. The mascot
+   should feel like it belongs to <em>this</em> community, not a generic anywhere.</li>
+<li><strong>The grade range</strong> — Elementary and middle school students (roughly
+   ages 10–13) need a character that is friendly without being babyish, and
+   approachable without being silly.</li>
+<li><strong>The historically significant location</strong> — The confluence of the
+   Minnesota and Mississippi rivers is <strong>Bdote</strong>, a place sacred to the
+   Dakota people, where Fort Snelling, Pike Island, and Mendota all sit.
+   This is one of the most culturally important locations in the entire
+   state of Minnesota.</li>
+</ol>
+<p>The third piece of context immediately raised the question: <strong>how do we
+honor the place without appropriating the culture?</strong></p>
+<hr />
+<h2 id="cultural-considerations">Cultural Considerations</h2>
+<p>Before suggesting any character, the AI flagged the cultural sensitivity of
+the location. Several common "Minnesota mascot" choices were considered and
+ruled out for specific reasons:</p>
+<h3 id="why-not-a-bald-eagle">Why Not a Bald Eagle?</h3>
+<p>A bald eagle would be the obvious "Mississippi River" choice — eagles nest
+along the river bluffs near Bdote and are visible to students at Fort
+Snelling State Park. They are also iconic, visually striking, and easy to
+draw in cartoon form.</p>
+<p>But <strong>the eagle is sacred to the Dakota people</strong>, and to many other
+Indigenous nations across North America. Eagle feathers are ceremonial
+objects of profound religious significance, and the bird itself appears in
+Dakota stories and prayers in a way that should not be reduced to a cartoon
+classroom mascot. Using a bald eagle as a friendly cartoon character at a
+school sitting on Dakota homeland would be culturally tone-deaf at best.</p>
+<p>The eagle was set aside.</p>
+<h3 id="why-not-a-stylized-native-character">Why Not a Stylized "Native" Character?</h3>
+<p>For obvious reasons, no character should be designed in a way that mimics
+Indigenous dress, regalia, hairstyles, body paint, or imagery. Headdresses,
+war paint, "spirit animal" framings, and ceremonial objects are not
+costumes. The curriculum author and the AI agreed early that the mascot
+would be a clearly fictional, clearly cartoon animal — not a person, and
+not a person dressed in any cultural regalia.</p>
+<h3 id="why-not-avoid-the-cultural-connection-entirely">Why Not Avoid the Cultural Connection Entirely?</h3>
+<p>One option was to ignore the location entirely and use a generic mascot —
+an owl, a fox, a robot — that has no tie to ISD 197 specifically. This was
+considered and rejected. The whole point of the original prompt was that
+<em>this</em> textbook is for <em>these</em> students, and the location matters. Pretending
+the school is anywhere would erase the very thing that makes Bdote
+meaningful.</p>
+<p>The goal became: <strong>honor the place through what is naturally there, not
+through symbols that belong to someone else's culture.</strong></p>
+<hr />
+<h2 id="why-a-river-otter">Why a River Otter?</h2>
+<p>The AI proposed a <strong>river otter</strong> as the top recommendation. The reasoning
+had four parts:</p>
+<ol>
+<li>
+<p><strong>River otters actually live there.</strong> <em>Lontra canadensis</em> (the North
+   American river otter) is native to both the Minnesota and Mississippi
+   rivers and can be spotted at Fort Snelling State Park, Pike Island, and
+   along the Mississippi flyway. Students at ISD 197 schools live close
+   enough that a class field trip could plausibly result in a real otter
+   sighting. The mascot is grounded in the actual ecology of the place.</p>
+</li>
+<li>
+<p><strong>Otters embody the habits the course teaches.</strong> River otters are
+   famously <em>curious without being reckless</em> — they investigate before they
+   act. They are <em>social and family-oriented</em>, looking out for the rest of
+   their group. They are <em>playful but observant</em>. Every one of those traits
+   maps directly onto the Digital Citizenship curriculum: pause, think, act;
+   be a good community member; be an upstander; slow down before you share.</p>
+</li>
+<li>
+<p><strong>Otters appeal to the target age group.</strong> Ten- to twelve-year-olds find
+   otters genuinely charming without thinking they are "babyish." The
+   character can be friendly without being saccharine.</p>
+</li>
+<li>
+<p><strong>Otters carry no cultural sensitivity load.</strong> Unlike the bald eagle,
+   the river otter is not a sacred ceremonial animal in Dakota tradition.
+   It can be cartooned, given glasses, and put in a friendly scarf without
+   crossing any cultural lines.</p>
+</li>
+</ol>
+<p>The curriculum author replied:</p>
+<blockquote>
+<p>"I LOVE Maka the Otter!!"</p>
+</blockquote>
+<p>That confirmed the species choice.</p>
+<hr />
+<h2 id="the-name-maka">The Name "Maka"</h2>
+<p>Choosing a name turned out to be the most carefully considered part of the
+whole design. Several options were on the table:</p>
+<ul>
+<li><strong>Generic English names</strong> — "Ollie," "River," "Sunny," "Rusty"</li>
+<li><strong>Otter-themed names</strong> — "Miska," "Splash"</li>
+<li><strong>Names that nod to the place</strong> — something connected to the Dakota
+  language or to the local geography</li>
+</ul>
+<p>The AI proposed <strong>Maka</strong>, from the Dakota word <em>makȟá</em> meaning "earth."</p>
+<h3 id="the-reasoning">The Reasoning</h3>
+<p>A name borrowed from the Dakota language can do something a generic English
+name cannot: it tells students that the language of the people who lived
+on this land for centuries is still alive, still worth knowing, and still
+present in the place where they go to school. For a Grade 5 student in
+ISD 197, learning that their textbook mascot's name comes from Dakota is a
+small but real connection to the deeper history of where they live.</p>
+<p>But there are real risks in borrowing words from a language and culture
+that is not your own:</p>
+<ul>
+<li><strong>Sacred words must not be used casually.</strong> Words tied to ceremony,
+  prayer, or religious practice are not appropriate for a children's
+  textbook mascot, even with good intentions.</li>
+<li><strong>Pronunciation and meaning must be respected.</strong> A borrowed word that is
+  mispronounced or misused can feel insulting rather than honoring.</li>
+<li><strong>The community whose language it is should ideally be consulted.</strong> The
+  most respectful path is to ask Dakota cultural advisors directly whether
+  a particular use of a particular word is welcome.</li>
+</ul>
+<h3 id="why-maka-was-chosen-specifically">Why "Maka" Was Chosen Specifically</h3>
+<p><em>Makȟá</em> (commonly transliterated as <em>maka</em> in English-language sources)
+is the Dakota word for "earth" or "ground." It is not a sacred or
+ceremonial term in the way that words tied to specific prayers or
+ceremonies are. It is an everyday word — the kind of word a child learning
+Dakota in a language class might encounter in their first lessons. Words
+for everyday natural elements (earth, water, sky, river) are generally
+considered safer to borrow than words tied to ceremony, kinship roles, or
+spiritual practice.</p>
+<p>The AI proposed "Maka" with explicit framing:</p>
+<blockquote>
+<p>"Maka (pronounced "MAH-kah," from the Dakota word <em>makȟá</em> meaning
+'earth' — a respectful, location-grounded name)."</p>
+</blockquote>
+<p>The reasoning offered to the curriculum author was that "Maka" is:</p>
+<ul>
+<li>Easy for Grade 5 students to pronounce</li>
+<li>Two syllables, easy to remember</li>
+<li>Connected to the place in a meaningful way</li>
+<li>An everyday word, not a sacred or ceremonial term</li>
+<li>A small invitation for students to learn that Dakota is a living
+  language with a vocabulary they can encounter every day</li>
+</ul>
+<h3 id="what-isd-197-should-do-before-publishing">What ISD 197 Should Do Before Publishing</h3>
+<p><strong>This document strongly recommends that ISD 197 verify the use of "Maka"
+with a Dakota cultural advisor or with the Indian Education program in the
+district before the textbook is published or distributed widely.</strong></p>
+<p>Specifically, it would be appropriate to:</p>
+<ol>
+<li><strong>Consult a Dakota language speaker or educator</strong> — for example, through
+   the Dakota Wicohan organization, the Indigenous Education department at
+   the University of Minnesota, or the Minnesota Indian Education
+   Association — to confirm that the use, pronunciation, and framing of
+   "Maka" is welcome.</li>
+<li><strong>Ask whether a different everyday word might be preferred.</strong> A Dakota
+   advisor may suggest an alternative word that fits better, or may suggest
+   a slightly different transliteration.</li>
+<li><strong>Add a short note to the textbook itself</strong> acknowledging that the
+   mascot's name comes from the Dakota language, and thanking whoever
+   provided the cultural review.</li>
+<li><strong>Acknowledge the land.</strong> A simple land acknowledgment in the front
+   matter of the textbook — recognizing that ISD 197 sits on the
+   traditional homeland of the Dakota people — is a small but meaningful
+   gesture.</li>
+</ol>
+<p>The AI cannot perform this consultation. <strong>A human Dakota cultural advisor
+is the right authority for this question, not an AI assistant.</strong> The name
+"Maka" was offered as a thoughtful starting point, not as a final
+authoritative choice.</p>
+<hr />
+<h2 id="visual-design">Visual Design</h2>
+<p>Once the species and name were settled, the visual design followed
+quickly. The character traits were chosen to be:</p>
+<ul>
+<li><strong>Warm medium-brown fur with a cream belly</strong> — accurate to real river
+  otters</li>
+<li><strong>Large kind dark eyes</strong> — friendly, never menacing</li>
+<li><strong>Small round black glasses</strong> — gentle "scholar" cue without making the
+  character look stern</li>
+<li><strong>A soft river-blue scarf</strong> — color <code>#2e6f8e</code>, picked to match the
+  Mississippi at the confluence</li>
+<li><strong>A modern flat cartoon vector style</strong> — clean, child-friendly,
+  easy to reproduce consistently across seven different poses</li>
+</ul>
+<p>The art style choice was deliberate. Realistic illustration would have
+made the character feel cold and formal. Photorealistic 3D rendering would
+have looked dated within a few years. A flat vector cartoon style is:</p>
+<ul>
+<li>Easy for AI image generators to reproduce consistently</li>
+<li>Visually compatible with the rest of the MkDocs Material theme</li>
+<li>Friendly without being cloying</li>
+<li>Still acceptable to a middle-school audience (it doesn't read as
+  "preschool")</li>
+</ul>
+<hr />
+<h2 id="the-color-palette-conversation">The Color Palette Conversation</h2>
+<p>The original CSS color palette was a leftover <code>#00897b</code> teal copied from a
+previous textbook template. The curriculum author noticed and wrote:</p>
+<blockquote>
+<p>"The 'Teal' color was just a random color copied from another template.
+I would like you to select a color that goes with the Otter nature theme
+and the rivers."</p>
+</blockquote>
+<p>This was a clear opportunity to ground the visual design in the place
+itself. The AI proposed a palette inspired by the Mississippi River at
+Bdote:</p>
+<table>
+<thead>
+<tr>
+<th>Color</th>
+<th>Hex</th>
+<th>Used For</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deep river blue</td>
+<td><code>#2e6f8e</code></td>
+<td>Welcome admonitions, scarf</td>
+<td>The Mississippi at the confluence — calm, deep, slate-blue</td>
+</tr>
+<tr>
+<td>Warm otter brown</td>
+<td><code>#6d4c41</code></td>
+<td>Thinking admonitions</td>
+<td>Maka's fur color</td>
+</tr>
+<tr>
+<td>River-reed green</td>
+<td><code>#2e7d57</code></td>
+<td>Tip admonitions</td>
+<td>Cattails and shoreline reeds</td>
+</tr>
+<tr>
+<td>Sunset amber</td>
+<td><code>#c47b1a</code></td>
+<td>Celebration admonitions</td>
+<td>Sunset on the river bluffs</td>
+</tr>
+<tr>
+<td>Clay red</td>
+<td><code>#b3502c</code></td>
+<td>Warning admonitions</td>
+<td>Warmer than fire-engine red, friendlier for elementary readers</td>
+</tr>
+<tr>
+<td>River stone slate</td>
+<td><code>#5b6e76</code></td>
+<td>Neutral admonitions</td>
+<td>The limestone bluffs above Fort Snelling</td>
+</tr>
+</tbody>
+</table>
+<p>The MkDocs Material theme palette was also changed from <code>teal</code> / <code>white</code>
+to <code>blue grey</code> (primary) / <code>amber</code> (accent), so that the page chrome
+itself feels like river stone with a sunset accent rather than a generic
+software-product teal.</p>
+<p>Every color in the textbook now has a reason rooted in the actual place.</p>
+<hr />
+<h2 id="the-seven-poses">The Seven Poses</h2>
+<p>A standard pedagogical mascot needs a small number of distinct poses, each
+one tied to a specific kind of admonition. Maka has seven:</p>
+<table>
+<thead>
+<tr>
+<th>Pose</th>
+<th>Filename</th>
+<th>When It Appears</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Neutral</strong></td>
+<td><code>neutral.png</code></td>
+<td>General sidebars, side notes</td>
+</tr>
+<tr>
+<td><strong>Welcome</strong></td>
+<td><code>welcome.png</code></td>
+<td>Once at the start of every chapter</td>
+</tr>
+<tr>
+<td><strong>Thinking</strong></td>
+<td><code>thinking.png</code></td>
+<td>Key concepts and big ideas (2–3 per chapter)</td>
+</tr>
+<tr>
+<td><strong>Tip</strong></td>
+<td><code>tip.png</code></td>
+<td>Helpful hints</td>
+</tr>
+<tr>
+<td><strong>Warning</strong></td>
+<td><code>warning.png</code></td>
+<td>Common mistakes, safety reminders</td>
+</tr>
+<tr>
+<td><strong>Encouraging</strong></td>
+<td><code>encouraging.png</code></td>
+<td>Difficult content where students may struggle</td>
+</tr>
+<tr>
+<td><strong>Celebration</strong></td>
+<td><code>celebration.png</code></td>
+<td>End of major sections, achievements</td>
+</tr>
+</tbody>
+</table>
+<p>Each pose has a fully self-contained AI image prompt in
+<code>docs/img/mascot/image-prompts.md</code>. The prompts are written so that any
+AI image tool — ChatGPT/DALL-E, Midjourney, Stable Diffusion — can produce
+a consistent character across all seven images without the operator
+needing to copy a separate "base description" first.</p>
+<p>After generation, each image was automatically trimmed of excess
+transparent padding using a Python script
+(<code>trim-padding-from-image.py</code>), shrinking each image from 1024×1536 down
+to roughly its actual visible bounding box. This is a small but important
+step — without it, Maka displays much smaller than intended in the
+admonition boxes.</p>
+<hr />
+<h2 id="restraint-guidelines">Restraint Guidelines</h2>
+<p>A mascot is most effective when it is <em>not</em> overused. The CLAUDE.md file
+for this project contains explicit restraint rules:</p>
+<p><strong>Maka should appear no more than 5–6 times per chapter.</strong></p>
+<p><strong>Do:</strong></p>
+<ul>
+<li>Use Maka to introduce new topics warmly at the start of chapters</li>
+<li>Include the catchphrase "Pause, think, act!" in welcome admonitions</li>
+<li>Keep dialogue brief — 1 to 3 sentences per admonition</li>
+<li>Match the pose to the content type (warning pose for warnings, etc.)</li>
+</ul>
+<p><strong>Don't:</strong></p>
+<ul>
+<li>Place mascot admonitions back-to-back</li>
+<li>Use Maka for purely decorative purposes</li>
+<li>Use Maka in contexts that require a serious adult tone — for example,
+  the safety rule about telling a trusted adult should be plain, direct
+  text, not delivered through a cartoon otter</li>
+<li>Change Maka's personality, voice, or visual design across chapters</li>
+</ul>
+<p>Teachers who plan to extend or adapt the textbook should hold these same
+restraint rules. A mascot that appears on every page becomes wallpaper.
+A mascot that appears at the <em>right</em> moments becomes a character students
+remember years later.</p>
+<hr />
+<h2 id="whats-in-the-file-system">What's in the File System</h2>
+<p>After this design session, the following files exist in the project:</p>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"> 1</span>
+<span class="normal"> 2</span>
+<span class="normal"> 3</span>
+<span class="normal"> 4</span>
+<span class="normal"> 5</span>
+<span class="normal"> 6</span>
+<span class="normal"> 7</span>
+<span class="normal"> 8</span>
+<span class="normal"> 9</span>
+<span class="normal">10</span>
+<span class="normal">11</span>
+<span class="normal">12</span>
+<span class="normal">13</span>
+<span class="normal">14</span>
+<span class="normal">15</span>
+<span class="normal">16</span>
+<span class="normal">17</span>
+<span class="normal">18</span>
+<span class="normal">19</span></pre></div></td><td class="code"><div><pre><span></span><code>docs/
+├── css/
+│   └── mascot.css                  # Color palette and admonition styles
+├── img/
+│   └── mascot/
+│       ├── image-prompts.md        # 7 ready-to-use AI image prompts
+│       ├── neutral.png             # Trimmed and ready
+│       ├── welcome.png
+│       ├── thinking.png
+│       ├── tip.png
+│       ├── warning.png
+│       ├── encouraging.png
+│       └── celebration.png
+└── learning-graph/
+    ├── mascot-test.md              # Live preview of all 7 admonition styles
+    └── mascot-design-decisions.md  # This document
+
+CLAUDE.md                           # Project-level character and cultural rules
+mkdocs.yml                          # Theme palette and navigation entries
+</code></pre></div></td></tr></table></div>
+<p>The <code>CLAUDE.md</code> file is especially important for any future AI-assisted
+content generation: it carries forward the cultural rules, the voice
+characteristics, and the restraint guidelines so that future chapters
+written with AI assistance remain consistent with the choices made here.</p>
+<hr />
+<h2 id="a-note-for-the-next-curriculum-author">A Note for the Next Curriculum Author</h2>
+<p>If you are picking up this textbook to extend it, adapt it, or build a
+companion textbook for a different grade level, please carry forward
+three things:</p>
+<ol>
+<li><strong>Maka's voice should not change.</strong> Curious, kind, thoughtful, playful.
+   Not sarcastic, not lecturing, not silly. A Grade 8 version of Maka can
+   use slightly more sophisticated vocabulary, but the personality stays
+   the same.</li>
+<li><strong>The cultural guardrails should not be relaxed.</strong> No bald eagles. No
+   Indigenous regalia. No appropriative imagery. If you want to add
+   another mascot or a sidekick character, consult the same Dakota
+   cultural advisors before publishing.</li>
+<li><strong>The mascot should still be used sparingly.</strong> The 5–6-per-chapter rule
+   is not arbitrary. It is what keeps Maka from becoming wallpaper.</li>
+</ol>
+<p>If you have questions about any of the design decisions documented here,
+or if you discover that one of them needs to be revised, please update
+this file and add a note explaining what changed and why.</p>
+<hr />
+<h2 id="acknowledgments">Acknowledgments</h2>
+<p>ISD 197 (West St. Paul–Mendota Heights–Eagan Area Schools) sits on the
+traditional homeland of the <strong>Dakota people</strong>. The confluence of the
+Minnesota and Mississippi rivers — <strong>Bdote</strong> — is a place of profound
+cultural and spiritual significance, and has been for many generations
+before the schools, the city, or the state existed. The choice to use a
+Dakota word in this textbook's mascot is intended as a small gesture of
+respect and recognition, not as a substitute for the much larger work of
+Indigenous education that this district and others should continue to do.</p>
+<p>Any errors in the use of Dakota language or cultural reference in this
+document are unintentional and should be corrected. Please contact the
+curriculum author so that any corrections can be made promptly.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../mascot-test/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Mascot Style Guide">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Mascot Style Guide
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../../sims/graph-viewer/" class="md-footer__link md-footer__link--next" aria-label="Next: Learning Graph Viewer">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Learning Graph Viewer
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2026 Dan McCreary. Licensed under <a href="license/">CC BY-NC-SA 4.0</a> for non-commercial use.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["content.code.copy", "navigation.expand", "navigation.path", "navigation.prune", "navigation.indexes", "toc.follow", "navigation.top", "navigation.footer", "content.action.edit"], "search": "../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.83f73b43.min.js"></script>
+      
+        <script src="../../js/extra.js"></script>
+      
+        <script src="../../js/config.js"></script>
+      
+        <script src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
