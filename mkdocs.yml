@@ -1,1 +1,66 @@
-site_name: My Docs
+site_name: Digital Citizenship
+repo_url: https://github.com/dmccreary/digital-citizenship
+site_url: https://dmccreary.github.io/digital-citizenship/
+site_description: An interactive intelligent textbook for Digital Citizenship, aligned to the ISTE Student Standards.
+site_author: Dan McCreary
+
+nav:
+  - Home: index.md
+  - Course Description: course-description.md
+  - Prompts:
+    - prompts/01-seed.md
+  - License: license.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  palette:
+    primary: 'teal'
+    accent: 'white'
+  favicon: img/favicon.png
+  include_sidebar: true
+  features:
+    - content.code.copy
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - navigation.footer
+    - content.action.edit
+
+plugins:
+  - search
+
+markdown_extensions:
+  - md_in_html
+  - attr_list
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_css:
+  - css/extra.css
+  - css/mascot.css
+
+extra_javascript:
+  - js/extra.js
+  - js/config.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+watch:
+  - docs
+  - mkdocs.yml
+
+copyright: Copyright &copy; 2026 Dan McCreary. Licensed under <a href="license/">CC BY-NC-SA 4.0</a> for non-commercial use.
+
+extra:
+  schema: https://dmccreary.github.io/intelligent-textbooks/ns/textbook/v1
+  textbook_name: Digital Citizenship for Grade 5
+  textbook_version: "1.0"
