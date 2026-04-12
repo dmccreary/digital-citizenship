@@ -184,6 +184,27 @@ Type: microsim
 Implementation: p5.js sketch deployed at `docs/sims/fact-check-workflow/`.
 </details>
 
+## Skeptic or Cynic? Pick the Right Mindset
+
+You now have the workflow. But the workflow only works if you bring the right mindset to it. Two words sound alike, but they are very different. Knowing the difference will help you become a great fact checker.
+
+A **skeptic** is a person who asks for good evidence before they believe a claim. A skeptic is also willing to change their mind when the evidence is strong. Skeptics aren't trying to prove things wrong — they are trying to find out what is true. A skeptic looks at a wild story and says, "Maybe — show me the proof."
+
+A **cynic** is a person who assumes that most things are fake and most people are lying. A cynic looks at the same wild story and says, "Nope, can't trust anyone." Even when the proof is strong, a cynic often still won't believe it. Cynics have already decided that nothing is true, so they stop looking.
+
+Here is the difference in one table:
+
+| Mindset | What they ask | When evidence is strong | Outlook |
+|---|---|---|---|
+| Skeptic | "Show me the proof." | Believes the claim | Hopeful and curious |
+| Cynic | "It's all fake." | Still doesn't believe | Sour and closed off |
+
+Great fact checkers are great skeptics. They ask hard questions, but they keep an open mind. When the evidence is strong, they change what they think — even if it surprises them. That is what makes them trustworthy.
+
+Cynics are not great fact checkers. A cynic shuts the door before the work even begins. If you decide ahead of time that nothing is true, you stop checking. Then you miss the real stories along with the fake ones.
+
+So here is the rule: be a skeptic, not a cynic. Ask for proof — then follow the proof wherever it leads.
+
 ## Aanya Checks the Whale
 
 Aanya does the four steps. *Author check:* the photo has no author, just a random username. *Date check:* the caption says "last week," but the website where she found it has no date stamp on the post. *Headline vs article:* there is no article — just the photo and the caption. *Source comparison:* she opens a real ocean-life website and a real museum site in two new tabs. Neither one has a story about a giant whale jumping over a boat in Hawaii last week.
@@ -211,6 +232,11 @@ Here are the 13 new words you just learned in this chapter.
 11. **Trusted source** — a place with a long history of getting it right
 12. **Source comparison** — checking two or three good sources
 13. **Lateral reading** — opening new tabs to check outside the page
+
+Plus two bonus words about the right mindset for a fact checker:
+
+14. **Skeptic** — a person who asks for proof and changes their mind when the evidence is strong
+15. **Cynic** — a person who assumes everything is fake, even when the proof is good
 
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">

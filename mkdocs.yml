@@ -44,6 +44,8 @@ nav:
     - Chapter Design Log: learning-graph/chapter-design.md
     - Mascot Style Guide: learning-graph/mascot-test.md
     - Mascot Design Decisions: learning-graph/mascot-design-decisions.md
+    - FAQ Quality Report: learning-graph/faq-quality-report.md
+    - FAQ Coverage Gaps: learning-graph/faq-coverage-gaps.md
   - MicroSims:
     - List of MicroSims: sims/index.md
     - Digital Devices Explorer: sims/digital-devices-explorer/index.md
@@ -54,6 +56,8 @@ nav:
   - Prompts:
     - prompts/01-seed.md
     - Economy-Mode Chapter Prompt: prompts/economy-mode-chapter.md
+  - FAQ: faq.md
+  - Glossary: glossary.md
   - License: license.md
   - Contact: contact.md
 
