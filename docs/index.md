@@ -19,9 +19,8 @@ hide:
 
 Welcome! This is an **interactive intelligent textbook** for Grade 5 students,
 their teachers, and the families and school leaders who support them. It was
-created for **ISD 197** — the West St. Paul–Mendota Heights–Eagan Area Schools
-in Minnesota — on land near **Bdote**, the confluence of the Minnesota and
-Mississippi rivers.
+created for Minnesota **Independent School District (ISD) 197** — the West St. Paul–Mendota Heights–Eagan Area Schools
+in Minnesota — on land near **Bdote**, the confluence of the Minnesota and Mississippi rivers.
 
 The book's central habit is simple enough for a student to remember and
 important enough to last a lifetime: **pause, think, act**.
