@@ -16,6 +16,8 @@
 
 -   **[Learning Graph Viewer](./graph-viewer/index.md)**
 
-    Interactive viewer for exploring all 200 concepts and their connections in this course.
+    ![View the Learning Graph](./graph-viewer/learning-graph.png)
+
+    Interactive viewer for exploring all 265 concepts and their connections in this course.
 
 </div>

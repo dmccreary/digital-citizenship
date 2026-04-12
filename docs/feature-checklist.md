@@ -67,7 +67,7 @@ These features make your content more engaging and easier to read.
 
 | Feature | Status | Effort | Notes |
 |---------|--------|--------|-------|
-| GLightBox (image zoom) | :x: | Low | Click any image for lightbox popup; requires `mkdocs-glightbox` Python library |
+| GLightBox (image zoom) | :white_check_mark: | Low | `mkdocs-glightbox` plugin enabled |
 | MathJax equation rendering | :white_check_mark: | Low | `pymdownx.arithmatex` + MathJax 3 via CDN |
 | Admonitions (callout boxes) | :white_check_mark: | Trivial | `admonition` extension enabled; used extensively for mascot boxes |
 | Code blocks with copy button | :white_check_mark: | Trivial | `content.code.copy` enabled |
@@ -93,10 +93,10 @@ These are pages and files that support the entire textbook rather than individua
 |---------|--------|--------|-------|
 | Glossary | :white_check_mark: | Medium | 267 terms with ISO 11179 compliant definitions |
 | FAQ page | :white_check_mark: | Medium | 91 answers to common student questions |
-| References page | :x: | Medium | Curated bibliography with links per chapter or site-wide |
+| Per-chapter annotated references | :white_check_mark: | Medium | 17 reference files (10 curated sources each) in every chapter |
 | Custom CSS styling | :white_check_mark: | Low | `css/extra.css` + `css/mascot.css` |
 | Custom JavaScript | :white_check_mark: | Low | `js/extra.js` + `js/config.js` |
-| Google Analytics | :x: | Trivial | Add `analytics.property` to `extra` in mkdocs.yml |
+| Google Analytics | :white_check_mark: | Trivial | `G-P0GG74Y40S` configured |
 
 ### Publishing Features
 
@@ -155,7 +155,7 @@ These features involve creating the actual educational content.
 | Mascot design documentation | :white_check_mark: | Low | Style guide and design decisions documented |
 | Sample prompts collection | :white_check_mark: | Medium | Saved AI prompts for content regeneration |
 | Instructor's guide | :x: | Medium | Use instructor's-guide skill to generate |
-| Custom 404 page | :x: | Low | Use custom-404-page installer with Maka |
+| Custom 404 page | :white_check_mark: | Low | Maka warning pose with friendly message |
 
 ---
 
@@ -207,16 +207,16 @@ Start with the easiest wins and work your way up.
 
 These can be done in under an hour:
 
-1. **GLightbox** — Add `- glightbox` to plugins and `pip install mkdocs-glightbox`
+1. ~~**GLightbox**~~ :white_check_mark: Done
 2. **Social media cards** — Add `- social` plugin for auto-generated preview images
-3. **Google Analytics** — Add `analytics.property: G-XXXXXXXXXX` to `extra`
-4. **Custom 404 page** — Use the `/book-installer` custom-404-page feature with Maka
+3. ~~**Google Analytics**~~ :white_check_mark: Done
+4. ~~**Custom 404 page**~~ :white_check_mark: Done
 
 ### Medium Effort, High Value
 
 These use Claude Code skills to generate content:
 
-1. **References page** — Use the reference-generator skill for curated bibliography
+1. ~~**Per-chapter references**~~ :white_check_mark: Done — 17 chapters, 10 sources each
 2. **Book metrics** — Use the book-metrics-generator skill to track completeness
 3. **Instructor's guide** — Use the instructors-guide skill to help teachers adopt the textbook
 
