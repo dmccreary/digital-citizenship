@@ -1,7 +1,7 @@
 ---
 title: The Four-Wheeled Wagon
 description: The Four-Wheeled Wagon
-status: scaffold
+status: spec-complete
 library: AI Image Generator
 bloom_level: TBD
 ---

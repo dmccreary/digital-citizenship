@@ -1,7 +1,7 @@
 ---
 title: The Three-Legged Stool
 description: The Three-Legged Stool
-status: scaffold
+status: spec-complete
 library: AI Image Generator
 bloom_level: TBD
 ---

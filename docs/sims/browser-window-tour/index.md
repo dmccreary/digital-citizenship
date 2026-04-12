@@ -1,7 +1,7 @@
 ---
 title: Browser Window Tour
 description: Browser Window Tour
-status: scaffold
+status: spec-complete
 library: p5.js
 bloom_level: TBD
 ---

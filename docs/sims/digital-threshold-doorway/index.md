@@ -1,7 +1,7 @@
 ---
 title: Standing at the Digital Threshold
 description: Standing at the Digital Threshold
-status: scaffold
+status: spec-complete
 library: AI Image Generator
 bloom_level: TBD
 ---

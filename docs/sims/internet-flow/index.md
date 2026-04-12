@@ -1,6 +1,7 @@
 ---
 title: How a Video Gets to Your Tablet
 description: Interactive Mermaid diagram showing the path a video takes from a faraway computer through the internet, router, and wifi to your tablet. Click any box to learn what it does.
+status: ready-for-testing
 image: /sims/internet-flow/internet-flow.png
 og:image: /sims/internet-flow/internet-flow.png
 twitter:image: /sims/internet-flow/internet-flow.png

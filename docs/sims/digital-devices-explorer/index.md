@@ -1,6 +1,7 @@
 ---
 title: "Digital Devices Explorer"
 description: "Click on each device to find out whether it collects personal information about you — and what kind."
+status: prototype
 hide:
   - toc
 ---

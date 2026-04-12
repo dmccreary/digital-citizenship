@@ -104,9 +104,13 @@ nav:
 
   - MicroSims:
     - List of MicroSims: sims/index.md
+    - Browser Window Tour: sims/browser-window-tour/index.md
     - Digital Devices Explorer: sims/digital-devices-explorer/index.md
+    - Digital Threshold Doorway: sims/digital-threshold-doorway/index.md
+    - Four-Wheeled Wagon: sims/four-habits-wagon/index.md
     - How a Video Gets to Your Tablet: sims/internet-flow/index.md
     - Learning Graph Viewer: sims/graph-viewer/index.md
+    - Three-Legged Stool: sims/three-legged-stool/index.md
 
   - Learning Graph:
     - Introduction: learning-graph/index.md
@@ -121,6 +125,10 @@ nav:
     - FAQ Quality Report: learning-graph/faq-quality-report.md
     - FAQ Coverage Gaps: learning-graph/faq-coverage-gaps.md
     - Quiz Generation Report: learning-graph/quiz-generation-report.md
+    - Book Metrics: learning-graph/book-metrics.md
+    - Chapter Metrics: learning-graph/chapter-metrics.md
+    - Diagram Table: learning-graph/diagram-table.md
+    - Diagram Details: learning-graph/diagram-details.md
 
   - Sample Prompts:
     - List of Prompts: prompts/index.md
@@ -198,3 +206,7 @@ extra:
   schema: https://dmccreary.github.io/intelligent-textbooks/ns/textbook/v1
   textbook_name: Digital Citizenship
   textbook_version: "1.0"
+  status:
+    spec-complete: "Specification complete"
+    prototype: "Initial prototype complete"
+    ready-for-testing: "Ready for testing"
