@@ -139,6 +139,25 @@
   background-color: rgba(84, 110, 122, 0.1) !important;
 }
 
+/* ============================================
+   Document Status Icons (colored circles in nav)
+   ============================================ */
+
+/* Red — specification complete */
+.md-status--spec-complete::after {
+  background-color: #e53935;
+}
+
+/* Orange — initial prototype complete */
+.md-status--prototype::after {
+  background-color: #fb8c00;
+}
+
+/* Green — ready for testing */
+.md-status--ready-for-testing::after {
+  background-color: #43a047;
+}
+
 /* ---- Delta mascot image floated left of admonition body text ---- */
 .delta-admonition-img {
   float: left;
