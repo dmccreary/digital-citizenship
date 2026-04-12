@@ -2,170 +2,266 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/about/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/contact/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/course-description/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/faq/</loc>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/glossary/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/license/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/01-welcome-to-digital-world/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/01-welcome-to-digital-world/cost/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/01-welcome-to-digital-world/plan/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/01-welcome-to-digital-world/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/02-what-is-a-digital-citizen/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/02-what-is-a-digital-citizen/changes/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/02-what-is-a-digital-citizen/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/03-media-balance/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/03-media-balance/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/04-healthy-tech-habits/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/04-healthy-tech-habits/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/05-private-vs-personal-info/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/05-private-vs-personal-info/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/06-passwords-and-online-safety/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/06-passwords-and-online-safety/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/07-what-is-a-digital-footprint/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/07-what-is-a-digital-footprint/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/08-reputation-and-credit/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/08-reputation-and-credit/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/09-online-friends-and-talk/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/09-online-friends-and-talk/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/10-safe-talk-and-boundaries/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/10-safe-talk-and-boundaries/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/11-conflict-vs-cyberbullying/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/11-conflict-vs-cyberbullying/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/12-standing-up-safely/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/12-standing-up-safely/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/13-what-is-misinformation/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/13-what-is-misinformation/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/14-becoming-a-fact-checker/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/14-becoming-a-fact-checker/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/15-four-critical-questions/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/15-four-critical-questions/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/16-healthy-doubt-open-minds/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/16-healthy-doubt-open-minds/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/chapters/17-digital-citizenship-toolkit/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/chapters/17-digital-citizenship-toolkit/quiz/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/img/mascot/image-prompts/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/chapter-design/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/concept-list/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/concept-taxonomy/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/faq-coverage-gaps/</loc>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/faq-quality-report/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/index-template/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/learning-graph-design-notes/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/mascot-design-decisions/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/mascot-test/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/quality-metrics/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/quiz-generation-report/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/learning-graph/taxonomy-distribution/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/prompts/01-seed/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/digital-citizenship/prompts/cover-prompt/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/prompts/economy-mode-chapter/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/sims/digital-devices-explorer/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/sims/graph-viewer/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/sims/internet-flow/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://dmccreary.github.io/digital-citizenship/stories/jordan-one-second-choice/</loc>
-         <lastmod>2026-04-11</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
 </urlset>
