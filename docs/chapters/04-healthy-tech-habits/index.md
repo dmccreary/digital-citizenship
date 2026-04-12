@@ -212,3 +212,5 @@ Here are the 14 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     Look at you — 14 brand-new healthy habit words! Remember, you don't have to do all of them at once. Pick one this week. Try it. Notice how it feels. Then add another. I'll see you in Chapter 5, where we'll learn the most important safety idea online: which information to keep private and which is okay to share. Until then — high-five!
+
+[See Annotated References](./references.md)

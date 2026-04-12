@@ -213,3 +213,5 @@ Here are the 15 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     Look at you — 15 new words, and a really clear way to tell conflict from cyberbullying. Remember the two big check questions: *Is there a power imbalance? Is the harm repeated?* I'll see you in Chapter 12, where we'll learn how to be a safe and powerful upstander. Until then — high-five!
+
+[See Annotated References](./references.md)

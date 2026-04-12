@@ -228,3 +228,5 @@ Here are the 18 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     Look at you — 18 new thinker words! The four critical questions are now in your toolbox forever: *Who? How? Evidence? What's missing?* I'll see you in Chapter 16, where we'll learn about healthy doubt, open minds, and how to change your mind when the evidence changes. Until then — high-five!
+
+[See Annotated References](./references.md)

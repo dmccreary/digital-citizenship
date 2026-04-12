@@ -16,55 +16,72 @@ nav:
       - Quiz: chapters/01-welcome-to-digital-world/quiz.md
       - Plan: chapters/01-welcome-to-digital-world/plan.md
       - Cost: chapters/01-welcome-to-digital-world/cost.md
+      - References: chapters/01-welcome-to-digital-world/references.md
     - 2. What Is a Digital Citizen?:
       - Content: chapters/02-what-is-a-digital-citizen/index.md
       - Quiz: chapters/02-what-is-a-digital-citizen/quiz.md
       - Changes: chapters/02-what-is-a-digital-citizen/changes.md
+      - References: chapters/02-what-is-a-digital-citizen/references.md
     - 3. Media Balance and Spotting Imbalance:
       - Content: chapters/03-media-balance/index.md
       - Quiz: chapters/03-media-balance/quiz.md
+      - References: chapters/03-media-balance/references.md
     - 4. Building Healthy Tech Habits:
       - Content: chapters/04-healthy-tech-habits/index.md
       - Quiz: chapters/04-healthy-tech-habits/quiz.md
+      - References: chapters/04-healthy-tech-habits/references.md
     - 5. Private vs. Personal Information:
       - Content: chapters/05-private-vs-personal-info/index.md
       - Quiz: chapters/05-private-vs-personal-info/quiz.md
+      - References: chapters/05-private-vs-personal-info/references.md
     - 6. Passwords, Clickbait, and Staying Safe Online:
       - Content: chapters/06-passwords-and-online-safety/index.md
       - Quiz: chapters/06-passwords-and-online-safety/quiz.md
+      - References: chapters/06-passwords-and-online-safety/references.md
     - 7. What Is a Digital Footprint?:
       - Content: chapters/07-what-is-a-digital-footprint/index.md
       - Quiz: chapters/07-what-is-a-digital-footprint/quiz.md
+      - References: chapters/07-what-is-a-digital-footprint/references.md
     - 8. Reputation, Sharing, and Giving Credit:
       - Content: chapters/08-reputation-and-credit/index.md
       - Quiz: chapters/08-reputation-and-credit/quiz.md
+      - References: chapters/08-reputation-and-credit/references.md
     - 9. Online Friends and How We Talk:
       - Content: chapters/09-online-friends-and-talk/index.md
       - Quiz: chapters/09-online-friends-and-talk/quiz.md
+      - References: chapters/09-online-friends-and-talk/references.md
     - 10. Safe Talk and Setting Boundaries:
       - Content: chapters/10-safe-talk-and-boundaries/index.md
       - Quiz: chapters/10-safe-talk-and-boundaries/quiz.md
+      - References: chapters/10-safe-talk-and-boundaries/references.md
     - 11. When Conflict Becomes Cyberbullying:
       - Content: chapters/11-conflict-vs-cyberbullying/index.md
       - Quiz: chapters/11-conflict-vs-cyberbullying/quiz.md
+      - References: chapters/11-conflict-vs-cyberbullying/references.md
     - 12. Standing Up Safely as an Upstander:
       - Content: chapters/12-standing-up-safely/index.md
       - Quiz: chapters/12-standing-up-safely/quiz.md
+      - References: chapters/12-standing-up-safely/references.md
     - 13. What Is Misinformation?:
       - Content: chapters/13-what-is-misinformation/index.md
       - Quiz: chapters/13-what-is-misinformation/quiz.md
+      - References: chapters/13-what-is-misinformation/references.md
     - 14. Becoming a Fact Checker:
       - Content: chapters/14-becoming-a-fact-checker/index.md
       - Quiz: chapters/14-becoming-a-fact-checker/quiz.md
+      - References: chapters/14-becoming-a-fact-checker/references.md
     - 15. The Four Critical Questions:
       - Content: chapters/15-four-critical-questions/index.md
       - Quiz: chapters/15-four-critical-questions/quiz.md
+      - References: chapters/15-four-critical-questions/references.md
     - 16. Healthy Doubt and Open Minds:
       - Content: chapters/16-healthy-doubt-open-minds/index.md
       - Quiz: chapters/16-healthy-doubt-open-minds/quiz.md
+      - References: chapters/16-healthy-doubt-open-minds/references.md
     - 17. Your Digital Citizenship Toolkit:
       - Content: chapters/17-digital-citizenship-toolkit/index.md
       - Quiz: chapters/17-digital-citizenship-toolkit/quiz.md
+      - References: chapters/17-digital-citizenship-toolkit/references.md
   - Stories:
     - Jordan's One-Second Choice: stories/jordan-one-second-choice/index.md
   - Learning Graph:
@@ -90,6 +107,7 @@ nav:
   - Prompts:
     - prompts/01-seed.md
     - Economy-Mode Chapter Prompt: prompts/economy-mode-chapter.md
+  - Feature Checklist: feature-checklist.md
   - FAQ: faq.md
   - Glossary: glossary.md
   - License: license.md
@@ -119,6 +137,7 @@ exclude_docs: |
 
 plugins:
   - search
+  - glightbox
 
 markdown_extensions:
   - md_in_html
@@ -151,6 +170,9 @@ watch:
 copyright: Copyright &copy; 2026 Dan McCreary. Licensed under <a href="license/">CC BY-NC-SA 4.0</a> for non-commercial use.
 
 extra:
+  analytics:
+    provider: google
+    property: G-P0GG74Y40S
   schema: https://dmccreary.github.io/intelligent-textbooks/ns/textbook/v1
   textbook_name: Digital Citizenship
   textbook_version: "1.0"

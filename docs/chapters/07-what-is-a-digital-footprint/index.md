@@ -201,3 +201,5 @@ Here are the 14 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     You did it! 14 new footprint words, and one really big idea: the internet remembers. That doesn't have to be scary — it just means you get to be the artist of your own trail. I'll see you in Chapter 8, where we'll learn how your footprint grows into your reputation. Until then — high-five!
+
+[See Annotated References](./references.md)

@@ -1,0 +1,89 @@
+{
+  "project_path": "/Users/dan/Documents/ws/digital-citizenship",
+  "scan_date": "2026-04-11T21:07:38.691034",
+  "mkdocs_yml_found": true,
+  "docs_dir_found": true,
+  "site_name": "Unknown",
+  "site_description": "",
+  "site_author": "",
+  "chapter_count": 17,
+  "microsim_count": 4,
+  "glossary_term_count": 267,
+  "faq_question_count": 91,
+  "quiz_file_count": 17,
+  "basic": {
+    "navigation_sidebar": true,
+    "search_functionality": true,
+    "table_of_contents": true,
+    "site_title": false,
+    "site_author": false,
+    "github_repo": false,
+    "custom_logo": false,
+    "custom_favicon": false,
+    "color_theme": false,
+    "footer_navigation": false,
+    "navigation_expand": false,
+    "back_to_top": false,
+    "breadcrumbs": false,
+    "section_index": false,
+    "license_page": true,
+    "contact_page": true,
+    "about_page": true,
+    "how_we_built": false,
+    "copyright_footer": false
+  },
+  "content_enhancement": {
+    "glightbox": false,
+    "katex": false,
+    "mathjax": false,
+    "admonitions": false,
+    "code_copy_button": false,
+    "syntax_highlighting": false,
+    "tabbed_content": false,
+    "task_lists": false,
+    "mark_highlight": false,
+    "strikethrough": false,
+    "magic_links": false,
+    "snippets": false,
+    "emoji": false,
+    "collapsible_details": false,
+    "mermaid": false
+  },
+  "site_resources": {
+    "glossary": true,
+    "faq": true,
+    "references": false,
+    "custom_css": true,
+    "custom_js": true,
+    "google_analytics": false
+  },
+  "publishing": {
+    "social_media_cards": false,
+    "edit_page_button": false
+  },
+  "interactive_learning": {
+    "microsims": true,
+    "microsim_index": true,
+    "per_chapter_quizzes": true
+  },
+  "learning_graph": {
+    "course_description": true,
+    "learning_graph_csv": true,
+    "learning_graph_json": true,
+    "graph_viewer": true,
+    "concept_taxonomy": true,
+    "concept_list": true,
+    "quality_metrics": true,
+    "book_metrics": false,
+    "chapter_metrics": false,
+    "glossary_quality_report": false,
+    "faq_quality_report": true,
+    "faq_coverage_gaps": true,
+    "quiz_generation_report": true
+  },
+  "content_generation": {
+    "chapters": true,
+    "pedagogical_agent": true,
+    "prompts_collection": true
+  }
+}

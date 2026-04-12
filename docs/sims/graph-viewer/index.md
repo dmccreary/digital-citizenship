@@ -1,4 +1,12 @@
+---
+hide:
+   toc
+---
 # Learning Graph Viewer
+
+[Open Learning Graph Viewer Fullscreen (Recommended)](./main.html){ .md-button .md-button--primary }
+
+<iframe src="./main.html" width="100%" height="600px" frameborder="0"></iframe>
 
 This interactive viewer allows you to explore the learning graph for this course.
 
@@ -28,8 +36,4 @@ This interactive viewer allows you to explore the learning graph for this course
 - **Advanced Concepts** (right side): Topics that build on multiple prerequisites
 - **Edges**: Arrows point from a concept to its prerequisites
 
-## Launch the Viewer
 
-[Open Learning Graph Viewer](./main.html){ .md-button .md-button--primary }
-
-<iframe src="./main.html" width="100%" height="600px" frameborder="0"></iframe>

@@ -328,3 +328,5 @@ Here are the 15 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     Look at you! You just learned 15 brand-new words about being a digital citizen. The biggest one is *pause, think, act* — and you can use it right now, today. I'll see you in Chapter 3, where we'll learn how online activities can be good for your heart, your brain, and your body. Until then — high-five!
+
+[See Annotated References](./references.md)

@@ -219,3 +219,5 @@ Here are the 15 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     You did it! You just learned the most important safety idea in the whole book — the difference between personal and private information. You will use this every single day for the rest of your life. I'll see you in Chapter 6, where we'll learn about strong passwords, sneaky scams, and how to spot tricks online. Until then — high-five!
+
+[See Annotated References](./references.md)

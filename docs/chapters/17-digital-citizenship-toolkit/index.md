@@ -311,3 +311,5 @@ other interactive textbooks you can explore in the years to come.
   This is another computer course for students who want adventures
   using free software to run their computers. Save this course for
   your junior or senior year of high school.
+
+[See Annotated References](./references.md)

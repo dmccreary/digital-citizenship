@@ -240,3 +240,5 @@ Here are the 19 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     That was a big chapter — 19 new words! You now know how to build strong passwords, lock down your accounts, and spot the most common tricks people try online. You are getting really good at this digital-citizen thing. I'll see you in Chapter 7, where we'll learn how to be kind in the digital world. Until then — high-five!
+
+[See Annotated References](./references.md)

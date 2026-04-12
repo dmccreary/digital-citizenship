@@ -199,3 +199,5 @@ Here are the 13 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     Look at you — 13 new words about online friendships and how we talk! The biggest secret? When in doubt, add warmth. I'll see you in Chapter 10, where we'll learn the Safe Talk Rule and how to set boundaries that protect you. Until then — high-five!
+
+[See Annotated References](./references.md)

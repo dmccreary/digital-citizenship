@@ -212,3 +212,5 @@ Here are the 16 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     Look at you — 16 new words for spotting fake stuff online! Remember the four hooks: shocking, curiosity, emotional, urgent. When you see one, *pause*. When you see all four, *definitely pause*. I'll see you in Chapter 14, where we'll learn how to be a real-deal fact checker. Until then — high-five!
+
+[See Annotated References](./references.md)

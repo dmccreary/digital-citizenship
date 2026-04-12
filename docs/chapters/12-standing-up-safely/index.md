@@ -222,3 +222,5 @@ Here are the 15 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     Look at you — 15 new words and a real plan for being an upstander! The big secret? You don't have to be loud or brave. One small kind reply plus one trusted adult is enough to change a kid's whole day. I'll see you in Chapter 13, where we'll learn about misinformation — the tricky stuff online that wants to fool you. Until then — high-five!
+
+[See Annotated References](./references.md)

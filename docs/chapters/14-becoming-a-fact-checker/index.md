@@ -241,3 +241,5 @@ Plus two bonus words about the right mindset for a fact checker:
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     Look at you — 13 new words and a real-life fact-check workflow! You are now an actual fact checker. The slow down habit and lateral reading are the two biggest secret weapons. I'll see you in Chapter 15, where we'll learn the four critical questions every great thinker asks. Until then — high-five!
+
+[See Annotated References](./references.md)

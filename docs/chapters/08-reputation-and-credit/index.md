@@ -226,3 +226,5 @@ Here are the 15 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     Look at you! 15 new words about reputation, credit, and standing up for the people who make cool things. The biggest one is *giving credit* — it costs you nothing and means everything to the maker. I'll see you in Chapter 9, where we'll learn about online friends and how we talk to them. Until then — high-five!
+
+[See Annotated References](./references.md)

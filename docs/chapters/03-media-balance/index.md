@@ -230,3 +230,5 @@ Here are the 15 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     You just learned 15 brand-new words about media balance, and you also learned a habit you can use today — activity sorting. The biggest idea? *Listen to your body before the screen listens for you.* I'll see you in Chapter 4, where we'll learn about being kind in the digital world. Until then — high-five!
+
+[See Annotated References](./references.md)

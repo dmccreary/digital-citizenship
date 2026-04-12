@@ -233,3 +233,5 @@ Here are the 13 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     You did it! You learned the most important safety rule in the whole book — *notice, stop, tell*. Memorize those three words. They will keep you safe for the rest of your life. I'll see you in Chapter 11, where we'll learn the difference between online conflict and real cyberbullying. Until then — high-five!
+
+[See Annotated References](./references.md)

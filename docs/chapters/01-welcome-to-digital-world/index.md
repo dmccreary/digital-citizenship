@@ -302,3 +302,5 @@ You belong here too. Here is a quick recap of all 17 new words you just learned.
 !!! mascot-celebration "Great Work, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     You just learned 17 brand-new words about the digital world. That is a lot! Pause, think, act — you're already on your way to being a great digital citizen. I'll see you in Chapter 2, where we'll learn what it really means to *be* a digital citizen. Until then — high-five!
+
+[See Annotated References](./references.md)

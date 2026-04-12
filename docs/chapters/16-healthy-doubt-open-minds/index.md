@@ -213,3 +213,5 @@ Here are the 13 new words you just learned in this chapter.
 !!! mascot-celebration "High-Five, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     Look at you — 13 new words and one of the bravest habits a thinker can have: *changing your mind when the evidence asks you to.* That's not weakness, that's wisdom. I'll see you in Chapter 17, our final chapter, where you'll build your very own Digital Citizenship Toolkit. Until then — high-five!
+
+[See Annotated References](./references.md)
