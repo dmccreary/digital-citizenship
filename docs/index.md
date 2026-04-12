@@ -28,18 +28,17 @@ important enough to last a lifetime: **pause, think, act**.
 
 ## What You'll Find Here
 
-- **17 chapters** of short, story-driven reading written directly to students
-- **Interactive MicroSims** — small browser-based simulations that let
+- **17 [chapters](./chapters/index.md)** of short, story-driven reading written directly to students
+- **Interactive [MicroSims](./sims/index.md)** — small browser-based simulations that let
   students try each chapter's idea out for themselves
-- **Mini graphic novels** that put a chapter's big idea into a relatable moment
+- **Mini graphic novel [stories](./stories/index.md)** that put a chapter's big idea into a relatable moment
 - A friendly **river otter mascot named Maka** who models the *pause, think,
   act* habit at key points
-- A complete **learning graph**, **glossary**, **FAQ**, and **quizzes** for
-  every chapter
+- A complete **[learning graph](./learning-graph/index.md)**, **[glossary](./glossary.md)**, **[FAQ](./faq.md)**, **quizzes** and **annotated references** for every chapter
 
 ## Who This Book Is For
 
-- **Students (Grade 5).** Read the chapters in warm, plain language with
+- **Students (Grades 5-8).** Read the chapters in warm, plain language with
   short sentences, named scenarios, and Maka the River Otter.
 - **Teachers.** Find practical, classroom-ready material — pacing notes,
   discussion prompts, and ideas for accommodations.

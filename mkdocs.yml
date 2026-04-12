@@ -82,8 +82,32 @@ nav:
       - Content: chapters/17-digital-citizenship-toolkit/index.md
       - Quiz: chapters/17-digital-citizenship-toolkit/quiz.md
       - References: chapters/17-digital-citizenship-toolkit/references.md
+
   - Stories:
-    - Jordan's One-Second Choice: stories/jordan-one-second-choice/index.md
+    - List of Stories: stories/index.md
+    - Story Ideas: stories/story-ideas.md
+    - "Ch 2: Jordan's One-Second Choice": stories/jordan-one-second-choice/index.md
+    - "Ch 3: Leo's Missing Saturday": stories/leos-missing-saturday/index.md
+    - "Ch 5: Noah's Quiz Trap": stories/noahs-quiz-trap/index.md
+    - "Ch 6a: Zara's Too-Good Link": stories/zaras-too-good-link/index.md
+    - "Ch 6b: Marcus and the Guessable Password": stories/marcus-and-the-guessable-password/index.md
+    - "Ch 7: Kai's Disappearing Post": stories/kais-disappearing-post/index.md
+    - "Ch 8: Maya's Art and the Missing Name": stories/mayas-art-and-the-missing-name/index.md
+    - "Ch 9: Eli's Misread Message": stories/elis-misread-message/index.md
+    - "Ch 10: Suki's Uneasy Feeling": stories/sukis-uneasy-feeling/index.md
+    - "Ch 11a: Deshawn's Group Chat": stories/deshawns-group-chat/index.md
+    - "Ch 11b: Nia's Silent Screen": stories/nias-silent-screen/index.md
+    - "Ch 12: Ava's Quiet Courage": stories/avas-quiet-courage/index.md
+    - "Ch 13: Tomás and the Shark Photo": stories/tomas-and-the-shark-photo/index.md
+    - "Ch 14: Lucia's Science Fair Claim": stories/lucias-science-fair-claim/index.md
+    - "Ch 16: Jaylen's Changed Mind": stories/jaylens-changed-mind/index.md
+
+  - MicroSims:
+    - List of MicroSims: sims/index.md
+    - Digital Devices Explorer: sims/digital-devices-explorer/index.md
+    - How a Video Gets to Your Tablet: sims/internet-flow/index.md
+    - Learning Graph Viewer: sims/graph-viewer/index.md
+
   - Learning Graph:
     - Introduction: learning-graph/index.md
     - Concept List: learning-graph/concept-list.md
@@ -97,15 +121,10 @@ nav:
     - FAQ Quality Report: learning-graph/faq-quality-report.md
     - FAQ Coverage Gaps: learning-graph/faq-coverage-gaps.md
     - Quiz Generation Report: learning-graph/quiz-generation-report.md
-  - MicroSims:
-    - List of MicroSims: sims/index.md
-    - Digital Devices Explorer: sims/digital-devices-explorer/index.md
-    - How a Video Gets to Your Tablet: sims/internet-flow/index.md
-    - Learning Graph Viewer: sims/graph-viewer/index.md
 
-
-  - Prompts:
-    - prompts/01-seed.md
+  - Sample Prompts:
+    - List of Prompts: prompts/index.md
+    - Seed Prompt: prompts/01-seed.md
     - Economy-Mode Chapter Prompt: prompts/economy-mode-chapter.md
   - Feature Checklist: feature-checklist.md
   - FAQ: faq.md
