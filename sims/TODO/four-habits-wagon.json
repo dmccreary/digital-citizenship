@@ -1,0 +1,14 @@
+{
+  "sim_id": "four-habits-wagon",
+  "diagram_name": "The Four-Wheeled Wagon",
+  "chapter_number": 2,
+  "chapter_title": "\"Chapter 2: What Is a Digital Citizen?\"",
+  "chapter_dir": "02-what-is-a-digital-citizen",
+  "library": "AI Image Generator",
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-11",
+  "specification": "Type: diagram\n**sim-id:** four-habits-wagon<br/>\n**Library:** AI Image Generator<br/>\n**Status:** Specified\n\n**Purpose:** Visually reinforce the wagon metaphor used in the chapter prose and help students remember all four habits as a single connected idea.\n\n**Image prompt:**\n\nA side-view illustration of a small, friendly red pull wagon (like a child's toy wagon) rolling smoothly along a grassy path. The wagon has four clearly visible wheels, each painted a different color and labeled in large, kid-readable text on the wheel face:\n\n- Front wheel: river-blue (#2e6f8e), labeled **Etiquette**\n- Second wheel: soft green (#4a9c5b), labeled **Ethics**\n- Third wheel: warm gold (#e0a93b), labeled **Law**\n- Back wheel: coral (#e07a5f), labeled **Safety**\n\nThe wagon's body is a cheerful red with a small wooden handle tilted upward. Inside the wagon sit a few simple symbols of digital life — a small cartoon laptop, a tablet, and a friendly book — to suggest that the wagon is \"carrying\" the things a digital citizen does online.\n\nA cartoon Grade 5 student walks beside the wagon, pulling the handle with one hand and smiling. The student has dark skin, short braided hair, a purple t-shirt, jeans, and sneakers.\n\nThe background is a soft sunny landscape with rolling green hills, a few maple trees, and a wide pale-blue sky.\n\n**Style notes:**\n\n- Modern flat cartoon vector style.\n- All four wheel labels must be the same size and equally readable — the metaphor is that all four are needed.\n- The wagon should look balanced and rolling smoothly. No tipping, no missing wheels.\n- No text other than the four wheel labels.\n- Image dimensions: 16:9 horizontal, full content width."
+}

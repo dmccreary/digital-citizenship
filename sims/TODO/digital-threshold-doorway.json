@@ -1,0 +1,14 @@
+{
+  "sim_id": "digital-threshold-doorway",
+  "diagram_name": "Standing at the Digital Threshold",
+  "chapter_number": 2,
+  "chapter_title": "\"Chapter 2: What Is a Digital Citizen?\"",
+  "chapter_dir": "02-what-is-a-digital-citizen",
+  "library": "AI Image Generator",
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-11",
+  "specification": "Type: diagram\n**sim-id:** digital-threshold-doorway<br/>\n**Library:** AI Image Generator<br/>\n**Status:** Specified\n\n**Purpose:** Turn the abstract idea of \"the moment right before you tap\" into a vivid spatial image that ties the word *threshold* to the everyday experience of standing in a doorway.\n\n**Image prompt:**\n\nA side-view illustration of a fifth-grade girl standing in a doorway, with the doorway frame as the centerpiece of the image. The doorframe is drawn in warm wood tones. The girl has long black hair in a single braid, light tan skin, round glasses, a yellow sweater, and a backpack on her shoulders. She is mid-step: her front foot just touches the threshold strip and her back foot is still inside the room behind her. Her head is tilted slightly down — she is looking at a phone in her hands, with her thumb hovering just above the screen but not quite touching it.\n\nThe room behind her (left side of the image) is cozy and ordinary: a child's bedroom with a desk, a houseplant, and warm yellow lamplight. The space ahead of her (right side, beyond the doorway) is drawn as a stylized \"digital world\" — a soft-edged blue-and-purple cloudscape with floating gentle icons like a chat bubble, a star, a heart, a question mark, and a tiny globe. The two halves use contrasting palettes — warm indoors, cool digital outdoors — but neither side looks scary.\n\nA small, glowing strip on the threshold itself is highlighted in soft yellow. Three short words float just above it in clean lettering: **Pause   Think   Act**.\n\n**Style notes:**\n\n- Modern flat cartoon vector style, consistent with Maka and the rest of the chapter art.\n- The phone screen is blank or shows only an abstract glow — no app interface, no icons, no platform names.\n- The girl's posture reads as thoughtful, not afraid. This is about choosing, not warning.\n- Image dimensions: 16:9 horizontal, full content width."
+}

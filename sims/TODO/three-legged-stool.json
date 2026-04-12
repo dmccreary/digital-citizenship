@@ -1,0 +1,14 @@
+{
+  "sim_id": "three-legged-stool",
+  "diagram_name": "The Three-Legged Stool",
+  "chapter_number": 2,
+  "chapter_title": "\"Chapter 2: What Is a Digital Citizen?\"",
+  "chapter_dir": "02-what-is-a-digital-citizen",
+  "library": "AI Image Generator",
+  "bloom_level": null,
+  "bloom_verb": null,
+  "learning_objective": null,
+  "completion_status": "specified",
+  "extracted_date": "2026-04-11",
+  "specification": "Type: diagram\n**sim-id:** three-legged-stool<br/>\n**Library:** AI Image Generator<br/>\n**Status:** Specified\n\n**Purpose:** Make the chapter's stool metaphor visual and memorable, so students remember that opportunities, responsibilities, and rights always travel together.\n\n**Image prompt:**\n\nA simple, friendly wooden three-legged stool, drawn in a flat cartoon style and shown from a slight three-quarter angle so all three legs are clearly visible. The stool's seat is a warm honey-brown wood with a soft grain texture. Each of the three legs is painted a different color and clearly labeled in large, kid-readable text near the bottom of the leg:\n\n- Left leg, painted river-blue (#2e6f8e), labeled **Opportunities**\n- Center leg, painted soft green (#4a9c5b), labeled **Responsibilities**\n- Right leg, painted warm gold (#e0a93b), labeled **Rights**\n\nOn top of the seat, sitting cross-legged in a relaxed and proud pose, is a small cartoon Grade 5 student (gender-neutral, brown skin, short hair, friendly smile, casual t-shirt and jeans) giving a thumbs-up. A small thought bubble above their head shows a tiny globe with a wifi arc, suggesting \"the digital world.\"\n\nBehind the stool, a soft pale-cream background with a few light dot-grid markings keeps the focus on the stool itself.\n\n**Style notes:**\n\n- Modern flat cartoon vector style, no heavy shading.\n- Bold, clean labels in a friendly sans-serif font that a Grade 5 reader can read at a glance.\n- The three legs must look exactly the same length — the visual point is balance.\n- No text other than the three leg labels.\n- Image dimensions: 4:3 or square, suitable for inline placement at content width."
+}
