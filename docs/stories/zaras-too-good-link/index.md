@@ -4,13 +4,12 @@ description: "A mini graphic novel about a student who almost clicked a phishing
 image: /stories/zaras-too-good-link/cover.png
 og:image: /stories/zaras-too-good-link/cover.png
 twitter:image: /stories/zaras-too-good-link/cover.png
-generated_by: claude skill story-generator (adapted for fictional contemporary character)
+generated_by: "claude skill story-generator (adapted for fictional contemporary character)"
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
+hide:
+  toc
 ---
-
 # Zara's Too-Good Link
 
 *A Digital Citizenship mini graphic novel — companion to [Chapter 6: Passwords, Clickbait, and Staying Safe Online](../../chapters/06-passwords-and-online-safety/index.md)*
