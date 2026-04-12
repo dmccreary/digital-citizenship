@@ -74,7 +74,7 @@ Some personal information is so harmless and so fun that it makes the internet a
 
 **Hobby information** is what you like to do for fun. Drawing foxes is hobby information. Building with blocks is hobby information. Playing on a soccer team is hobby information. Hobby information helps you find other kids who like the same things you like, which is one of the best parts of the internet.
 
-You can also share things like your age group (for example, "I'm in fifth grade") and your country, as long as you are not telling a specific stranger.
+You can also share things like your age group (for example, "I'm in elementary school") and your country, as long as you are not telling a specific stranger.
 
 ### Private Information You Should Never Share
 
@@ -99,7 +99,7 @@ All of these private items have a name when grouped together.
 | Favorite color | Full name |
 | Favorite food | Birthday (exact date) |
 | Hobbies and interests | Home address |
-| Age group ("I'm in fifth grade") | Phone number |
+| Age group ("I'm in elementary school") | Phone number |
 | Country | School name |
 | Pet's name | Photo of yourself outside school |
 

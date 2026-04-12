@@ -55,7 +55,7 @@ These are concepts students are likely to ask about and that anchor important ha
 
 - **Block Feature / Report Feature / Mute Feature** — the three safety tools every student should know
 - **Friend Request**
-- **Group Chat** — central to a fifth grader's online life
+- **Group Chat** — central to a student's online life
 - **Boundary Setting**
 
 ### Cluster 6 — Cyberbullying, Digital Drama, and Hate Speech

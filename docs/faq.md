@@ -17,7 +17,7 @@ This course teaches Grade 5 students how to be safe, kind, and balanced in the d
 
 ### Who is this course for?
 
-This course is written for **Grade 5 students** (ages 10 to 12). It is also useful for Grade 6 students, classroom teachers, school librarians, technology coaches, and parents who want to support a young digital citizen. The reading is at a fourth-to-sixth-grade level. The scenarios use kids who look and live like real fifth graders. You do not need to be a tech expert to read this book — you only need to be curious. See the [course description](course-description.md) for more about the audience.
+This course is written for **Grade 5 students** (ages 10 to 12). It is also useful for Grade 6 students, classroom teachers, school librarians, technology coaches, and parents who want to support a young digital citizen. The reading is at a fourth-to-sixth-grade level. The scenarios use kids who look and live like real students. You do not need to be a tech expert to read this book — you only need to be curious. See the [course description](course-description.md) for more about the audience.
 
 ### What will I learn in this course?
 
@@ -69,7 +69,7 @@ Start at [Chapter 1](chapters/01-welcome-to-digital-world/index.md) and read in 
 
 ### What is a digital device?
 
-A **digital device** is any tool that uses tiny electronic parts to do work for you. It usually has a screen, lights up, and lets you tap, click, type, or swipe. Laptops, tablets, smartphones, smart watches, video-game consoles, and smart TVs are all digital devices. Some devices, like your school laptop, do many different things. Others, like a smart watch, do only a few. [Chapter 1](chapters/01-welcome-to-digital-world/index.md) introduces the most common digital devices in a fifth grader's life.
+A **digital device** is any tool that uses tiny electronic parts to do work for you. It usually has a screen, lights up, and lets you tap, click, type, or swipe. Laptops, tablets, smartphones, smart watches, video-game consoles, and smart TVs are all digital devices. Some devices, like your school laptop, do many different things. Others, like a smart watch, do only a few. [Chapter 1](chapters/01-welcome-to-digital-world/index.md) introduces the most common digital devices in a student's life.
 
 ### What is the internet?
 
@@ -152,7 +152,7 @@ Your **online reputation** is what other people think of you based on your digit
 
 ### What is a digital footprint that is "permanent"?
 
-When we say a digital footprint is **permanent**, we mean it can stick around long after you forget about it. A photo you posted in fifth grade might still be findable in tenth grade. A mean comment can be screenshotted and saved by someone else, even if you delete it. That is why thinking *before* you post matters more than trying to delete *after*. [Chapter 7](chapters/07-what-is-a-digital-footprint/index.md) explains why deletion does not always work.
+When we say a digital footprint is **permanent**, we mean it can stick around long after you forget about it. A photo you post today might still be findable years from now. A mean comment can be screenshotted and saved by someone else, even if you delete it. That is why thinking *before* you post matters more than trying to delete *after*. [Chapter 7](chapters/07-what-is-a-digital-footprint/index.md) explains why deletion does not always work.
 
 ### What is data tracking?
 
@@ -372,7 +372,7 @@ A **Family Media Plan** is an agreement everyone in your home makes about screen
 
 ### How does my digital footprint affect my future?
 
-Your digital footprint can follow you for years. Coaches, teachers, and even future employers sometimes look people up online. A footprint full of kind, helpful, and creative posts can open doors. A footprint full of mean comments or risky behavior can close them. The good news is: you are in fifth grade. You have plenty of time to build a footprint you will be proud of. Start today by thinking before you post. Read more in [Chapter 7](chapters/07-what-is-a-digital-footprint/index.md) and [Chapter 8](chapters/08-reputation-and-credit/index.md).
+Your digital footprint can follow you for years. Coaches, teachers, and even future employers sometimes look people up online. A footprint full of kind, helpful, and creative posts can open doors. A footprint full of mean comments or risky behavior can close them. The good news is: you are still young. You have plenty of time to build a footprint you will be proud of. Start today by thinking before you post. Read more in [Chapter 7](chapters/07-what-is-a-digital-footprint/index.md) and [Chapter 8](chapters/08-reputation-and-credit/index.md).
 
 ### How does an algorithm decide what I see online?
 

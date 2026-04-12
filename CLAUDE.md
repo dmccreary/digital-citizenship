@@ -261,6 +261,29 @@ later.
   still read well in five years
 - Brand and platform names (TikTok, Snapchat, Discord, Instagram) — the
   textbook stays platform-agnostic
+- *Fifth graders, fifth grade students, 5th graders, 10-year-olds,
+  11-year-olds, 12-year-olds* — refer to the audience as **students**
+  in nearly all body text. The book is officially written for Grade 5,
+  but readers in older grades, multi-age classrooms, ELL classrooms,
+  and home-school settings will also use it. Locking the prose to
+  "fifth graders" makes every other reader feel like the book is not
+  for them. The rule applies to chapters, the about page, the
+  instructor's guide, and the body of the course description — say
+  "students," not "fifth graders."
+
+  **Two narrow exceptions:**
+
+  1. **The Target Audience block of `docs/course-description.md`.**
+     That section is a formal audience descriptor for administrators
+     and standards reviewers; precise phrases like *"Grade 5 and 6
+     students (ages 10–12)"* or *"fifth graders"* are appropriate
+     there. Keep the precision tight to that block — do not let it
+     bleed into the rest of the course description prose.
+  2. **Standards-alignment phrases like *"aligned to Grade 5 ISTE
+     indicators."*** These describe the level the standard is pegged
+     at, not the reader.
+
+  Outside those two contexts, use "students."
 
 ### Defining New Terms
 

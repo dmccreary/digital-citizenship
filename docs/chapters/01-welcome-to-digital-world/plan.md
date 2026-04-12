@@ -44,7 +44,7 @@ The chapter is organized into 6 sections plus an opener and a closer. Sections a
 
 ### 1. Opening: Maya's First Day *(scenario + welcome admonition)*
 
-A short scenario about a fictional Grade 5 student named **Maya** who is handed her first school laptop on the first day of fifth grade. Sets the chapter's question: *What is all this stuff, and how do I use it well?*
+A short scenario about a fictional student named **Maya** who is handed her first school laptop on the first day of school. Sets the chapter's question: *What is all this stuff, and how do I use it well?*
 
 - **Maka admonition #1: `mascot-welcome`** — Maka introduces themselves and the chapter, says "Pause, think, act!"
 - **Concepts seeded (not yet defined):** none — pure framing.

@@ -139,7 +139,7 @@ The most important starred cuts were:
 - **Plagiarism** (FOOT) — pairs naturally with the existing *Giving Credit* concept
 - **Netiquette** (REL) — the umbrella term for the entire Relationships module
 - **Exclusion** (CYB) — a primary form of Grade 5 cyberbullying ("you can't be in our group chat") that the original list missed
-- **Satire / Parody** (MIS) — fifth graders genuinely confuse The Onion with real news
+- **Satire / Parody** (MIS) — students at this age genuinely confuse The Onion with real news
 - **Lateral Reading** (MIS) — Stanford History Education Group's signature kid-friendly fact-check skill
 - **Confirmation Bias** (CRIT) — the most foundational critical-thinking bias
 - **Peer Teaching** (CAP) — explicitly mentioned in the course description but missing from the concept list
@@ -150,7 +150,7 @@ The project author's response — "I would rather have a few extra concepts that
 
 1. **Teachers are the curators.** The graph is a *menu*, not a script. A teacher who has 30 instructional days can pick the 30 highest-priority concepts for her classroom. A teacher who has 60 days can pick 60. A graph that is missing a concept forces the teacher to invent it on the fly; a graph that has extras simply gets pruned with no extra effort.
 2. **Coverage is cheap; gaps are expensive.** Adding 65 concepts to the graph at this stage took roughly 5 minutes of token spend. Adding 65 concepts after chapter content has been generated would take *hours* of token spend because every chapter that mentioned the new concept would need re-generation. Front-loading coverage is a strict win.
-3. **Grade 5 vocabulary is the core deliverable.** The whole point of this textbook is to give 10-, 11-, and 12-year-olds the *vocabulary* and *judgment* they need to be safe online. Vocabulary missing from the graph is vocabulary missing from the textbook.
+3. **Grade 5 vocabulary is the core deliverable.** The whole point of this textbook is to give students the *vocabulary* and *judgment* they need to be safe online. Vocabulary missing from the graph is vocabulary missing from the textbook.
 
 ### What was deliberately *not* added
 

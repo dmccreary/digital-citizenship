@@ -35,7 +35,7 @@ zero-violation check.
 The structure was designed in two passes. Pass one produced a 9-chapter
 structure that mapped one chapter per ISTE module. After teacher review, the
 structure was redesigned in pass two to produce smaller, Grade 5–appropriate
-chapters that better match the cognitive load of 10- to 12-year-old readers.
+chapters that better match the cognitive load of student readers.
 Pass two is the final structure documented here.
 
 ---
@@ -145,7 +145,7 @@ The final design has **zero violations**.
 Grade 5 students (ages 10–12) cannot absorb a 30-concept chapter the way a
 high school or college student can. Research on reading load and working
 memory suggests that 13 to 19 distinct concepts is the upper bound for what
-a 10-year-old can retain across one chapter, especially when each concept
+a student at this level can retain across one chapter, especially when each concept
 must be practiced before being assessed. The target was set at **20 ± 7**
 concepts per chapter, with flexibility for logical groupings.
 
@@ -157,13 +157,13 @@ and chapters. It produced 9 chapters of 25 to 34 concepts each (average 29.4).
 This was the most administratively elegant structure — it mapped 1:1 to ISTE
 1.2.2a–d plus Common Sense Education topics — but it was rejected after the
 curriculum author reviewed it against the Grade 5 reading load. The author
-noted that 5th-grade students would do better with smaller, more digestible
+noted that students would do better with smaller, more digestible
 chapters even if it meant more chapters overall.
 
 The administrator-friendly observation here is important: **the textbook
 prioritizes student learning over administrative tidiness**. A 9-chapter
 structure would have looked cleaner on a curriculum map, but it would have
-asked too much of 10-year-old readers per chapter. The redesign cost no
+asked too much of student readers per chapter. The redesign cost no
 content — every concept is still in the textbook — and the standards alignment
 is still complete, just distributed across more chapters.
 

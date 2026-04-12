@@ -44,7 +44,7 @@ This chapter assumes only the prerequisites listed in the [course description](.
 
 ## Maya's First Day
 
-It is the first day of fifth grade. Maya walks into Room 12 and finds something new on her desk. It is a thin silver computer with the school's name on the lid. Her teacher smiles and says, "That's your school laptop, Maya. It's yours to use this year."
+It is the first day of school. Maya walks into Room 12 and finds something new on her desk. It is a thin silver computer with the school's name on the lid. Her teacher smiles and says, "That's your school laptop, Maya. It's yours to use this year."
 
 Maya feels two things at once. She feels excited, because she has never had her own computer before. She also feels a little nervous. There are so many buttons. So many things to click. Where do you even start?
 

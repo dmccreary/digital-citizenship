@@ -149,7 +149,7 @@ The Safe Talk Rule is for moments when something is wrong. There is a bigger hab
 
 **Boundary setting** is the habit of deciding ahead of time what you will and will not do, share, or accept online — and then sticking to those decisions. A boundary is a line you draw for yourself before you ever need it. Your boundaries are yours. Nobody else gets to set them for you, but you can ask trusted adults to help you choose good ones.
 
-Some examples of healthy online boundaries for a fifth grader:
+Some examples of healthy online boundaries for a student:
 
 - "I never share my full name, school, or address online — not even with kids who say they are kids."
 - "I never agree to chat in private apps with anybody my parents haven't met."
@@ -169,7 +169,7 @@ Type: microsim
 **Library:** p5.js<br/>
 **Status:** Specified
 
-**Learning objective (Bloom: Apply):** Given a series of pretend chat messages a fifth grader might receive, the student can sort each one into "safe to keep chatting," "use block / mute / report," or "stop and tell a trusted adult right now."
+**Learning objective (Bloom: Apply):** Given a series of pretend chat messages a student might receive, the student can sort each one into "safe to keep chatting," "use block / mute / report," or "stop and tell a trusted adult right now."
 
 **Visual elements:**
 

@@ -14,9 +14,9 @@ quality_score: 99
 
 ## Course Overview
 
-Ten-, eleven-, and twelve-year-olds are making their first real decisions as members of online communities. They are getting school laptops, family tablets, shared game accounts, and — for many of them — their first phone. Every tap, post, and search shapes both how they feel today and the digital footprint they will carry into middle school and beyond. This course gives fifth graders the habits, vocabulary, and judgment they need to be safe, kind, and balanced when they use technology.
+Students are making their first real decisions as members of online communities. They are getting school laptops, family tablets, shared game accounts, and — for many of them — their first phone. Every tap, post, and search shapes both how they feel today and the digital footprint they will carry into middle school and beyond. This course gives students the habits, vocabulary, and judgment they need to be safe, kind, and balanced when they use technology.
 
-*Digital Citizenship for Grade 5* is organized as an **interactive intelligent textbook**: where many big ideas are paired with a short **graphic-novel story** that shows the idea happening to a character the student can care about, and with an interactive **MicroSim** (a small browser-based simulation) that lets the student try the idea out for themselves. Students do not just read about media balance — they run a Digital Habit Tracker. They do not just hear about digital footprints — they follow a fictional character's Digital Trail and see what it reveals. They do not just memorize the word *upstander* — they step into a cyberbullying scenario and make choices.
+*Digital Citizenship* is organized as an **interactive intelligent textbook**: where many big ideas are paired with a short **graphic-novel story** that shows the idea happening to a character the student can care about, and with an interactive **MicroSim** (a small browser-based simulation) that lets the student try the idea out for themselves. Students do not just read about media balance — they run a Digital Habit Tracker. They do not just hear about digital footprints — they follow a fictional character's Digital Trail and see what it reveals. They do not just memorize the word *upstander* — they step into a cyberbullying scenario and make choices.
 
 The curriculum is anchored in the **ISTE Student Standards**, specifically **Standard 1.2 Digital Citizen**, which asks students to "recognize the rights, responsibilities, and opportunities of living, learning, and working in an interconnected digital world" and to "act and model in ways that are safe, legal, and ethical." The six course modules explicitly address ISTE indicators **2a (Digital Identity)**, **2b (Safe & Ethical Behavior)**, **2c (Intellectual Property Rights)**, and **2d (Personal Data Privacy & Security)**. The module structure also aligns with the familiar topics used by Common Sense Education:
 
@@ -56,7 +56,7 @@ To keep the course focused and age-appropriate, the following are explicitly **o
 
 ## Learning Outcomes
 
-After completing this course, Grade 5 students will be able to:
+After completing this course, students will be able to:
 
 ### Remember
 *Retrieving, recognizing, and recalling relevant knowledge from long-term memory.*
@@ -135,6 +135,6 @@ After completing this course, Grade 5 students will be able to:
 
 ## Why This Course Matters
 
-Fifth grade is the last year of elementary school for most U.S. students, and it is also the year many of them cross a digital threshold: a personal device, a first social account, a shared multiplayer game with strangers, a homework assignment that requires research on the open web. The decisions they make in this year — what to share, who to trust, when to take a break, how to treat other people — set patterns that follow them into middle school, where the stakes (and the consequences of mistakes) grow quickly.
+The late-elementary years are when many students cross a digital threshold: a personal device, a first social account, a shared multiplayer game with strangers, a homework assignment that requires research on the open web. The decisions they make during this stretch — what to share, who to trust, when to take a break, how to treat other people — set patterns that follow them into middle school, where the stakes (and the consequences of mistakes) grow quickly.
 
-By anchoring every lesson in **interactive MicroSims** and a short **graphic-novel stories**, this textbook meets fifth-grade learners where they are: they remember stories, they love making choices, and they learn by doing. By aligning every module with the **ISTE Digital Citizen** indicators and the Common Sense Education topic framework, it also meets teachers where they are, so that a classroom teacher, a library-media specialist, or a technology coach can drop the textbook into an existing unit without re-writing their curriculum map. The goal is simple: when a Grade 5 student finishes this course, they should be able to pause, think, and act like a citizen — not just a user — the next time they pick up a device.
+By anchoring every lesson in **interactive MicroSims** and short **graphic-novel stories**, this textbook meets students where they are: they remember stories, they love making choices, and they learn by doing. By aligning every module with the **ISTE Digital Citizen** indicators and the Common Sense Education topic framework, it also meets teachers where they are, so that a classroom teacher, a library-media specialist, or a technology coach can drop the textbook into an existing unit without re-writing their curriculum map. The goal is simple: when a student finishes this course, they should be able to pause, think, and act like a citizen — not just a user — the next time they pick up a device.

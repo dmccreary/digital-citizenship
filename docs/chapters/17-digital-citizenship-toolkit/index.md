@@ -64,7 +64,7 @@ This chapter builds on concepts from:
 
 ## The Last Day in Room 12
 
-It is the last week of fifth grade. Maya, the kid you met way back in Chapter 1, is sitting at her desk with her silver laptop. She is not nervous anymore. She is *proud*.
+It is the last week of school. Maya, the kid you met way back in Chapter 1, is sitting at her desk with her silver laptop. She is not nervous anymore. She is *proud*.
 
 Around her, the rest of the class is working on the same project. Jordan is finishing a poster. Aisha is updating her habit tracker. Marcus is writing a family tech plan with crayon notes in the margins. Priya is making a tiny picture book about private vs personal information. Diego is taping together a paper card about how to spot a scam. Lily is drawing her digital footprint as a path of glowing footprints across the page. Theo, Imani, Noah, Layla, Sofia, Kai, Aanya, Owen, and Zara are all working on something too.
 
@@ -229,7 +229,7 @@ Implementation: p5.js sketch deployed at `docs/sims/build-your-own-toolkit/`.
 
 ## The Whole Class Walks Out
 
-The last bell of the year rings. Maya tucks her toolkit folder into her backpack. Jordan tapes his upstander poster to the classroom wall as a gift to next year's fifth graders. Aisha hands her habit tracker project to her teacher with a smile. Marcus folds the family tech plan into his pocket so he can show his mom on the way home.
+The last bell of the year rings. Maya tucks her toolkit folder into her backpack. Jordan tapes his upstander poster to the classroom wall as a gift to next year's class. Aisha hands her habit tracker project to her teacher with a smile. Marcus folds the family tech plan into his pocket so he can show his mom on the way home.
 
 One by one, the kids of Room 12 walk out into the hallway, into the parking lot, into the summer, and into the rest of their lives. They are not the same kids who walked in last September. They have a toolkit. They have habits. They have words for things that used to confuse them. Most of all, they have each other — and the trusted adults who taught them.
 
@@ -280,3 +280,34 @@ Here are the 25 new words you just learned in this chapter — every single tool
 !!! mascot-celebration "You Did It, Friends!"
     <img src="../../img/mascot/celebration.png" class="mascot-admonition-img" alt="Maka the River Otter celebrating">
     Look at you. You finished the whole book. 17 chapters. Hundreds of words. A toolkit you can use for the rest of your life. I am the proudest river otter in the whole Mississippi. Remember what we said way back in Chapter 1? *Pause, think, act.* Three little words. They will carry you the rest of the way. I love you, friends. Go be the digital citizen this world needs. High-five — forever!
+
+## Exploring Further
+
+Think of this chapter as your first adventure. You are learning how
+computers are changing the skills you need in today's world. There are
+many more adventures ahead. When you get to junior high or high school,
+you can take classes that help you learn more about yourself, about
+computers, and about how to find truthful information. Here are some
+other interactive textbooks you can explore in the years to come.
+
+- [IB Theory of Knowledge](https://dmccreary.github.io/theory-of-knowledge/) —
+  This is a core class in the International Baccalaureate program for
+  high school students. It teaches you how we know what we know, and
+  how to tell good information from bad. If you want to be a great
+  fact checker, this could be your next adventure.
+
+- [Modern Ethics](https://dmccreary.github.io/ethics-course/) — Many
+  topics in this course are about how to treat other people fairly.
+  But when there are not enough resources to go around, fairness gets
+  harder. This course is an adventure into how we treat other people,
+  other cultures, and even companies whose choices affect our world.
+
+- [Computer Science](https://dmccreary.github.io/computer-science/) —
+  Computers get more powerful every day. Telling true facts from
+  misinformation often needs powerful computer tools. This course can
+  be your adventure in that direction when you reach high school.
+
+- [Learning Linux](https://dmccreary.github.io/learning-linux/) —
+  This is another computer course for students who want adventures
+  using free software to run their computers. Save this course for
+  your junior or senior year of high school.

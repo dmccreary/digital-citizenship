@@ -1,17 +1,72 @@
-# Welcome to MkDocs
+---
+title: "Digital Citizenship"
+description: "An interactive intelligent textbook for Grade 5 — building safe, kind, and balanced lives online. Aligned to the ISTE Student Standards."
+image: img/cover.png
+og:image: img/cover.png
+twitter:image: img/cover.png
+hide:
+  - toc
+---
+<style>
+.md-content__inner h1 {display: none !important;}
+</style>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Digital Citizenship
 
-## Commands
+<figure markdown>
+  ![Digital Citizenship — Building Safe, Kind, and Balanced Lives Online](./img/cover.png){ width="100%" }
+</figure>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Welcome! This is an **interactive intelligent textbook** for Grade 5 students,
+their teachers, and the families and school leaders who support them. It was
+created for **ISD 197** — the West St. Paul–Mendota Heights–Eagan Area Schools
+in Minnesota — on land near **Bdote**, the confluence of the Minnesota and
+Mississippi rivers.
 
-## Project layout
+The book's central habit is simple enough for a student to remember and
+important enough to last a lifetime: **pause, think, act**.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## What You'll Find Here
+
+- **17 chapters** of short, story-driven reading written directly to students
+- **Interactive MicroSims** — small browser-based simulations that let
+  students try each chapter's idea out for themselves
+- **Mini graphic novels** that put a chapter's big idea into a relatable moment
+- A friendly **river otter mascot named Maka** who models the *pause, think,
+  act* habit at key points
+- A complete **learning graph**, **glossary**, **FAQ**, and **quizzes** for
+  every chapter
+
+## Who This Book Is For
+
+- **Students (Grade 5).** Read the chapters in warm, plain language with
+  short sentences, named scenarios, and Maka the River Otter.
+- **Teachers.** Find practical, classroom-ready material — pacing notes,
+  discussion prompts, and ideas for accommodations.
+- **District administrators.** Review the formal course description, ISTE
+  standards alignment, learning graph, taxonomy distribution, and quality
+  metrics.
+
+## Get Started
+
+- [About This Book](about.md) — purpose, audience, design, and the team behind it
+- [Course Description](course-description.md) — formal overview, standards alignment, and learning outcomes
+- [Chapter 1: Welcome to the Digital World](chapters/01-welcome-to-digital-world/index.md) — start reading
+- [Learning Graph](learning-graph/index.md) — explore the concepts and how they connect
+
+## Standards Alignment
+
+This curriculum is anchored in the **ISTE Student Standards**, specifically
+**Standard 1.2 Digital Citizen**, and explicitly addresses indicators
+**1.2.2a** (Digital Identity), **1.2.2b** (Safe & Ethical Behavior),
+**1.2.2c** (Intellectual Property Rights), and **1.2.2d** (Personal Data
+Privacy & Security). Learning outcomes are organized using the **revised
+2001 Bloom's Taxonomy**.
+
+## License
+
+This work is released under the
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](license.md).
+You are free to share and adapt the material for non-commercial purposes as
+long as you give appropriate credit and share your adaptations under the
+same license.

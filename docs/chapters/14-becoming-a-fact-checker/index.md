@@ -68,7 +68,7 @@ A **fact check** is the act of looking up a claim to see whether it is true, bef
 
 ## The Fact Check Steps
 
-Real fact checkers — the grown-ups whose actual job is to check stories — use a small set of steps in order. The steps are simple enough for a fifth grader, and they work for almost everything.
+Real fact checkers — the grown-ups whose actual job is to check stories — use a small set of steps in order. The steps are simple enough for a student, and they work for almost everything.
 
 **Fact check steps** is the short workflow you can use on any claim: *Who said it? When? What is the evidence? Does another source agree?* Those four questions are your whole toolkit. Let's look at the first three more closely. The fourth gets its own section after.
 
@@ -124,7 +124,7 @@ The smart move is to check more than one trusted source for the same claim.
 
 Real fact checkers have a fancy name for one specific kind of source comparison.
 
-**Lateral reading** is the habit of opening a few new browser tabs to look up a story or a website *outside* of itself. Instead of staying on the page that made the claim, you open a new tab and ask trusted sources what they say. You "read sideways" instead of just down the page. Lateral reading is what real journalists and librarians do, and it is the single best fact-checking habit a fifth grader can build.
+**Lateral reading** is the habit of opening a few new browser tabs to look up a story or a website *outside* of itself. Instead of staying on the page that made the claim, you open a new tab and ask trusted sources what they say. You "read sideways" instead of just down the page. Lateral reading is what real journalists and librarians do, and it is the single best fact-checking habit a student can build.
 
 !!! mascot-tip "Maka's Tip"
     <img src="../../img/mascot/tip.png" class="mascot-admonition-img" alt="Maka the River Otter giving a tip">

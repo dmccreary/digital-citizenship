@@ -47,7 +47,7 @@ This chapter builds on concepts from:
 
 In Chapter 1 you learned the *words* of the digital world — devices, the internet, browsers, and apps. In this chapter, you'll learn what it means to *be* somebody in that world. Not just a user. A *citizen*.
 
-The biggest ideas in this chapter come to life in a story. Meet **Jordan** — a fifth-grader who has one tough second to choose who he wants to be. Read the mini graphic novel below before you keep going, or save it for after. Either order works.
+The biggest ideas in this chapter come to life in a story. Meet **Jordan** — a student who has one tough second to choose who he wants to be. Read the mini graphic novel below before you keep going, or save it for after. Either order works.
 
 [Read Jordan's Story](../../stories/jordan-one-second-choice/index.md){ .md-button .md-button--primary }
 

@@ -46,7 +46,7 @@ This chapter builds on concepts from:
 
 ## Theo and the Forgotten Signature
 
-Theo loves drawing space pictures. One night, he finds an amazing painting of a purple planet on a website that lets kid artists post their work. The painting is by another fifth grader named Sam. Theo loves it so much that he saves it to his tablet.
+Theo loves drawing space pictures. One night, he finds an amazing painting of a purple planet on a website that lets kid artists post their work. The painting is by another student named Sam. Theo loves it so much that he saves it to his tablet.
 
 A week later, Theo is making a poster for his science project. He needs a picture of a planet. He remembers Sam's painting, opens it, and pastes it right into the middle of his poster. He prints the poster and brings it to school. The teacher loves it. Theo feels proud.
 
@@ -80,7 +80,7 @@ The tricky part of reputation is that it follows you across time. The people who
 
 One special future audience deserves its own name.
 
-**College audience** is the group of college admissions officers, professors, and college students who might look up your name when you are old enough to apply to college. That feels far away from fifth grade, but the trail you start now is the same trail those people will see. Smart digital citizens think about that early.
+**College audience** is the group of college admissions officers, professors, and college students who might look up your name when you are old enough to apply to college. That feels far away from elementary school, but the trail you start now is the same trail those people will see. Smart digital citizens think about that early.
 
 ## Public and Private — Who Can See What
 
@@ -141,7 +141,7 @@ Online reputation is about what other people see. There is a related idea about 
 
 **Personal brand** is the picture of yourself that you choose to show through your trail — your favorite topics, your style, the things you care about. A personal brand isn't fake. It is the *real* you, but the parts you choose to show on purpose. A kid who loves drawing space pictures might build a personal brand around being "the space art kid," with a username and avatar that match.
 
-Your personal brand starts in fifth grade, but it grows with you. The kid who is "the space art kid" today might still be making space art in college. Or they might change completely and become "the chess kid" or "the bird-watching kid." Both are fine. Your brand is allowed to change because *you* are allowed to change.
+Your personal brand starts now, but it grows with you. The kid who is "the space art kid" today might still be making space art in college. Or they might change completely and become "the chess kid" or "the bird-watching kid." Both are fine. Your brand is allowed to change because *you* are allowed to change.
 
 #### MicroSim: The Reputation Builder
 
