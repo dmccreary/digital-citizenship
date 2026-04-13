@@ -129,12 +129,18 @@ nav:
     - Chapter Metrics: learning-graph/chapter-metrics.md
     - Diagram Table: learning-graph/diagram-table.md
     - Diagram Details: learning-graph/diagram-details.md
+    - Project Management: learning-graph/project-management.md
 
   - Sample Prompts:
     - List of Prompts: prompts/index.md
     - Seed Prompt: prompts/01-seed.md
     - Economy-Mode Chapter Prompt: prompts/economy-mode-chapter.md
+    - Cover Image Prompt: prompts/cover-prompt.md
+  
+  # Move this into the Learning Graph once the feature list is finalized
   - Feature Checklist: feature-checklist.md
+
+  # Supplemental Materials:
   - FAQ: faq.md
   - Glossary: glossary.md
   - License: license.md
@@ -162,12 +168,17 @@ theme:
     - navigation.footer
     - content.action.edit
 
+# Image prompt files and other non-publishable markdown should be listed here
 exclude_docs: |
   sims/digital-devices-explorer/image-prompt.md
+  img/mascot/image-prompts.md
+  learning-graph/index-template.md
 
 plugins:
   - search
   - glightbox
+  - social
+  - social_override
 
 markdown_extensions:
   - md_in_html

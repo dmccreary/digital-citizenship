@@ -112,6 +112,19 @@ digital-citizenship/
 └── README.md                      # This file
 ```
 
+## Project Board
+
+Track development progress on the
+[Kanban board](https://github.com/users/dmccreary/projects/11).
+
+| Column | Purpose |
+|--------|---------|
+| **Todo** | Identified work not yet started |
+| **In Progress** | Work currently underway |
+| **Done** | Completed and verified |
+
+Note that we can use the traditional five columns for Backlog (Todo), and Ready, In Process and, In review and Done, if needed.
+
 ## Reporting Issues
 
 Found a bug, typo, or have a suggestion for improvement? Please report it:

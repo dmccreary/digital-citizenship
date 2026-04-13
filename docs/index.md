@@ -1,6 +1,6 @@
 ---
-title: "Digital Citizenship"
-description: "An interactive intelligent textbook for Grade 5 — building safe, kind, and balanced lives online. Aligned to the ISTE Student Standards."
+title: "Digital Citizenship: Building Safe, Kind and Balanced Lives Online"
+description: "An interactive intelligent textbook for grades 5 to 9 — building safe, kind, and balanced lives online. Aligned to the ISTE Student Standards."
 image: img/cover.png
 og:image: img/cover.png
 twitter:image: img/cover.png
