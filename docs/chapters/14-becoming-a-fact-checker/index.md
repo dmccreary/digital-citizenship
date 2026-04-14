@@ -205,6 +205,14 @@ Cynics are not great fact checkers. A cynic shuts the door before the work even 
 
 So here is the rule: be a skeptic, not a cynic. Ask for proof — then follow the proof wherever it leads.
 
+The **Skeptic or Cynic?** MicroSim lets you practice the difference right now. In **Explore** mode, two side-by-side columns show five skeptical phrases on the left and five cynical phrases on the right. Read them out loud and notice how skeptic phrases ask questions while cynic phrases slam the door. Click the **More...** button to pull a fresh set. When you are ready, switch to **Quiz** mode. A phrase shows up on its own, and you pick whether it belongs to a skeptic or a cynic. A progress bar tracks your correct answers. Get ten right and a celebration animation plays. 
+
+#### Diagram: Skeptic or Cynic?
+
+<iframe src="../../sims/skeptic-or-cynic/main.html" height="600px" width="100%" scrolling="no" style="border: 1px solid #ccc; border-radius: 8px;"></iframe>
+
+[Open the MicroSim in a full window](../../sims/skeptic-or-cynic/index.md).
+
 ## Aanya Checks the Whale
 
 Aanya does the four steps. *Author check:* the photo has no author, just a random username. *Date check:* the caption says "last week," but the website where she found it has no date stamp on the post. *Headline vs article:* there is no article — just the photo and the caption. *Source comparison:* she opens a real ocean-life website and a real museum site in two new tabs. Neither one has a story about a giant whale jumping over a boat in Hawaii last week.
