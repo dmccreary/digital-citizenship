@@ -122,11 +122,11 @@ function updateUI() {
       skepticButton.show();
       cynicButton.show();
       // place answer buttons centered, a little above bottom of draw area
-      skepticButton.position(canvasWidth / 2 - 170, drawHeight - 70);
-      cynicButton.position(canvasWidth / 2 + 20, drawHeight - 70);
+      skepticButton.position(canvasWidth / 2 - 170, drawHeight - 90);
+      cynicButton.position(canvasWidth / 2 + 20, drawHeight - 90);
       if (quizShowNextButton) {
         nextButton.show();
-        nextButton.position(canvasWidth / 2 - 55, drawHeight - 30);
+        nextButton.position(canvasWidth / 2 - 55, drawHeight - 50);
       } else {
         nextButton.hide();
       }
