@@ -1,0 +1,95 @@
+{
+  "microsim": {
+    "dublinCore": {
+      "title": "Skeptic or Cynic?",
+      "creator": ["Dan McCreary", "Claude"],
+      "subject": ["Digital Citizenship", "Media Literacy", "Critical Thinking"],
+      "description": "An Explore-and-Quiz MicroSim that helps students tell the difference between healthy skeptical phrases (that ask good questions) and unhealthy cynical phrases (that have given up on the truth).",
+      "date": "2026-04-14T00:00:00Z",
+      "type": "Interactive Simulation",
+      "format": "text/javascript",
+      "language": "en",
+      "rights": "CC BY-NC-SA 4.0 DEED"
+    },
+    "search": {
+      "tags": ["skeptic", "cynic", "critical thinking", "media literacy", "digital citizenship", "quiz", "grade 5"],
+      "visualizationType": ["quiz", "sorting", "classification"]
+    },
+    "educational": {
+      "gradeLevel": ["5", "6"],
+      "subjectArea": ["Digital Citizenship", "Language Arts", "Social Studies"],
+      "topic": ["Skepticism", "Cynicism", "Evaluating Online Information", "Critical Thinking"],
+      "learningObjectives": [
+        "Distinguish between skeptical phrases (curious, evidence-seeking) and cynical phrases (dismissive, hopeless)",
+        "Recognize the kinds of questions a skeptic asks before sharing online information",
+        "Identify tone signals that reveal cynicism"
+      ],
+      "bloomsTaxonomy": ["Understand", "Apply", "Analyze"],
+      "duration": "10-15 minutes",
+      "prerequisites": ["Familiarity with the 'pause, think, act' habit from Chapter 2"]
+    },
+    "technical": {
+      "framework": "p5.js",
+      "canvasDimensions": "720x580",
+      "responsive": "Width-responsive",
+      "dependencies": "p5.js 1.11.10 CDN, phrases.json",
+      "accessibility": "describe() screen reader label, high-contrast colors, large readable text"
+    },
+    "userInterface": {
+      "controls": [
+        {
+          "id": "modeButton",
+          "type": "button",
+          "label": "Switch to Quiz Mode / Switch to Explore Mode",
+          "purpose": "Toggles between the two modes of the MicroSim"
+        },
+        {
+          "id": "moreButton",
+          "type": "button",
+          "label": "More...",
+          "purpose": "Explore mode: pulls five fresh skeptic and five fresh cynic phrases from the bank of twenty of each"
+        },
+        {
+          "id": "skepticButton",
+          "type": "button",
+          "label": "Skeptic Phrase",
+          "purpose": "Quiz mode: claims the current phrase is a skeptic phrase"
+        },
+        {
+          "id": "cynicButton",
+          "type": "button",
+          "label": "Cynic Phrase",
+          "purpose": "Quiz mode: claims the current phrase is a cynic phrase"
+        },
+        {
+          "id": "nextButton",
+          "type": "button",
+          "label": "Next Phrase",
+          "purpose": "Quiz mode: advances to a new phrase after an answer"
+        },
+        {
+          "id": "resetButton",
+          "type": "button",
+          "label": "Reset Score",
+          "purpose": "Quiz mode: resets the score and ends any celebration animation"
+        }
+      ]
+    },
+    "simulationModel": {
+      "modelType": "classification-quiz",
+      "variables": [
+        "quizCorrect",
+        "quizTotal",
+        "currentPhrase",
+        "currentAnswer"
+      ],
+      "assumptions": [
+        "Phrases are drawn from a fixed bank in phrases.json (20 skeptic, 20 cynic)",
+        "Celebration triggers at 10 correct answers in a single run"
+      ],
+      "limitations": [
+        "Binary classification only. Real-world phrases can be mixed or ambiguous."
+      ]
+    }
+  }
+}
