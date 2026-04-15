@@ -59,6 +59,8 @@ This is a story about Maya, and the drawing that lost her name.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up shot looking down at Maya's sketchbook on a classroom table. Maya's hands are visible — dark brown skin, slender fingers with small ink and paint stains, one hand holding a fine-tip black pen mid-stroke. She is drawing a comic panel that fills most of the sketchbook page: a girl superhero with a flowing cape soaring above a city skyline, arms outstretched, hair streaming behind her. The drawing is impressive — clean ink lines, dynamic motion, visible energy and skill.
 
@@ -92,6 +94,8 @@ She holds the sketchbook up and tilts it in the light. The ink shines. She smile
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 02. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium two-shot of Maya and her friend at the art table. Her friend — a boy with light brown skin, short wavy brown hair, a blue zip-up hoodie, and a friendly eager expression — is leaning across the table toward Maya's sketchbook, eyes wide with genuine admiration. One hand is flat on the table, the other is holding his phone up, already angled toward the drawing as if preparing to take a photo.
@@ -129,6 +133,8 @@ Liam snaps a photo of the drawing and grins.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 03. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Liam's phone screen as he finishes posting. The screen shows a generic class page or group feed — a simple social-media-style layout with no real platform name, just a white background, rounded corners, and a post box. The post contains the photo of Maya's superhero drawing, looking crisp and impressive. Below the photo, Liam has typed a short caption: **"Look at this drawing!! So cool 🔥"** — but there is no artist name, no credit, no mention of Maya.
 
@@ -159,6 +165,8 @@ But he forgets one thing. He does not type Maya's name. He does not say who drew
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 04. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A split-composition panel showing two phone screens side by side, representing the drawing spreading. On the left phone, one student has shared the drawing with the comment: **"Wow who drew this??"** On the right phone, another student has replied beneath it: **"I think Tyler drew this."** A small avatar next to the reply shows a boy who is clearly not Maya.
@@ -192,6 +200,8 @@ Maya's drawing is traveling through the school. And Maya's name is not on it.
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up of Maya, sitting at a desk in a different classroom (a regular classroom, not the art room). She is looking down at a phone — perhaps borrowed from a friend or her own — and her expression tells the whole story. Her eyes are wide and hurt, her lips pressed tightly together, her brow furrowed. One hand grips the edge of the desk. The orange scarf around her neck seems to droop.
@@ -229,12 +239,15 @@ A knot forms in her chest. It is not anger, exactly. It is something worse. It i
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 06. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
-A medium two-shot of Maya and Liam talking in a quiet hallway between classes. Maya is standing with her sketchbook hugged against her chest, her orange scarf bright, her paint-stained fingers visible gripping the sketchbook edge. Her expression is serious but not hostile — she is being brave, not mean. She is looking directly at Liam.
+A medium two-shot of Maya and Liam talking in a quiet hallway between classes. 
+Maya is standing on the RIGHT with her sketchbook hugged against her chest, her orange scarf bright, her paint-stained fingers visible gripping the sketchbook edge. Her expression is serious but not hostile — she is being brave, not mean. She is looking directly at Liam.
 
-A clean word balloon from Maya reads: **"I'm glad you liked it. But you forgot my name."**
+A clean word balloon from Maya on the right side reads: **"I'm glad you liked it. But you forgot my name."**
 
-Liam is facing her, his blue hoodie slightly rumpled, his backpack over one shoulder. His expression shifts from confused to apologetic — eyebrows rising, mouth opening in an "oh" shape, one hand coming up in a small gesture of realization. He is not defensive. He genuinely did not think about it, and now he sees why it matters.
+Liam is facing her on the LEFT side, his blue hoodie slightly rumpled, his backpack over one shoulder. His expression shifts from confused to apologetic — eyebrows rising, mouth opening in an "oh" shape, one hand coming up in a small gesture of realization. He is not defensive. He genuinely did not think about it, and now he sees why it matters.
 
 The hallway is quiet — a few lockers, a drinking fountain, a window letting in afternoon light. No other students are visible, giving the conversation privacy.
 
@@ -268,6 +281,8 @@ Liam blinks. "Oh." His face changes. He was not trying to hurt her. He just did 
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A warm, satisfying close-up of Liam's phone screen as he edits the post. The screen shows the same generic class page from Panel 3, but now the caption has been updated. The new caption reads: **"Look at this drawing!! So cool 🔥 Art by Maya"** — with "Art by Maya" clearly visible at the end. A small pencil-edit icon indicates the post was just modified.

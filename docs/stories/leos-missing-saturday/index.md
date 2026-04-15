@@ -55,6 +55,8 @@ This is a story about a student named Leo, and the Saturday morning that almost 
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A wide establishing shot of a cozy bedroom on a bright Saturday morning. Sunshine streams through a large window, casting warm golden rectangles on the hardwood floor. In the center of the frame, Leo — a fifth-grade boy with sandy brown hair, freckles across his nose and cheeks, wearing pajama pants and a faded blue soccer jersey — sits up in bed with a huge grin, arms stretched wide in a morning yawn. His bed has a rumpled blue comforter and a soccer-ball-patterned pillow.
 
@@ -81,6 +83,8 @@ Leo opens his eyes. Sunshine fills his room. It is Saturday morning — the best
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 02. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Leo sitting on the edge of his bed, still in his blue soccer jersey and pajama pants. He holds a tablet in both hands, tilted slightly toward the viewer. The screen shows a colorful, abstract grid of video thumbnails — no real logos, no real app, just bright rectangles suggesting content. Leo's expression is casual and relaxed, one corner of his mouth turned up in a half-smile. His body language says "this will only take a second."
@@ -111,6 +115,8 @@ Leo picks up his tablet from the nightstand. "Just five minutes," he thinks. He 
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 03. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium-close shot of Leo in exactly the same position on the bed — cross-legged, hunched forward, tablet in both hands, face lit by the screen glow. But everything around him has changed. The sunshine through the window is now higher and harsher. The room feels slightly dimmer because Leo has not moved or turned on a light. His pajama pants are wrinkled. His hair is messy.
@@ -143,6 +149,8 @@ Leo has not moved. Not once. The clock says 11:00 a.m. Two whole hours have pass
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 04. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up shot focused on a phone lying on the nightstand next to the clock (which still reads 11:00 a.m.). The phone screen is lit up with a text message notification. The message preview shows a short text from a contact named "Marcus" that reads: **"Where are you??"** with two question marks. A small soccer-ball emoji appears next to the contact name.
 
@@ -172,6 +180,8 @@ His phone buzzes on the nightstand. Leo glances over. A text from his friend Mar
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Leo sitting up straight on the bed, tablet lowered to his lap. His face is the focus — eyes wide with surprise and a little shame, mouth slightly open, one hand pressed against his stomach. His other hand rubs one eye. Around his eyes, faint pink circles suggest eye strain. His sandy brown hair is disheveled.
@@ -209,6 +219,8 @@ Leo looks up from the screen. His eyes sting. His stomach is growling — he nev
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 06. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A dynamic, energetic shot showing two quick actions. On the left side of the frame, Leo's hand slides the tablet into a dresser drawer — the drawer is half-open, and the tablet screen is going dark as it disappears inside. On the right side of the frame, Leo is in mid-motion pulling on his white sneakers by the front door. He is now fully dressed: blue soccer jersey, jeans, white sneakers being tied. His expression is determined — jaw set, small focused smile. His sandy brown hair is still messy but he does not care.
 
@@ -237,6 +249,8 @@ Leo puts the tablet in the dresser drawer. He does not just set it down on the b
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A warm evening scene at a kitchen table. Leo — sandy brown hair, freckles, blue soccer jersey now a little grass-stained — sits at a round wooden table across from his dad. His dad is a tall man with sandy brown hair like Leo's, a short beard, kind eyes, and a flannel shirt with rolled-up sleeves. Between them on the table is a sheet of paper and a marker.

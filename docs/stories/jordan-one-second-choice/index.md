@@ -56,6 +56,8 @@ This is a story about a fifth-grade student named Jordan, and the one second tha
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 A wide establishing shot of an elementary school playground on a sunny autumn afternoon. In the foreground, Jordan — a fifth-grade boy with warm brown skin, short curly black hair, a green hoodie, jeans, and red sneakers — walks out of a pair of school doors onto the blacktop. He is shown in a three-quarter back view, mid-stride. His backpack hangs from one shoulder. His face is in soft profile, relaxed and curious.
 
 In the middle distance across the blacktop, a small group of four kids is huddled tightly together around something small and bright in the center of their huddle. We can't see what they're looking at yet — only that they are bent inward, bodies forming a tight ring.
@@ -83,6 +85,8 @@ The bell rings. Jordan steps out onto the playground for recess. The autumn air 
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 02. Do not include the panel number in the image.)
 
 A medium shot of the group of four fifth-grade kids, tightly huddled around a tablet held by a Black girl with two pom-pom hair puffs. She is twisting her body toward the viewer (toward Jordan, who is just off-frame), one hand mid-wave, mouth wide open in a happy shout. Around her, three other kids lean in laughing: an Asian boy in a striped t-shirt, a white girl with red hair pointing at the screen, and a Latino boy in a baseball cap mid-laugh. Their energy is loud, excited, and contagious.
 
@@ -113,6 +117,8 @@ Generate the image immediately without asking clarifying questions.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 03. Do not include the panel number in the image.)
+
 An over-the-shoulder angle showing the tablet screen between the kids' shoulders. The screen displays only an abstract paused video frame — a generic play-button triangle, a simple timeline bar, and a few blurred soft shapes. Nothing identifiable. No real person visible on the screen. No app interface, no logos, no text.
 
 Around the tablet, the four kids' faces are visible in close laughter — big open smiles, eyes squeezed up. Jordan now stands closer, looking down at the screen. His expression has begun to change: the curious smile from Panel 2 has faded. His eyebrows are pulling slightly together, and his mouth has gone flat. He doesn't look angry yet — he looks *uncomfortable*.
@@ -138,6 +144,8 @@ Jordan looks down at the tablet. The video shows a kid from another grade trippi
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 04. Do not include the panel number in the image.)
 
 Please generate an image for panel 4.
 A close-up of Jordan from chest up, shown almost head-on. His face is the focus: brows pulled together, mouth pressed into a small uncertain line. His green hoodie fills the lower part of the frame.
@@ -171,6 +179,8 @@ Generate the image immediately without asking clarifying questions.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 05. Do not include the panel number in the image.)
+
 An extreme close-up of Jordan's finger and the tablet screen. His fingertip is frozen mid-air, about an inch above a generic share-arrow icon on the screen. A soft, glowing yellow ring of light surrounds the space between his finger and the screen — like a held breath made visible.
 
 In the upper part of the frame, Jordan's face is partially visible. His eyes are closed for one slow breath, his expression calm and focused. A small puff of pale-blue breath leaves his lips.
@@ -201,6 +211,8 @@ Jordan stops his finger. He takes one slow breath. The world around him goes qui
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 06. Do not include the panel number in the image.)
 
 A medium shot of Jordan from the chest up. His finger is still hovering above the tablet screen, but his eyes are now open and clearly focused. His expression has shifted from uncertain to thoughtful.
 
@@ -237,6 +249,8 @@ Now Jordan thinks. *Is this kind?* No — the kid in the video looks embarrassed
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 07. Do not include the panel number in the image.)
+
 A medium shot of Jordan handing the tablet back to the Black girl with the pom-pom hair puffs. Both kids are visible in three-quarter view. Jordan has a small calm smile and steady eyes. The girl looks slightly surprised — eyebrows raised — but not angry. The other kids in the group are quieter now, listening, watching what happens.
 
 A single clean word balloon from Jordan's direction reads: **"I'm good. I'm not gonna share that one."**
@@ -267,6 +281,8 @@ Then Jordan acts. He hands the tablet back to the girl. "I'm good," he says. "I'
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 08. Do not include the panel number in the image.)
 
 A wide shot of the playground, a few moments later. In the left background, the group of four kids is now in soft focus — still huddled together but no longer the visual focus. In the center foreground, Jordan walks calmly across the blacktop. He is the same boy from every previous panel: warm brown skin, short curly black hair, green hoodie, jeans, red sneakers. His head is up, his shoulders are straight, and a small calm smile sits on his face. His hands are tucked into his hoodie pockets.
 

@@ -57,6 +57,8 @@ This is a story about Tomás, a boy who loves science, loves facts, and almost s
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot of Tomás lying on his stomach on a living room couch, tablet propped on a pillow in front of him. He is a fifth-grade boy with tan skin, wavy dark hair falling across his forehead, wearing a green science-camp t-shirt with a small white beaker logo and khaki cargo shorts. His bare feet are kicked up behind him. He is scrolling casually, relaxed and comfortable.
 
@@ -88,6 +90,8 @@ The photo is wild. A great white shark, right there in the middle of a neighborh
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 02. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Tomás from chest up, sitting upright on the couch now. He has pushed himself up from his lying position, tablet held in both hands at chest level. His eyes are wide open, eyebrows raised high, mouth open in a big "Whoa!" expression. His wavy dark hair is slightly messy from lying on the couch.
 
@@ -118,6 +122,8 @@ He is one tap away from sending it.
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 03. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up of Tomás's hand and the tablet screen. His thumb is frozen mid-air, about half an inch above the abstract share-arrow icon. A soft, glowing yellow ring of light surrounds the space between his thumb and the share button — the same "held breath" visual from the Jordan story, connecting the two stories thematically.
@@ -153,6 +159,8 @@ Tomás looks at the shark photo again. He felt excitement. A lot of it. His hear
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 04. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot of Tomás sitting cross-legged on the couch, tablet flat on his lap. He is now in research mode. On the tablet screen, the view has changed: instead of the dramatic shark photo, the screen shows an abstract search-results page. Several search result cards are stacked — small thumbnail images and lines of abstract text. One result card near the top has a small red "X" or "False" badge on it, and a thumbnail showing a comparison of the shark photo side-by-side with the original un-edited photo.
 
@@ -184,6 +192,8 @@ The photo is fake. It has been shared online every hurricane season for years. S
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up of Tomás from chest up, leaning back against the couch cushions. His tablet rests on his lap, screen showing the fact-check results. His expression has completely changed from the excited "Whoa!" of Panel 2: he is now showing visible relief. His eyes are half-closed, his shoulders have dropped from their tense position, and a small, slightly embarrassed smile sits on his face. One hand rests on his forehead in a classic "phew" gesture.
@@ -218,6 +228,8 @@ He did not share it. That is what matters.
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 06. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of two boys sitting on the front steps of a house. Tomás is on the left — tan skin, wavy dark hair, green science-camp t-shirt with the beaker logo, cargo shorts. Next to him sits his friend — a boy with dark brown skin, short-cropped hair, a bright orange basketball jersey, and basketball shorts. Tomás is holding his tablet out to show his friend the screen.
@@ -256,6 +268,8 @@ Darius looks at the screen, then back at Tomás. "For real? It looked so real."
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A wide, uplifting shot showing a chain reaction of fact-checking. In the foreground, Darius — dark brown skin, short-cropped hair, orange basketball jersey — is now showing his own phone to a third kid, a girl with curly red hair and a denim jacket, who is leaning in with interested surprise. In the middle ground, Tomás stands a few steps away, watching with a proud, quiet smile, arms crossed, leaning against the porch railing.

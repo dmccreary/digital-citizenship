@@ -57,6 +57,8 @@ This is a story about Kai, and the post he thought he could delete.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A wide, lively shot of a school cafeteria at lunchtime. Kai — a fifth-grade boy with East Asian features, a messy mop of straight black hair, a gray t-shirt, dark shorts, and a skateboard propped against the bench beside him — is holding his phone up at arm's length, taking a selfie. He is making an exaggerated goofy face: eyes crossed, tongue out to the side, one eyebrow raised. His free hand holds a french fry like a mustache under his nose.
 
@@ -85,6 +87,8 @@ It is lunchtime, and Kai is in a silly mood. He holds up a french fry like a mus
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 02. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up of Kai's hands holding his phone horizontally. The phone screen shows a generic group chat interface — no real app name or logo, just a simple chat window with three small circular avatar icons at the top (representing his friends) and a single photo message in the chat: Kai's goofy selfie from Panel 1, small but recognizable — crossed eyes, french-fry mustache, tongue out. Below the photo, three small reaction icons appear: a laughing face, a thumbs up, and a heart — all from the three friends.
@@ -116,6 +120,8 @@ Sharing was easy. Sharing was instant. Sharing felt good.
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 03. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Kai sitting at the lunch table a few minutes later. The cafeteria is still busy around him, but his energy has shifted. He is looking down at his phone, held flat on the table in front of him. His goofy grin is gone, replaced by a slight frown — lips pressed together, eyebrows drawn slightly inward. One hand is on his chin, the other rests near the phone.
@@ -151,6 +157,8 @@ It was funny in the moment. But now? He imagines his teacher seeing it. He imagi
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 04. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Kai's phone screen as his thumb presses down firmly on a red "Delete" button. The goofy selfie is visible above the button, and a simple confirmation message reads: **"Message deleted."** A small poof animation — like a tiny cloud of smoke — surrounds the photo as it fades, indicating it has been removed from the chat.
 
@@ -182,6 +190,8 @@ Kai breathes out. Problem solved. Gone. No trace. He slides his phone into his p
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 05. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A wide shot of a school hallway between classes. Kai is walking with his skateboard tucked under his arm, relaxed, heading toward his locker. A classmate — a girl with shoulder-length brown hair, a purple hoodie, and a backpack — is walking toward him from the opposite direction. She is holding her phone out toward Kai, screen facing him, with an amused grin on her face. Her other hand points at the screen.
 
@@ -212,6 +222,8 @@ A week goes by. Kai has forgotten about the photo completely. It is gone. He del
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 06. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up two-shot of Kai and the classmate. The classmate's phone is in the center of the frame, screen facing the viewer. On the screen is Kai's goofy selfie — crossed eyes, tongue out, french-fry mustache — clearly a screenshot, with the telltale signs of a saved image: slightly lower resolution, a cropped border, saved to a photo library grid.
@@ -250,6 +262,8 @@ Kai stares at the photo on someone else's phone. His photo. His face. In someone
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 07. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A warm, thoughtful classroom scene. Kai sits at his desk in a classroom, listening attentively to a teacher who stands near a whiteboard. The teacher — a woman with short gray hair, glasses, a soft blue cardigan, and a kind expression — is gesturing toward a simple diagram drawn on the whiteboard.
 
@@ -283,6 +297,8 @@ Kai nods slowly. He gets it now. Deleting the message only removed *his* copy. T
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 08. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Kai sitting on a low wall outside the school after the final bell. The afternoon sun is warm and golden. His skateboard rests across his lap. He is holding his phone in one hand, looking at it thoughtfully — not typing, not scrolling, just thinking. His expression is calm and a little wiser: a small closed-mouth smile, steady eyes, head slightly tilted.

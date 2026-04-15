@@ -59,6 +59,8 @@ This is a story about Eli, a student who meant every word he typed — and a fri
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A wide establishing shot of a bright, sunny elementary school classroom. At the front of the room, a fifth-grade girl with dark brown skin, two braided buns, and a lavender t-shirt stands next to a tri-fold science project board. The board is colorful and well-organized, with hand-drawn diagrams of the water cycle — clouds, rain arrows, a river, and evaporation lines. She is pointing at the board with one hand, smiling proudly, mid-presentation.
 
@@ -90,6 +92,8 @@ When the class claps, Eli claps the loudest.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 02. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot of Eli sitting at a kitchen table at home, after school. He is the same boy from Panel 1 — medium brown skin, tight black curls, striped polo shirt, khaki shorts. He holds a tablet in both hands, thumbs hovering over the on-screen keyboard. On the tablet screen, a simple group chat interface shows a text input field with the words: "Wow, great job on the project" — no emoji, no exclamation mark, just plain flat text. A small send-arrow button glows beside the text field.
 
@@ -119,6 +123,8 @@ After school, Eli opens the group chat. He wants to tell Amara how great her pro
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 03. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Amara sitting on a beanbag chair in her bedroom, looking down at her own tablet. She is the same girl from Panel 1 — dark brown skin, two braided buns, lavender t-shirt. On her tablet screen, the same message appears in a chat bubble: "Wow, great job on the project" — plain text, no emoji, no exclamation mark.
@@ -150,6 +156,8 @@ Amara reads the message on her tablet. But she does not hear Eli's warm voice. S
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 04. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A split-panel composition. On the left half, Eli sits at his kitchen table, tablet in front of him, staring at the screen with a confused expression. The group chat on his screen shows his message at the bottom — "Wow, great job on the project" — and above it, an empty space. No reply. A small clock icon or timestamp suggests time has passed. Eli's brow is furrowed, and his mouth is slightly open in puzzlement. His hand rests on his chin.
 
@@ -179,6 +187,8 @@ Amara stops replying to the group chat. One hour passes. Then two. Eli checks hi
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Eli standing in a school hallway the next morning, talking to another fifth-grade student — a boy with light skin, sandy brown hair in a side part, wearing a blue t-shirt with a small dinosaur graphic and gray jogger pants. The friend has a sympathetic, slightly apologetic expression and is gesturing with one hand as he explains something.
@@ -212,6 +222,8 @@ The next morning at school, Eli's friend Marcus pulls him aside. "Hey — Amara 
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 06. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Eli sitting at his desk in a classroom, hunched slightly over his tablet, typing carefully. His expression is focused and determined — brows slightly furrowed in concentration, a small hopeful smile forming at the corner of his mouth. His fingers hover over the on-screen keyboard.
 
@@ -243,6 +255,8 @@ Eli grabs his tablet. This time, he thinks before he types. He writes: *I meant 
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A warm, wide shot of the school lunchroom. Eli and Amara sit across from each other at a lunch table. Both are smiling. Amara — dark brown skin, braided buns, lavender t-shirt — holds up her tablet, showing a chat screen with a thumbs-up emoji she just sent back. Her smile is wide and relieved. Eli — medium brown skin, tight curls, striped polo — is laughing gently, one hand over his heart in a "phew" gesture.

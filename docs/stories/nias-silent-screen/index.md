@@ -57,6 +57,8 @@ This is a story about Nia, and the night she learned what her silence was really
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot of Nia sitting at a desk in her bedroom, doing homework. She is a fifth-grade girl with dark brown skin, box braids with small gold cuffs, a soft yellow sweater, and dark jeans. A math worksheet and a pencil sit in front of her. Her phone is propped against a stack of books on the desk, screen facing her.
 
@@ -88,6 +90,8 @@ Nia reads it. Her stomach dips a little. But she goes back to her math.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 02. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Nia from chest up at her desk. Her eyes are looking down at the phone screen, which shows several abstract chat bubbles stacked — some gray, one pale red — no readable text. Her expression is uneasy but guarded: lips pressed together slightly, one eyebrow raised. She is holding her pencil loosely in one hand, tapping it against the worksheet.
 
@@ -118,6 +122,8 @@ More messages come in. Other kids are adding on, making jokes. Nia reads them. S
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 03. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot from a slightly elevated angle looking down at Nia's desk. Nia has placed her phone face-down on the desk, screen hidden, next to her math worksheet. Her hand is still resting on the back of the phone, fingers spread, as if she just set it down firmly. Her face is visible in three-quarter view, turned slightly away from the phone. Her expression has shifted: jaw tightened, eyes narrowed, mouth pressed into a flat line. She looks bothered.
 
@@ -144,6 +150,8 @@ The messages keep buzzing. Nia's face tightens. She flips her phone face-down on
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 04. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up of Nia's hand reaching back toward the face-down phone on the desk. Her fingers are curling around the edge of the phone, about to flip it over. In the background, slightly out of focus, Nia's face is visible — she looks conflicted, brow furrowed, lips slightly parted. The phone's edge catches the warm glow of the desk lamp.
@@ -175,6 +183,8 @@ Nia scrolls through it all. No one is pushing back.
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up of Nia's face, shown almost head-on. Her box braids with gold cuffs frame her face. Her large dark eyes are glistening — not crying, but emotional. Her expression is serious, determined, like something has clicked inside her. Her yellow sweater collar is visible at the bottom of the frame.
@@ -209,6 +219,8 @@ That one thought changes everything.
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 06. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Nia sitting at her desk, phone held in both hands at chest level, thumbs poised over the screen. She is typing a message. On the phone screen, a single chat bubble is forming at the bottom of the conversation — a bright, clean river-blue (#2e6f8e) bubble that stands out from the gray and red bubbles above it. No readable text on the other bubbles, but the blue bubble contains the words: **"Hey, this isn't cool. Leave him alone."**
@@ -245,6 +257,8 @@ Then Nia does one more thing. She takes a screenshot of the whole thread. She sa
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A wide shot of a bright elementary school hallway the next morning. Warm morning light streams through tall windows on the left side. Nia — dark brown skin, box braids with gold cuffs, yellow sweater, dark jeans — stands near an open classroom door, talking to a female teacher. The teacher is a middle-aged woman with short auburn hair, light skin, glasses, and a warm cardigan, holding a coffee mug. She is leaning slightly toward Nia, listening carefully with a kind, attentive expression.

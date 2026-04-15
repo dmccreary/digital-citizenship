@@ -57,6 +57,8 @@ This is a story about Marcus, and the day he learned that his favorite password 
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot of Marcus sitting at a desk in his bedroom, typing rapidly on a laptop keyboard with a confident, competitive grin. Marcus has medium brown skin, short twists in his hair, and wears a green track jacket with white stripes and dark joggers. His fingers blur slightly over the keys to show speed. The laptop screen shows a colorful but generic game login screen — a simple username field and password field with dots, a large "LOG IN" button, no real game logos or names.
 
@@ -85,6 +87,8 @@ Too easy.
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 02. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up shot of Marcus staring at the laptop screen, his confident grin now replaced by confusion. His eyebrows are pulling together, his head is tilted slightly to one side, and his mouth is partly open. One hand is still on the keyboard, the other is raised slightly in a "what?" gesture.
@@ -117,6 +121,8 @@ His stomach tightens. "What happened?"
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 03. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 An over-the-shoulder close-up showing the laptop screen between Marcus's shoulders. Marcus's short twists and green track jacket are visible in silhouette at the bottom and sides of the frame. His shoulders are tense, pulled slightly upward.
 
@@ -147,6 +153,8 @@ Marcus reads it twice. Someone got into his account. Someone took everything. An
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 04. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up of Marcus from chest up, leaning back in his desk chair. His hands are off the keyboard now, resting on his thighs. His green track jacket is unzipped. His face is the focus: eyes wide, mouth pressed into a tight line, expression showing that slow sinking feeling when you realize something bad is your own fault. His gaze is directed slightly downward and to the side — not at the screen anymore, but inward.
@@ -179,6 +187,8 @@ Then a worse thought arrives. He used the same password for everything. His game
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium two-shot of Marcus and his older brother in Marcus's bedroom doorway. Marcus is seated at the desk, turned around in his chair to face the door. His expression is embarrassed — eyes looking down, one hand rubbing the back of his neck, a sheepish half-smile. His older brother stands in the doorway leaning against the frame — a teenager, taller, same medium brown skin, short fade haircut, wearing a navy blue hoodie and gray sweatpants, arms loosely crossed, expression calm and a little amused but not mean.
@@ -218,6 +228,8 @@ Marcus nods. He already knows.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 06. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A warm, instructional medium shot of Marcus and his brother sitting side by side at the desk. The brother has pulled up a folding chair and is gesturing toward the laptop screen with one hand, explaining something. Marcus is leaning forward, engaged, his embarrassment replaced by focus and interest.
 
@@ -253,6 +265,8 @@ Marcus watches as his brother types an example on the screen. Four silly words i
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up shot of Marcus writing in the small spiral notebook at his desk. His hand holds a pencil, and we can see him writing neatly in the notebook. The visible text on the page shows a short list: three lines, each with a label on the left (like "Game:" and "Email:") followed by a string of four random words separated by hyphens. The words are whimsical and clearly unrelated — the bottom entry reads: **"purple-taco-bridge-seven"**.

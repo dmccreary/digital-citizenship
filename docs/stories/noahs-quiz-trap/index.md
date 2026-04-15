@@ -55,6 +55,8 @@ The tricky part is knowing which information is okay to share and which is not. 
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A wide shot of a bright, cozy bedroom. Noah — a fifth-grade boy with light brown skin, short dark hair, wearing a red hoodie, jeans, and gray socks — sits at a wooden desk in front of a laptop. His backpack is on the floor beside the chair. The room has a bookshelf with chapter books and a small globe, a soccer trophy on a shelf, a window with afternoon light streaming in, and a poster of cartoon planets on the wall.
 
@@ -83,6 +85,8 @@ Noah finds a quiz online. The page is covered in bright colors and cute cartoon 
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 02. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot focused on the laptop screen, with Noah visible from the chest up behind it. The screen shows the quiz's first question page. The question reads: "What is your first name?" with a text input field below it. Noah has already typed "Noah" into the field. A cheerful cartoon cat mascot sits in the corner of the quiz page, giving a thumbs-up.
@@ -113,6 +117,8 @@ The first question is easy. "What is your first name?" Noah types his name. No b
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 03. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up of the laptop screen filling most of the frame. The quiz page now shows three new questions stacked vertically, each with an empty text field:
@@ -150,6 +156,8 @@ But something is different about these questions.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 04. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot from a side angle. Noah sits at the desk, hands on the keyboard, turning his head to look over his right shoulder. Behind him, his older sister stands with one hand on the back of his chair. She is a teenage girl with light brown skin, long dark hair pulled back in a ponytail, wearing a yellow t-shirt and jeans. Her expression is alert and protective — one eyebrow raised, mouth set in a firm but kind line. She is looking past Noah at the laptop screen.
 
@@ -179,6 +187,8 @@ Generate the image immediately without asking clarifying questions.
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Noah and his sister side by side at the desk. The laptop is pushed slightly to the side. Between them, on the desk, is a sheet of notebook paper. Noah holds a blue marker. His sister points at the paper with one finger, explaining.
@@ -214,6 +224,8 @@ Personal information is stuff like your favorite color or your first name. It do
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 06. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot of Noah at the desk, now in control. He is clicking the laptop's browser close button (a small X in the corner of the screen). The quiz page is mid-disappear — the colorful pet quiz is fading as the browser tab closes. The cartoon cat mascot on the quiz is still smiling, oblivious.
 
@@ -245,6 +257,8 @@ Noah clicks the X and closes the quiz. The colorful page disappears. The cartoon
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A warm, confident close-up of Noah at his desk. The laptop is open but pushed to the side — no quiz on the screen, just a plain desktop background. Noah faces the viewer almost directly, holding up the notebook paper from Panel 5 — but now it has a new addition. Below the T-chart, in Noah's handwriting, a simple rule is written in large blue marker letters: **"If it asks where I live or when I was born, I stop."**

@@ -57,6 +57,8 @@ This is a story about a student named Lucia and the science fair claim she almos
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A warm interior scene of a bedroom desk at evening. Lucia — a fifth-grade girl with olive skin, dark curly hair pulled back with a river-blue (#2e6f8e) headband, wearing a soft yellow t-shirt and gray sweatpants — sits in a desk chair, leaning forward toward a laptop screen. Her face is lit by the screen's soft glow, expression focused and eager. One hand rests on the keyboard, the other holds a pencil hovering over an open spiral notebook filled with messy handwritten notes.
 
@@ -86,6 +88,8 @@ Lucia has been looking forward to science fair week all month. She loves experim
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 02. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up over-the-shoulder shot showing Lucia's laptop screen. The screen displays a generic website with a simple layout: a large bold headline reads "GOLDFISH ONLY HAVE A 3-SECOND MEMORY!" in dark text on a white background. Below the headline, a cartoonish clipart goldfish with exaggerated wide eyes swims next to a small clock icon showing "3 sec." The website has a generic colored banner at the top (no real brand, no logo, no URL visible) and a sidebar with blurry placeholder text blocks.
 
@@ -112,6 +116,8 @@ One website catches her eye. In big bold letters, it says: "Goldfish only have a
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 03. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Lucia at her desk, pencil frozen mid-air just above her open notebook. Her hand has stopped writing. Her expression has shifted from excited to uncertain — one eyebrow is raised, her lips are slightly pursed, and her head is tilted to the side in a classic "hmm" thinking pose. A small pale-blue thought wisp curls above her head.
@@ -143,6 +149,8 @@ But then her pencil stops. Something her teacher said floats into her mind: "Bef
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 04. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of the laptop screen, now shown more fully. Lucia's fingers are visible on the trackpad, scrolling down the page. The website is revealed to be thin — the page ends quickly after the bold headline. Where an author name should be, there is nothing. Where a date should be, there is nothing. Where a linked source or study should be, there is only a generic "Share this fun fact!" button with a colorful arrow icon.
 
@@ -171,6 +179,8 @@ Lucia scrolls down the page. There is no author name. There is no date. There is
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A split-screen composition. On the left half, the original flashy website is shown small and slightly faded, with the bold "3-SECOND MEMORY" headline and the cartoonish clipart fish. A translucent red "X" overlays it lightly.
@@ -201,6 +211,8 @@ Lucia tries a different search. This time she finds a page from a university res
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 06. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A warm, bright scene of Lucia kneeling on the floor of her bedroom, working on her tri-fold science fair poster board spread out in front of her. She is wearing her white lab coat over her yellow t-shirt now, sleeves rolled up, looking focused and happy. One hand holds a blue marker, the other smooths down a freshly glued index card on the poster.
 
@@ -229,6 +241,8 @@ Lucia erases the old claim from her poster. In its place, she writes the real fa
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A bright gymnasium scene during the science fair. Lucia stands behind her completed tri-fold poster board on a table, wearing her white lab coat, river-blue headband, and a calm, confident smile. Across the table from her, a female judge — a tall woman with short gray hair, dark brown skin, reading glasses on a chain around her neck, wearing a blazer and holding a clipboard — leans forward slightly, one hand gesturing toward the poster. The judge's expression is curious and impressed, eyebrows raised, a small smile forming.

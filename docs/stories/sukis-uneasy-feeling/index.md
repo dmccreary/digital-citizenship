@@ -59,6 +59,8 @@ This is a story about Suki, a student who noticed a feeling, trusted it, and did
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A wide establishing shot of Suki's cozy bedroom in the early evening. Suki — a fifth-grade girl with straight black hair in a bob, light skin, red-and-black flannel shirt, jeans — sits cross-legged on the carpeted floor, laptop open in front of her. Her face is lit by the soft glow of the screen, and she is smiling happily, fully relaxed. Her posture is open and comfortable — leaning forward slightly, both hands on the keyboard, engaged in the game.
 
@@ -90,6 +92,8 @@ Suki loves puzzle games. On Tuesday evening, she opens her favorite game and sta
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 02. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium close-up of Suki at her laptop, still smiling. The camera angle is slightly over her shoulder so we can see the laptop screen clearly. In the chat sidebar of the game, a new message has appeared from the other player: "What's your favorite subject?" Suki's expression is relaxed and happy — she sees nothing wrong with this question. Her fingers rest comfortably on the keys, ready to type a reply.
 
@@ -119,6 +123,8 @@ A few rounds in, the player types: "What's your favorite subject?" Suki types ba
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 03. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Suki at her laptop. Her posture has changed subtly from Panel 2. She is still sitting cross-legged, but her shoulders have risen slightly. Her smile has faded to a neutral expression — not upset yet, but no longer carefree. One hand has paused on the keyboard. The other hand rests on her knee.
@@ -152,6 +158,8 @@ Then the player types a new question: "What school do you go to?" Suki's fingers
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 04. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Suki from the chest up, almost head-on. Her expression has clearly shifted: brows pulled slightly together, lips pressed into a thin line, eyes focused on the screen with a wary, uncomfortable look. Her flannel shirt collar is pulled up slightly as if she has hunched her shoulders. One hand has moved from the keyboard to rest flat against her stomach — a visible gesture of the "knot" she feels inside.
 
@@ -183,6 +191,8 @@ Before Suki can decide, another message appears: "What city are you in?" Now the
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Suki sitting up straighter at her laptop. Her expression has shifted from uneasy to determined — her jaw is set, her eyes are clear and focused, her chin is slightly raised. She looks like someone who has made a decision.
@@ -220,6 +230,8 @@ Suki remembers what she learned in class. When a conversation online makes you f
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 06. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Suki's hands and the laptop screen. Her left hand is on the keyboard, having just typed a short message in the chat: "I gotta go." Her right hand is moving toward the top-right corner of the screen, finger reaching for a simple X button to close the chat window. The cursor on the screen hovers near the close button.
 
@@ -250,6 +262,8 @@ Suki types two words: "I gotta go." She does not explain why. She does not apolo
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A warm, wide shot of a living room. Suki stands next to a couch where her mom is sitting. Her mom is a woman with straight black hair pulled back in a low ponytail, light skin, wearing a comfortable gray cardigan and reading glasses pushed up on her forehead. She has set down a book she was reading and is turned fully toward Suki, giving her complete attention. Her expression is warm, calm, and attentive — not alarmed, not angry, just *listening*.

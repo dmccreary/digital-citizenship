@@ -57,6 +57,8 @@ This is a story about Ava, and the small, quiet message that changed someone's w
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A wide establishing shot of a bright elementary school cafeteria during lunch. Long tables with attached benches fill the space. In the foreground, Ava — a fifth-grade girl with light skin, freckles, wavy brown hair past her shoulders, a green cardigan over a white t-shirt, and a plaid skirt — sits at the end of a lunch table, eating a sandwich with one hand and scrolling on her phone with the other. Her expression is relaxed, casually reading.
 
@@ -90,6 +92,8 @@ Ava smiles. It sounds fun.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 02. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Ava's phone screen held in her hand, shown from her point of view. The screen displays an abstract group chat. At the top of a new message, a row of small circular profile avatars is visible — six small colorful circles representing tagged users. Each circle has a tiny abstract face or initial. One conspicuous gap exists in the row where a seventh avatar should be, marked by a subtle empty dotted-circle outline.
 
@@ -120,6 +124,8 @@ Ava looks up from her phone. Mia is eating quietly, looking at her own phone. Sh
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 03. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of the lunch table from Ava's perspective. In the center of the frame, Mia sits two seats down — a fifth-grade girl with straight black hair in a low ponytail, warm tan skin, a lavender hoodie, and a quiet expression. She is looking down at her phone in her lap under the table, partially hidden. Her face is carefully neutral, but her shoulders are slightly hunched, and her sandwich sits untouched in front of her.
@@ -152,6 +158,8 @@ Mia's sandwich sits untouched. Her shoulders are a little hunched. She is not cr
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 04. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Ava from chest up, sitting at the lunch table. Her wavy brown hair frames her freckled face. Her green cardigan collar is visible. Her expression is uncomfortable — brow creased, eyes glancing to the side toward where Mia sits (off-frame). She is biting her lower lip slightly. Her phone rests on the table in front of her, screen dark.
 
@@ -183,6 +191,8 @@ But what is Ava supposed to say? She did not make the plans. She did not leave M
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Ava in the school hallway after lunch. She is leaning against a bank of lockers, phone held in both hands at chest level, thumbs poised over the screen. She is typing a private message. The hallway is bright, with warm light from tall windows and other students walking past in soft focus.
@@ -218,6 +228,8 @@ She hits send. It is one sentence. It took ten seconds. But for Mia, those ten s
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 06. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Ava's phone screen, shown from her point of view. The screen now shows the group chat. At the bottom of the conversation, a new river-blue (#2e6f8e) message bubble from Ava reads: **"Hey, did you forget to tag Mia?"** Above it, the earlier gray and white message bubbles from the group conversation are stacked, showing the Saturday plans.
 
@@ -249,6 +261,8 @@ She does not accuse anyone. She does not start a fight. She just asks a question
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A split composition showing two scenes side by side, separated by a soft vertical divider.

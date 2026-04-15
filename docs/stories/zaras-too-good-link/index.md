@@ -58,6 +58,8 @@ This is a story about a student named Zara, and the link that almost fooled her.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A wide establishing shot of a cozy living room on a quiet afternoon. Zara — a fifth-grade girl with curly auburn hair, warm tan skin, wearing a denim jacket over a white t-shirt, dark jeans, and high-top sneakers — sits cross-legged on a big soft couch. A throw blanket is draped over the arm of the couch. A tabletop lamp casts warm light. Behind her, a bookshelf filled with colorful chapter books and a small potted plant. Through a window, late-afternoon golden light filters in.
 
@@ -86,6 +88,8 @@ Zara is sitting on the couch doing homework when her tablet pings. A new message
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 02. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up of the tablet screen, held in Zara's hands (her fingers and denim jacket sleeves visible at the edges). The screen shows a generic chat interface — no real app, no logo, no brand. At the top, the contact name reads "Amara" with a small generic avatar circle.
@@ -117,6 +121,8 @@ The message says: **"OMG you won a FREE gift card!!! Clik here to clame it!!!"**
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 03. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 An extreme close-up of Zara's right hand and the tablet screen. Her index finger is extended toward the glowing green "CLAIM NOW" button, hovering about half an inch above it. The finger is caught mid-reach — moving toward the screen but not yet touching.
 
@@ -145,6 +151,8 @@ Zara's finger moves toward the green button. She feels excited. A gift card! For
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 04. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Zara pulling her hand back from the tablet. She holds the tablet at arm's length now, tilting her head to one side. Her expression has shifted from excitement to suspicion — eyes narrowed slightly, one eyebrow raised, lips pursed. She is studying the message more carefully.
@@ -183,6 +191,8 @@ Zara pulls her hand back from the screen.
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 05. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot of Zara sitting on the couch, now holding two devices. The tablet with the suspicious message rests face-down on the couch cushion beside her — she has set it aside. In her hands, she holds a phone. The phone screen shows a simple text conversation. Zara has typed a message that reads: **"Hey, did you send me a gift card link?"** The message shows as "sent" with a small checkmark.
 
@@ -214,6 +224,8 @@ She waits. This is the smart move. If Amara really sent it, she will say yes. If
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 06. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up of Zara's phone screen. A new reply from Amara has appeared in the text conversation. Amara's reply reads: **"No! I didn't send that! My account got hacked! Don't click it!!"** The message is in a contrasting bubble color from Zara's sent message.
@@ -248,6 +260,8 @@ Zara almost fell for it. But she paused. She checked. And that made all the diff
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A split-action panel showing Zara taking two protective steps. On the left side of the frame, Zara holds the tablet and taps a "Report" button on the suspicious message — a small red flag icon with the word "Report" next to it. The fake gift card message is still visible on the screen behind the report overlay. Zara's expression is focused and determined.

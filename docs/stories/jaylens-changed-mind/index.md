@@ -59,6 +59,8 @@ This is a story about a student named Jaylen and the lunch period that changed t
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 An interior scene of a living room in the early morning before school. Jaylen — a fifth-grade boy with dark brown skin, short locs falling just above his ears, wearing a warm brown jacket over a river-blue t-shirt, dark jeans, and white sneakers — sits on a couch, leaning forward with his elbows on his knees, staring intently at a tablet propped up on the coffee table. His face is lit by the screen's glow, expression absorbed and trusting — he believes what he is watching.
 
@@ -87,6 +89,8 @@ Before school, Jaylen watches a video on his tablet. A loud voice says, "This fo
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 02. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A bright, busy school cafeteria at lunchtime. Jaylen stands at the end of a long lunch table, leaning forward with both hands flat on the table, speaking with energy and confidence to three friends seated across from him. His expression is animated — eyebrows raised, mouth open mid-sentence, one hand lifting off the table to gesture emphatically. He looks like someone delivering important news.
@@ -120,6 +124,8 @@ At lunch, Jaylen sees the food on his friend Cole's tray. "Don't eat that!" he s
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 03. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot focused on Amara — the girl with light brown skin, straight black hair in a ponytail, wearing a red hoodie. She is seated at the lunch table, holding up a tablet toward Jaylen (who is visible at the left edge of the frame, leaning in to look). Her expression is calm, friendly, and matter-of-fact — not confrontational, just sharing information. One finger points at the tablet screen.
 
@@ -152,6 +158,8 @@ Amara pulls out her tablet. "Actually," she says, "this doctor's website says it
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 04. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Jaylen from the chest up. His expression has shifted to defensive: jaw slightly tightened, eyes narrowed just a fraction, arms beginning to cross over his chest. His body language reads as someone who feels challenged. He is not angry — he is uncomfortable. A warm flush of soft red-orange color tints his cheeks subtly.
 
@@ -183,6 +191,8 @@ Jaylen feels his shoulders tighten. A warm flush creeps up his neck. "But the vi
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Jaylen standing at the lunch table, but his posture has shifted. His arms have uncrossed. His hands rest at his sides. His eyes are closed, and he is taking one slow breath — a small pale-blue puff of breath leaves his lips, just like the "pause" visual from the Jordan story. His expression is calm and focused, the defensiveness from Panel 4 melting away.
@@ -219,6 +229,8 @@ Jaylen closes his eyes for one second. He takes a slow breath. Then he asks hims
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 06. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot of the lunch table. Jaylen has sat down on the bench across from his friends. His posture is open — shoulders relaxed, hands resting on the table, palms up in a small gesture of honesty. His expression is calm and genuine, with a small half-smile that reads as humble rather than defeated. His eyes are steady, looking directly at Amara.
 
@@ -250,6 +262,8 @@ Jaylen opens his eyes and sits down. "Okay," he says. "I think the video might h
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 07. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A wide, warm shot of the cafeteria lunch table a few minutes later. The mood has settled into comfortable, ordinary friendship. Jaylen sits at the table with his three friends, all of them eating lunch together. Jaylen is mid-bite of his sandwich, one hand holding the sandwich, the other resting on the table near his tray. His expression is relaxed and happy — the tension from earlier panels is completely gone.

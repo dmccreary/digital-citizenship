@@ -59,6 +59,8 @@ The difference matters, because the difference tells you what to do next. This i
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 01. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A wide establishing shot of an elementary school gymnasium during an after-school basketball game. The gym is brightly lit with overhead fluorescent lights. A digital scoreboard on the wall shows a close score: Home 22, Visitors 24. The game clock shows 0:00 — the game just ended.
 
@@ -89,6 +91,8 @@ The buzzer sounds. Deshawn's team loses by two points. He missed the last free t
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 02. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Deshawn sitting in the back seat of a car on the ride home from the game. He is still wearing his red basketball jersey (#7) and shorts. He holds a phone in one hand, looking down at the screen. His expression is neutral but tired — the post-game letdown.
@@ -121,6 +125,8 @@ On the ride home, Deshawn checks the team group chat. There is one new message f
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 03. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A close-up of Deshawn's phone screen, held in his hand. The group chat now shows multiple messages stacked up rapidly:
@@ -161,6 +167,8 @@ By the time Deshawn gets home, four more messages have appeared. Jaylen wrote: *
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 04. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A medium shot of Deshawn sitting on the edge of his bed in his bedroom. He has set his phone face-down on the bed beside him. His hands are clasped together between his knees. His expression is serious and thoughtful — not crying, not raging, but *working something out internally*. His eyes look slightly upward and to the left, as if searching for an answer.
 
@@ -193,6 +201,8 @@ Deshawn sets his phone face-down on the bed. He does not want to look at it anym
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 05. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A medium shot of Deshawn sitting on his bed, now sitting up straighter. His expression has shifted from confused to analytical — he is actively working through a problem. His eyes are focused and his jaw is set.
@@ -234,6 +244,8 @@ That is when Deshawn realizes: this is not trash talk. Trash talk goes both ways
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 06. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A close-up of Deshawn's hands holding his phone. He has picked it up again, but this time with purpose. His thumb is pressing the screenshot button combination on the phone — a deliberate, controlled action. On the phone screen, the group chat messages are visible, captured in the screenshot. A small camera-shutter animation or a brief white flash overlay appears on the screen, indicating the screenshot was just taken.
 
@@ -267,6 +279,8 @@ Deshawn picks up his phone. But this time, he is not reading the messages. He is
 <details markdown="1">
 <summary>Image Prompt</summary>
 
+(This is Panel 07. Do not include the panel number in the image.)
+
 Please generate a new wide-landscape image.
 A warm shot of a school gymnasium office the next day. Deshawn stands in front of a metal desk where his basketball coach sits. The coach is a middle-aged man with medium brown skin, short black hair with a few gray streaks, wearing a red polo shirt with a small whistle hanging from a lanyard around his neck. He is leaning forward slightly in his chair, hands folded on the desk, giving Deshawn his full attention. His expression is serious but warm — he is listening carefully, not dismissing.
 
@@ -299,6 +313,8 @@ Deshawn nods. His chest feels a little lighter already.
 
 <details markdown="1">
 <summary>Image Prompt</summary>
+
+(This is Panel 08. Do not include the panel number in the image.)
 
 Please generate a new wide-landscape image.
 A wide, warm shot of the school gymnasium during basketball practice. Deshawn is back on the court in his red jersey (#7), mid-dribble, moving toward the basket. His expression is focused but lighter — a small smile at the corner of his mouth. His body language is fluid and confident, leaning into the dribble, eyes up, heading toward the hoop.
