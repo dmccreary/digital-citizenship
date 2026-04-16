@@ -41,6 +41,12 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Story
+
+Meet **Suki** — a student who notices a quiet, uneasy feeling during an online conversation and decides to trust it. Her story shows how to recognize when a chat has crossed a boundary, and what to do next.
+
+[Read The Story Now](../../stories/sukis-uneasy-feeling/index.md){ .md-button .md-button--primary }
+
 ## Noah and the Friendly Stranger
 
 Noah is playing a game where kids around the world build little villages out of blocks. He's been playing for months. He has built a tiny lighthouse he is super proud of.

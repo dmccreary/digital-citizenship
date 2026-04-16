@@ -44,6 +44,12 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Story
+
+Meet **Maya** — a student who finds her own drawing online with someone else's name on it. Her story shows what it feels like to lose credit for your work, and why giving credit to others matters so much.
+
+[Read The Story Now](../../stories/mayas-art-and-the-missing-name/index.md){ .md-button .md-button--primary }
+
 ## Theo and the Forgotten Signature
 
 Theo loves drawing space pictures. One night, he finds an amazing painting of a purple planet on a website that lets kid artists post their work. The painting is by another student named Sam. Theo loves it so much that he saves it to his tablet.

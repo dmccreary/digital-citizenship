@@ -49,7 +49,7 @@ In Chapter 1 you learned the *words* of the digital world — devices, the inter
 
 The biggest ideas in this chapter come to life in a story. Meet **Jordan** — a student who has one tough second to choose who he wants to be. Read the mini graphic novel below before you keep going, or save it for after. Either order works.
 
-[Read Jordan's Story](../../stories/jordan-one-second-choice/index.md){ .md-button .md-button--primary }
+[Read The Story Now](../../stories/jordan-one-second-choice/index.md){ .md-button .md-button--primary }
 
 
 ## A New Kind of Place
@@ -303,7 +303,7 @@ You can do that, every single day.
 
 If you haven't read Jordan's story yet, now is a perfect time. It puts every idea from this chapter into one short scene.
 
-[Read Jordan's Story](../../stories/jordan-one-second-choice/index.md){ .md-button .md-button--primary }
+[Read The Story Now](../../stories/jordan-one-second-choice/index.md){ .md-button .md-button--primary }
 
 ## Quick Recap
 

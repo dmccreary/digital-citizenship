@@ -47,6 +47,12 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Story
+
+Meet **Tomás** — a student who almost shares an exciting photo before he pauses to ask, *Wait — is this even real?* His story shows what misinformation looks like in everyday life, and how a single careful question can stop it from spreading.
+
+[Read The Story Now](../../stories/tomas-and-the-shark-photo/index.md){ .md-button .md-button--primary }
+
 ## Kai and the Dragon Headline
 
 Kai is scrolling through a video feed when a thumbnail stops him cold. It is a picture of what looks like a real, living dragon flying over a mountain. The headline shouts: **SCIENTISTS DISCOVER LIVING DRAGON IN HIDDEN VALLEY — YOU WON'T BELIEVE THE PHOTOS!!**

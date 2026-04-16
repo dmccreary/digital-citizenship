@@ -43,6 +43,12 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Story
+
+Meet **Jaylen** — a student who believes something strongly, sees good evidence that he was wrong, and changes his mind. His story shows that updating what you believe when the facts change is not weakness — it is one of the strongest things a thinker can do.
+
+[Read The Story Now](../../stories/jaylens-changed-mind/index.md){ .md-button .md-button--primary }
+
 ## Zara and the Story She Wanted to Be True
 
 Zara is reading on her tablet when she sees a post that makes her gasp with happiness. The headline says: **NEW STUDY: KIDS WHO READ FANTASY BOOKS DO BETTER IN MATH THAN OTHER KIDS!**

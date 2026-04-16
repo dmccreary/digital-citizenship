@@ -47,6 +47,12 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Story
+
+Meet **Ava** — a student who notices a classmate being quietly left out of group plans. Her story shows that being an upstander does not always mean being loud. Sometimes the kindest move is small and steady.
+
+[Read The Story Now](../../stories/avas-quiet-courage/index.md){ .md-button .md-button--primary }
+
 ## Sofia Sees Something Mean
 
 Sofia is in a class group chat for her fifth-grade reading club. The chat is usually full of book recommendations and silly emojis. But tonight, somebody posts a photo of their classmate Eli holding up a drawing he made in art. Underneath the photo, three different kids start typing.

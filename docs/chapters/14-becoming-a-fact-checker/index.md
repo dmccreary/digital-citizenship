@@ -42,6 +42,12 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Story
+
+Meet **Lucia** — a student who finds a fun-sounding fact for her science fair project and almost uses it before she stops to check the source. Her story shows what fact-checking actually looks like for a kid.
+
+[Read The Story Now](../../stories/lucias-science-fair-claim/index.md){ .md-button .md-button--primary }
+
 ## Aanya and the Mystery Photo
 
 Aanya is doing a school report on whales. She finds an amazing photo online — a giant whale leaping straight out of the water with a tiny fishing boat in the background. The whale looks bigger than the boat. The caption says: "A blue whale jumping next to a boat off the coast of Hawaii, last week."

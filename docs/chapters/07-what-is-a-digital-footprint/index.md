@@ -43,6 +43,12 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Story
+
+Meet **Kai** — a student who posts something he wishes he could take back, and learns that *delete* does not really mean *gone*. His story shows what a digital footprint really is, and why one quick post can stick around for years.
+
+[Read The Story Now](../../stories/kais-disappearing-post/index.md){ .md-button .md-button--primary }
+
 ## Lily and the Wet Cement
 
 Lily is walking home from school. The city is fixing the sidewalk in front of her favorite coffee shop, and the workers have poured fresh cement that is still smooth and shiny. There are little orange cones around the wet patch and a sign that says **DO NOT WALK HERE**.

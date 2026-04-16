@@ -44,6 +44,18 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Stories
+
+This chapter has two short graphic-novel companions.
+
+Meet **Deshawn** — a student who watches a group chat slide from teasing into something that doesn't feel okay anymore. His story shows the difference between conflict and cyberbullying, and how to find the courage to tell a trusted adult.
+
+[Read The Story Now](../../stories/deshawns-group-chat/index.md){ .md-button .md-button--primary }
+
+Then meet **Nia** — a student who realizes that watching mean messages pile up without saying anything can feel like agreeing with them. Her story is about choosing to speak up.
+
+[Read The Story Now](../../stories/nias-silent-screen/index.md){ .md-button .md-button--primary }
+
 ## Layla's Group Project
 
 Layla and her project partner Tara are working on a science slideshow about coral reefs. They are texting in a group chat about the slides. Layla wants the title in blue. Tara wants the title in orange. They go back and forth:

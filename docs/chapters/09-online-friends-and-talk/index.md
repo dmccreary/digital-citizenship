@@ -42,6 +42,12 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Story
+
+Meet **Eli** — a student whose short text message gets read in a way he never meant. His story shows how words on a screen can sound very different than words spoken out loud, and how to repair a misunderstanding before it grows.
+
+[Read The Story Now](../../stories/elis-misread-message/index.md){ .md-button .md-button--primary }
+
 ## Imani's One-Word Mistake
 
 Imani is doing her math homework when her best friend Jada texts her: "Wanna come over Saturday?"

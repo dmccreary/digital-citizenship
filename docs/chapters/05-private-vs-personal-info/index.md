@@ -42,6 +42,12 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Story
+
+Meet **Noah** — a student who almost handed his private information to a fun online quiz before he stopped to ask, *Wait, why does this quiz need to know my address?* His story shows how easy it is to mix up personal and private — and how to catch yourself in time.
+
+[Read The Story Now](../../stories/noahs-quiz-trap/index.md){ .md-button .md-button--primary }
+
 ## Priya and the Free Art Website
 
 Priya loves to draw. She spends hours making pictures of dragons, foxes, and tiny imaginary towns with crooked rooftops. One afternoon, her older brother shows her a free art website where kids can post their drawings and get nice comments from other kid artists around the world. Priya's eyes light up. She wants in.

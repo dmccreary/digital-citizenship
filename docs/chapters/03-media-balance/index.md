@@ -42,6 +42,12 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Story
+
+Meet **Leo** — a student who sat down with his tablet on a sunny Saturday morning and looked up to find the whole morning gone. His story is about the small signals your body sends when screen time tips out of balance, and what it feels like when you finally listen.
+
+[Read The Story Now](../../stories/leos-missing-saturday/index.md){ .md-button .md-button--primary }
+
 ## Aisha's Saturday Afternoon
 
 It is Saturday afternoon. Aisha is curled up on the couch with a tablet in her hands. She started by watching one short cooking video. That was about an hour ago. Maybe two hours. She isn't sure.

@@ -48,6 +48,18 @@ This chapter builds on concepts from:
 
 ---
 
+## Read the Stories
+
+This chapter has two short graphic-novel companions.
+
+Meet **Zara** — a student who gets a link from a friend's account that looks too good to pass up... until she stops to think about whether her friend would really send that. Her story is about pausing before you tap.
+
+[Read The Story Now](../../stories/zaras-too-good-link/index.md){ .md-button .md-button--primary }
+
+Then meet **Marcus** — a student who learns the hard way that a weak password is like an unlocked door. His story shows how a passphrase can be both strong and easy to remember.
+
+[Read The Story Now](../../stories/marcus-and-the-guessable-password/index.md){ .md-button .md-button--primary }
+
 ## Diego and the "You Won!" Message
 
 Diego is doing his homework on the family laptop when a colorful box pops up on the screen. **YOU WON A FREE TABLET!** the box shouts. There is a glittery picture of a brand-new tablet, three exclamation points, and a big yellow button that says **CLICK HERE TO CLAIM YOUR PRIZE!!!**
