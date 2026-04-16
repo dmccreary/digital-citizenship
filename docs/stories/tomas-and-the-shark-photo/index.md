@@ -2,13 +2,9 @@
 title: "Tomás and the Shark Photo"
 description: "A mini graphic novel about a student who almost shares a dramatic photo online — until he pauses, checks the facts, and discovers the image is fake."
 image: /stories/tomas-and-the-shark-photo/cover.png
-og:image: /stories/tomas-and-the-shark-photo/cover.png
-twitter:image: /stories/tomas-and-the-shark-photo/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
 ---
 
 # Tomás and the Shark Photo

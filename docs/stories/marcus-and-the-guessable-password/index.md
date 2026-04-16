@@ -2,13 +2,9 @@
 title: "Marcus and the Guessable Password"
 description: "A mini graphic novel about a student who learns why weak passwords are like unlocked doors — and discovers the power of passphrases."
 image: /stories/marcus-and-the-guessable-password/cover.png
-og:image: /stories/marcus-and-the-guessable-password/cover.png
-twitter:image: /stories/marcus-and-the-guessable-password/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
 ---
 
 # Marcus and the Guessable Password

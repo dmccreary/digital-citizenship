@@ -2,13 +2,9 @@
 title: "Jaylen's Changed Mind"
 description: "A mini graphic novel about a student who learns that changing your mind with good evidence is not weakness — it is strength."
 image: /stories/jaylens-changed-mind/cover.png
-og:image: /stories/jaylens-changed-mind/cover.png
-twitter:image: /stories/jaylens-changed-mind/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
 ---
 
 # Jaylen's Changed Mind

@@ -2,13 +2,9 @@
 title: "Leo's Missing Saturday"
 description: "A mini graphic novel about a student who loses a whole morning to his tablet and learns to listen to the signals his body sends when screen time is out of balance."
 image: /stories/leos-missing-saturday/cover.png
-og:image: /stories/leos-missing-saturday/cover.png
-twitter:image: /stories/leos-missing-saturday/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
 ---
 
 # Leo's Missing Saturday

@@ -2,13 +2,9 @@
 title: "Deshawn's Group Chat"
 description: "A mini graphic novel about a student who learns to recognize the difference between conflict and cyberbullying — and finds the courage to tell a trusted adult."
 image: /stories/deshawns-group-chat/cover.png
-og:image: /stories/deshawns-group-chat/cover.png
-twitter:image: /stories/deshawns-group-chat/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
 ---
 
 # Deshawn's Group Chat

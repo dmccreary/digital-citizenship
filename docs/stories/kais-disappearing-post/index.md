@@ -2,13 +2,9 @@
 title: "Kai's Disappearing Post"
 description: "A mini graphic novel about a student who learns that deleting a post does not delete the copies — and that a digital footprint is permanent."
 image: /stories/kais-disappearing-post/cover.png
-og:image: /stories/kais-disappearing-post/cover.png
-twitter:image: /stories/kais-disappearing-post/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
 ---
 
 # Kai's Disappearing Post

@@ -2,13 +2,9 @@
 title: "Lucia's Science Fair Claim"
 description: "A mini graphic novel about a student who learns to check the source before trusting a fun-sounding fact."
 image: /stories/lucias-science-fair-claim/cover.png
-og:image: /stories/lucias-science-fair-claim/cover.png
-twitter:image: /stories/lucias-science-fair-claim/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
 ---
 
 # Lucia's Science Fair Claim

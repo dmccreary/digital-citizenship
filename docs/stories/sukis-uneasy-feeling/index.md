@@ -2,13 +2,9 @@
 title: "Suki's Uneasy Feeling"
 description: "A mini graphic novel about a student who trusts her uneasy feeling when an online conversation crosses a boundary."
 image: /stories/sukis-uneasy-feeling/cover.png
-og:image: /stories/sukis-uneasy-feeling/cover.png
-twitter:image: /stories/sukis-uneasy-feeling/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
 ---
 
 # Suki's Uneasy Feeling

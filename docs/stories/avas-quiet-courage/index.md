@@ -2,13 +2,9 @@
 title: "Ava's Quiet Courage"
 description: "A mini graphic novel about a student who notices a classmate being quietly left out of group plans — and finds that being an upstander does not always mean being loud."
 image: /stories/avas-quiet-courage/cover.png
-og:image: /stories/avas-quiet-courage/cover.png
-twitter:image: /stories/avas-quiet-courage/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
 ---
 
 # Ava's Quiet Courage

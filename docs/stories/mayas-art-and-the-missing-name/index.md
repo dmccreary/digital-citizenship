@@ -2,13 +2,9 @@
 title: "Maya's Art and the Missing Name"
 description: "A mini graphic novel about a student who learns why giving credit matters — and what it feels like when your work carries someone else's name."
 image: /stories/mayas-art-and-the-missing-name/cover.png
-og:image: /stories/mayas-art-and-the-missing-name/cover.png
-twitter:image: /stories/mayas-art-and-the-missing-name/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
 ---
 
 # Maya's Art and the Missing Name

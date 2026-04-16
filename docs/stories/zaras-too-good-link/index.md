@@ -2,8 +2,6 @@
 title: "Zara's Too-Good Link"
 description: "A mini graphic novel about a student who almost clicked a phishing link from a hacked friend's account — and learned to pause and verify before she tapped."
 image: /stories/zaras-too-good-link/cover.png
-og:image: /stories/zaras-too-good-link/cover.png
-twitter:image: /stories/zaras-too-good-link/cover.png
 generated_by: "claude skill story-generator (adapted for fictional contemporary character)"
 date: 2026-04-11
 version: 0.01

@@ -2,13 +2,9 @@
 title: "Noah's Quiz Trap"
 description: "A mini graphic novel about a student who almost gave away his private information to a fun online quiz — and learned the difference between personal and private."
 image: /stories/noahs-quiz-trap/cover.png
-og:image: /stories/noahs-quiz-trap/cover.png
-twitter:image: /stories/noahs-quiz-trap/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.01
-social:
-  cards: false
 ---
 
 # Noah's Quiz Trap

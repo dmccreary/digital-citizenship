@@ -2,13 +2,9 @@
 title: "Jordan's One-Second Choice"
 description: A mini graphic novel about a fifth-grade student who pauses at the digital threshold and chooses to be a kind digital citizen.
 image: /stories/jordan-one-second-choice/cover.png
-og:image: /stories/jordan-one-second-choice/cover.png
-twitter:image: /stories/jordan-one-second-choice/cover.png
 generated_by: claude skill story-generator (adapted for fictional contemporary character)
 date: 2026-04-11
 version: 0.07
-social:
-  cards: false
 ---
 
 # Jordan's One-Second Choice
