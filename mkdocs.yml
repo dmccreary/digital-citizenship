@@ -131,6 +131,8 @@ nav:
     - Diagram Table: learning-graph/diagram-table.md
     - Diagram Details: learning-graph/diagram-details.md
     - Project Management: learning-graph/project-management.md
+    - TODO: learning-graph/TODO.md
+    - LinkedIn Announcement: learning-graph/linkedin-announcement.md
 
   - Sample Prompts:
     - List of Prompts: prompts/index.md
