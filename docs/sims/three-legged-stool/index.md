@@ -1,65 +1,107 @@
 ---
-title: The Three-Legged Stool
-description: The Three-Legged Stool
-status: spec-complete
-library: AI Image Generator
-bloom_level: TBD
+title: "The Three-Legged Stool"
+description: "An interactive visual metaphor showing the three things every digital citizen needs — Opportunities, Responsibilities, and Rights. Click each leg to learn what it means, then see what happens when one is missing."
+image: /sims/three-legged-stool/three-legged-stool.png
+og:image: /sims/three-legged-stool/three-legged-stool.png
+twitter:image: /sims/three-legged-stool/three-legged-stool.png
+social:
+  cards: false
 ---
 
 # The Three-Legged Stool
 
-!!! warning "Scaffold"
-    This MicroSim has been scaffolded from its specification. The interactive
-    implementation has not been built yet.
+<iframe src="main.html" height="582px" scrolling="no"></iframe>
+
+[Run the Three-Legged Stool MicroSim Fullscreen](./main.html){ .md-button .md-button--primary }
+
+You can include this MicroSim on your website using the following `iframe`:
+
+```html
+<iframe src="https://dmccreary.github.io/digital-citizenship/sims/three-legged-stool/main.html" height="582px" scrolling="no"></iframe>
+```
+
+## Description
+
+This MicroSim uses a simple stool metaphor to help students remember that
+three things always travel together for a digital citizen:
+
+- **Opportunities** (river-blue) — the cool things you get to do online
+- **Responsibilities** (soft green) — the things you are expected to do for others
+- **Rights** (warm gold) — the protections that keep you safe and treated fairly
+
+All three legs are drawn the same length on purpose. A stool with three
+equal legs stays balanced. A stool missing a leg tips over — and so does
+a digital citizen who forgets one of these three ideas.
+
+**How to use it:**
+
+- Click any leg to learn what it means and see a short example.
+- A golden ring shows which leg is selected.
+- After selecting a leg, click the red button to see what happens when
+  that leg is missing — the stool tilts and the student looks worried.
+- Click the green button to put the leg back.
 
 ## Learning Objective
 
-TBD
+Students will be able to **explain** the three things that always travel
+together for a digital citizen (Opportunities, Responsibilities, and Rights)
+and describe why balance among all three matters.
 
-- **Bloom Level:** TBD
-- **Bloom Verb:** TBD
-- **Library:** AI Image Generator
+- **Bloom Level:** Understand (L2)
+- **Bloom Verb:** Explain
+- **Library:** p5.js
 
-## Preview
+## Lesson Plan
 
-<iframe src="main.html" width="100%" height="600"></iframe>
+**Time:** 10–15 minutes
 
-[Run MicroSim in Fullscreen](main.html){ .md-button .md-button--primary }
+**Before the MicroSim (2 minutes)**
 
-## Specification
+Ask the class: "Imagine a three-legged stool. What happens if one leg is
+shorter than the others? What happens if one leg is missing? What does the
+stool have to do if it wants to stay up?"
 
-The full specification below is extracted from
-[Chapter 2: "Chapter 2: What Is a Digital Citizen?"](../../chapters/02-what-is-a-digital-citizen/index.md).
+Tell students that today they will see how being a digital citizen is like
+a three-legged stool.
 
-```text
-Type: diagram
-**sim-id:** three-legged-stool<br/>
-**Library:** AI Image Generator<br/>
-**Status:** Specified
+**During the MicroSim (5–8 minutes)**
 
-**Purpose:** Make the chapter's stool metaphor visual and memorable, so students remember that opportunities, responsibilities, and rights always travel together.
+Have students work in pairs or individually:
 
-**Image prompt:**
+1. Click each of the three legs and read what each one means.
+2. For each leg, write in your notebook one thing from your own life online
+   that fits that leg (one opportunity, one responsibility, one right).
+3. Use the "What if…was missing?" button for each leg. What do you notice
+   about the stool and the student?
 
-A simple, friendly wooden three-legged stool, drawn in a flat cartoon style and shown from a slight three-quarter angle so all three legs are clearly visible. The stool's seat is a warm honey-brown wood with a soft grain texture. Each of the three legs is painted a different color and clearly labeled in large, kid-readable text near the bottom of the leg:
+**After the MicroSim (3–5 minutes)**
 
-- Left leg, painted river-blue (#2e6f8e), labeled **Opportunities**
-- Center leg, painted soft green (#4a9c5b), labeled **Responsibilities**
-- Right leg, painted warm gold (#e0a93b), labeled **Rights**
+Class discussion:
 
-On top of the seat, sitting cross-legged in a relaxed and proud pose, is a small cartoon Grade 5 student (gender-neutral, brown skin, short hair, friendly smile, casual t-shirt and jeans) giving a thumbs-up. A small thought bubble above their head shows a tiny globe with a wifi arc, suggesting "the digital world."
+- Why did the designer make all three legs the same color-size? What would
+  change if the "Rights" leg was twice as long?
+- Which leg is easiest to forget about when you are online? Why?
+- Can you think of a time in real life when someone had an opportunity
+  online but forgot the responsibility that went with it?
 
-Behind the stool, a soft pale-cream background with a few light dot-grid markings keeps the focus on the stool itself.
+## Accommodations
 
-**Style notes:**
-
-- Modern flat cartoon vector style, no heavy shading.
-- Bold, clean labels in a friendly sans-serif font that a Grade 5 reader can read at a glance.
-- The three legs must look exactly the same length — the visual point is balance.
-- No text other than the three leg labels.
-- Image dimensions: 4:3 or square, suitable for inline placement at content width.
-```
+- **For ELL students:** Pre-teach the words *opportunity*, *responsibility*,
+  and *right* with simple examples before students open the MicroSim.
+- **For students who finish early:** Ask them to draw their own version of
+  the stool and write a one-sentence motto under each leg in their own words.
 
 ## Related Resources
 
-- [Chapter 2: "Chapter 2: What Is a Digital Citizen?"](../../chapters/02-what-is-a-digital-citizen/index.md)
+- [Chapter 2: What Is a Digital Citizen?](../../chapters/02-what-is-a-digital-citizen/index.md)
+- [The Four-Wheeled Wagon](../four-habits-wagon/index.md) — the four habits
+  that ride on top of the stool
+- [Glossary: Opportunities, Responsibilities, Rights](../../glossary.md)
+
+## References
+
+- Common Sense Education. *Digital Citizenship Curriculum, Grade 5.*
+  https://www.commonsense.org/education/digital-citizenship/curriculum
+- ISTE Standards for Students (2016). Standard 2: Digital Citizen.
+- Ribble, M. (2015). *Digital Citizenship in Schools* (3rd ed.).
+  International Society for Technology in Education.
