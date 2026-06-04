@@ -1,21 +1,25 @@
 {
   "title": "The Three-Legged Stool",
-  "description": "The Three-Legged Stool",
-  "creator": "Dementia Education Project",
-  "date": "2026-04-11",
+  "description": "An interactive visual metaphor showing the three things every digital citizen needs — Opportunities, Responsibilities, and Rights — as the three legs of a stool. Click each leg to learn about it, and see what happens when one is missing.",
+  "creator": "Digital Citizenship for Grade 5 (ISD 197)",
+  "date": "2026-04-23",
   "subject": [
-    "dementia"
+    "digital citizenship",
+    "opportunities",
+    "responsibilities",
+    "rights"
   ],
   "type": "Interactive Simulation",
   "format": "text/html",
   "language": "en-US",
   "rights": "CC BY 4.0",
   "identifier": "three-legged-stool",
-  "library": "AI Image Generator",
-  "bloomLevel": "TBD",
-  "bloomVerb": "TBD",
-  "completion_status": "scaffold",
+  "library": "p5.js",
+  "bloomLevel": "Understand",
+  "bloomVerb": "Explain",
+  "learning_objective": "Students will be able to explain the three things that always travel together for a digital citizen (Opportunities, Responsibilities, and Rights) and describe why balance among all three matters.",
+  "completion_status": "implemented",
   "chapter_number": 2,
-  "chapter_title": "\"Chapter 2: What Is a Digital Citizen?\"",
+  "chapter_title": "Chapter 2: What Is a Digital Citizen?",
   "chapter_dir": "02-what-is-a-digital-citizen"
 }
