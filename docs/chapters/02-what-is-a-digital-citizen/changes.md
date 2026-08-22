@@ -268,7 +268,7 @@ prompt by the user/linter.
 Standalone instructional-design decision log capturing the framework, the
 audit, the rule, and the references. See section 7 above for details.
 
-### `chapter-content-generator` skill (`~/Documents/ws/claude-skills/skills/chapter-content-generator/SKILL.md`)
+### `chapter-content-generator` skill (`~/Documents/ws/ibook-skills/skills/chapter-content-generator/SKILL.md`)
 
 Best Practices item 14 added: *Emoji discipline* — same one-line rule as in
 `CLAUDE.md`, plus a brief Mayer reference. This change is published to the
