@@ -1,74 +1,89 @@
 ---
-title: Browser Window Tour
-description: Browser Window Tour
-status: spec-complete
-library: p5.js
-bloom_level: TBD
+title: "Browser Window Tour"
+description: "Click the parts of a pretend web browser to learn the names of the address bar, the URL, the search box, and the page area, and what each one does."
+image: /sims/browser-window-tour/browser-window-tour.png
+og:image: /sims/browser-window-tour/browser-window-tour.png
+twitter:image: /sims/browser-window-tour/browser-window-tour.png
+social:
+  cards: false
 ---
 
 # Browser Window Tour
 
-!!! warning "Scaffold"
-    This MicroSim has been scaffolded from its specification. The interactive
-    implementation has not been built yet.
+<iframe src="main.html" height="502px" width="100%" scrolling="no"></iframe>
+
+[Run the Browser Window Tour MicroSim Fullscreen](./main.html){ .md-button .md-button--primary }
+
+You can include this MicroSim on your website using the following `iframe`:
+
+```html
+<iframe src="https://dmccreary.github.io/digital-citizenship/sims/browser-window-tour/main.html" height="502px" width="100%" scrolling="no"></iframe>
+```
+
+## Description
+
+This MicroSim shows a pretend web browser window. Students click on four
+parts of the window to learn what each part is called:
+
+- **Address bar** — the strip at the top of a web browser where the URL lives
+- **URL** — the address of a website
+- **Search box** — where you type a few words when you don't know the URL
+- **Page area** — where the website appears
+
+Each explanation uses the same sentence as Chapter 1, so the MicroSim
+reinforces the chapter's definitions instead of introducing new ones.
+The page area is a pretend web page. It is not a copy of any real website.
+
+**How to use it:**
+
+- Move the mouse over the browser. A light blue outline shows which part you are pointing at.
+- Click a part to keep it highlighted and read its name and what it does.
+- Watch the **Found 1 of 4** counter and try to find all four parts.
+- Use the **Website** dropdown to change the URL in the address bar. Notice that the page area changes too.
+- Click **Reset** to clear the highlight and start again.
 
 ## Learning Objective
 
-TBD
+Given a stylized web browser window, students will be able to **identify**
+and name the address bar, the URL, the search box, and the page area, and
+recall what each one does in their own words.
 
-- **Bloom Level:** TBD
-- **Bloom Verb:** TBD
+- **Bloom Level:** Remember (L1) and Understand (L2)
+- **Bloom Verb:** Identify
 - **Library:** p5.js
 
-## Preview
+## Lesson Plan
 
-<iframe src="main.html" width="100%" height="600"></iframe>
+**Time:** 10 minutes
 
-[Run MicroSim in Fullscreen](main.html){ .md-button .md-button--primary }
+**Before the MicroSim (2 minutes)**
 
-## Specification
+Ask the class: "When you open a web browser, how does it know which website
+you want to visit?" Take two or three answers. Introduce the idea that every
+website has an address.
 
-The full specification below is extracted from
-[Chapter 1: "Chapter 1: Welcome to the Digital World"](../../chapters/01-welcome-to-digital-world/index.md).
+**During the MicroSim (5 minutes)**
 
-```text
-Type: microsim
-**sim-id:** browser-window-tour<br/>
-**Library:** p5.js<br/>
-**Status:** Specified
+Have students work in pairs or individually:
 
-**Learning objective (Bloom: Remember and Understand):** Given a stylized web browser window, the student can identify and name the address bar, URL, search box, and page area, and recall what each one does in their own words.
+1. Find and click all four parts of the browser until the counter reads **Found 4 of 4**.
+2. Change the website with the dropdown. Which parts of the browser changed? Which parts stayed the same?
+3. Cover the explanation box with a hand. Point to a part and say what it is called before clicking to check.
 
-**Visual elements:**
+**After the MicroSim (3 minutes)**
 
-- A responsive canvas (default 600 × 400, resizes with container width via `updateCanvasSize()` called first in `setup()`).
-- A drawn web browser window with: a title bar containing three colored circles (red/yellow/green) for the close/minimize/maximize buttons, an address bar across the top showing one of three example URLs, a small search-box icon, and a stylized page area below showing a placeholder website (a logo, a heading, and a few colored rectangles representing text and images).
-- Four clickable regions: address bar, URL text inside the address bar, search box, and page area.
-- Hover state: a 2-pixel light blue (#4a8aab) glow draws around the region under the mouse.
-- Click state: the clicked region stays highlighted and a one-sentence explanation appears in a label area below the canvas.
-- All explanations use exactly the same wording as the chapter prose, so the MicroSim reinforces the definitions instead of introducing new ones.
+Ask: "What is the difference between the address bar and the URL?" Guide
+students to the idea that the address bar is the *place* and the URL is the
+*address written in that place*. Connect this to the chapter's safety tip:
+before clicking a link, look at the address bar to see where you are going.
 
-**Controls (built-in p5.js controls per project rules):**
+## Assessment
 
-- `createSelect()` dropdown to switch between three example URLs: `www.isd197.org`, `www.nasa.gov`, `kids.nationalgeographic.com`. Switching the dropdown updates the URL shown in the address bar of the drawn browser.
-- `createButton('Reset')` that clears the highlight and the label area.
+Show students a screenshot or drawing of a browser window with the four
+parts numbered. Students write the name of each part and one sentence about
+what it does.
 
-**Behavior:**
+## References
 
-- On `mouseMoved`, check which region the mouse is over and draw the hover highlight.
-- On `mousePressed`, set a state variable to the clicked region and render its one-sentence explanation in the label area.
-- On window resize, recompute the layout so the browser window scales with the container.
-
-**Implementation notes:**
-
-- File location: `docs/sims/browser-window-tour/` with `main.html`, `main.js`, and `index.md`.
-- `main.html` uses a plain `<main></main>` tag with no `id` attribute, so teachers can copy `main.js` directly into the p5.js editor.
-- In `setup()`, call `updateCanvasSize()` first, then `canvas.parent(document.querySelector('main'))`.
-- Embedded into the chapter via an iframe in the chapter page once the sim files are built. The actual sim files are not part of this chapter task — only the spec lives here.
-
-Implementation: p5.js sketch deployed at `docs/sims/browser-window-tour/`.
-```
-
-## Related Resources
-
-- [Chapter 1: "Chapter 1: Welcome to the Digital World"](../../chapters/01-welcome-to-digital-world/index.md)
+1. ISTE. [ISTE Standards: For Students](https://iste.org/standards/students). International Society for Technology in Education.
+2. Common Sense Education. [Digital Citizenship Curriculum](https://www.commonsense.org/education/digital-citizenship).

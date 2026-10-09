@@ -1,10 +1,14 @@
 {
   "title": "Browser Window Tour",
-  "description": "Browser Window Tour",
-  "creator": "Dementia Education Project",
+  "description": "Click the parts of a pretend web browser to learn the names of the address bar, the URL, the search box, and the page area, and what each one does.",
+  "creator": "Digital Citizenship for Grade 5 (ISD 197)",
   "date": "2026-04-11",
   "subject": [
-    "dementia"
+    "digital citizenship",
+    "web browser",
+    "URL",
+    "address bar",
+    "search engine"
   ],
   "type": "Interactive Simulation",
   "format": "text/html",
@@ -12,10 +16,11 @@
   "rights": "CC BY 4.0",
   "identifier": "browser-window-tour",
   "library": "p5.js",
-  "bloomLevel": "TBD",
-  "bloomVerb": "TBD",
-  "completion_status": "scaffold",
+  "bloomLevel": "Remember",
+  "bloomVerb": "Identify",
+  "completion_status": "implemented",
   "chapter_number": 1,
-  "chapter_title": "\"Chapter 1: Welcome to the Digital World\"",
-  "chapter_dir": "01-welcome-to-digital-world"
+  "chapter_title": "Chapter 1: Welcome to the Digital World",
+  "chapter_dir": "01-welcome-to-digital-world",
+  "learning_objective": "Given a stylized web browser window, students will be able to identify and name the address bar, the URL, the search box, and the page area, and recall what each one does in their own words."
 }

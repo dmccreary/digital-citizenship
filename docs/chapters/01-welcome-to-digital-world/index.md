@@ -218,6 +218,10 @@ Now let's try it. In the MicroSim below, you can click on different parts of a p
 
 #### Diagram: Browser Window Tour
 
+
+<iframe src="../../sims/browser-window-tour/main.html" width="100%" height="502px" scrolling="no"></iframe>
+[Run Browser Window Tour Fullscreen](../../sims/browser-window-tour/main.html)
+
 <details markdown="1">
 <summary>Browser Window Tour — interactive p5.js MicroSim</summary>
 Type: microsim

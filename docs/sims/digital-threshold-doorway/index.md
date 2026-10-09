@@ -1,60 +1,85 @@
 ---
-title: Standing at the Digital Threshold
-description: Standing at the Digital Threshold
-status: spec-complete
-library: AI Image Generator
-bloom_level: TBD
+title: "Standing at the Digital Threshold"
+description: "Explore a picture of a student standing in a doorway between the everyday world and the digital world, and click each marker to learn about the digital threshold and the three steps of pause, think, act."
+image: /sims/digital-threshold-doorway/digital-threshold-doorway.png
+og:image: /sims/digital-threshold-doorway/digital-threshold-doorway.png
+twitter:image: /sims/digital-threshold-doorway/digital-threshold-doorway.png
+hide:
+  - toc
 ---
 
-# Standing at the Digital Threshold
+<iframe src="main.html" height="600px" width="100%" scrolling="no"></iframe>
 
-!!! warning "Scaffold"
-    This MicroSim has been scaffolded from its specification. The interactive
-    implementation has not been built yet.
+[View fullscreen](main.html){target="_blank"}
+
+## Description
+
+A threshold is the little space at the edge of a door, where you step from
+one place into another. This picture turns that idea into a picture of the
+**digital threshold**: the moment right before you tap, click, share, or
+post something online.
+
+The student in the picture is standing in a doorway. The cozy room is behind.
+The digital world is ahead. The thumb is hovering above the phone, but it
+has not tapped yet. That one second is the digital threshold.
+
+## How to Use
+
+- **Explore mode** *(default)*: Click any numbered marker on the picture, or
+  any label in the panel, to read what that part of the picture means.
+- **Quiz mode**: Click the **Quiz** button. You'll be given a name and asked
+  to find it on the picture.
+
+## Parts of the Picture
+
+1. **The everyday world** — the room behind you, where nothing has been sent yet
+2. **The hovering thumb** — the finger that has not pressed yet
+3. **The digital world** — where taps, clicks, shares, and posts go
+4. **The digital threshold** — the moment right before you tap
+5. **Pause** — stop your finger and take one slow breath
+6. **Think** — is this safe? Is this kind? Is this true?
+7. **Act** — make your choice on purpose
 
 ## Learning Objective
 
-TBD
+Students will be able to **identify** the digital threshold as the moment
+right before they tap, click, share, or post, and recall the three steps of
+pause, think, act.
 
-- **Bloom Level:** TBD
-- **Bloom Verb:** TBD
-- **Library:** AI Image Generator
+- **Bloom Level:** Remember (L1)
+- **Bloom Verb:** Identify
+- **Library:** Interactive infographic overlay (diagram.js)
 
-## Preview
+## Lesson Plan
 
-<iframe src="main.html" width="100%" height="600"></iframe>
+**Time:** 10 minutes
 
-[Run MicroSim in Fullscreen](main.html){ .md-button .md-button--primary }
+**Before the MicroSim (2 minutes)**
 
-## Specification
+Ask students to stand in the classroom doorway, or to picture their front
+door at home. Ask: "What is the name for the spot where you step from
+outside to inside?" Introduce the word *threshold*.
 
-The full specification below is extracted from
-[Chapter 2: "Chapter 2: What Is a Digital Citizen?"](../../chapters/02-what-is-a-digital-citizen/index.md).
+**During the MicroSim (5 minutes)**
 
-```text
-Type: diagram
-**sim-id:** digital-threshold-doorway<br/>
-**Library:** AI Image Generator<br/>
-**Status:** Specified
+1. Click markers 1 through 4 in order and read each description aloud.
+2. Click **Pause**, **Think**, and **Act**. Have students say the three questions from the Think step together.
+3. Switch to **Quiz** mode and let pairs take turns.
 
-**Purpose:** Turn the abstract idea of "the moment right before you tap" into a vivid spatial image that ties the word *threshold* to the everyday experience of standing in a doorway.
+**After the MicroSim (3 minutes)**
 
-**Image prompt:**
+Ask: "Why is the threshold the most powerful spot in the whole digital
+world?" Guide students to the idea that it is the one second when they can
+still change their mind.
 
-A side-view illustration of a fifth-grade girl standing in a doorway, with the doorway frame as the centerpiece of the image. The doorframe is drawn in warm wood tones. The girl has long black hair in a single braid, light tan skin, round glasses, a yellow sweater, and a backpack on her shoulders. She is mid-step: her front foot just touches the threshold strip and her back foot is still inside the room behind her. Her head is tilted slightly down — she is looking at a phone in her hands, with her thumb hovering just above the screen but not quite touching it.
+## Assessment
 
-The room behind her (left side of the image) is cozy and ordinary: a child's bedroom with a desk, a houseplant, and warm yellow lamplight. The space ahead of her (right side, beyond the doorway) is drawn as a stylized "digital world" — a soft-edged blue-and-purple cloudscape with floating gentle icons like a chat bubble, a star, a heart, a question mark, and a tiny globe. The two halves use contrasting palettes — warm indoors, cool digital outdoors — but neither side looks scary.
+Students draw their own doorway and label the threshold. Below the drawing
+they write the three steps and one question they will ask themselves during
+the Think step.
 
-A small, glowing strip on the threshold itself is highlighted in soft yellow. Three short words float just above it in clean lettering: **Pause   Think   Act**.
+## Image Credit
 
-**Style notes:**
-
-- Modern flat cartoon vector style, consistent with Maka and the rest of the chapter art.
-- The phone screen is blank or shows only an abstract glow — no app interface, no icons, no platform names.
-- The girl's posture reads as thoughtful, not afraid. This is about choosing, not warning.
-- Image dimensions: 16:9 horizontal, full content width.
-```
-
-## Related Resources
-
-- [Chapter 2: "Chapter 2: What Is a Digital Citizen?"](../../chapters/02-what-is-a-digital-citizen/index.md)
+The illustration was generated with an AI image generator from the prompt in
+[Chapter 2](../../chapters/02-what-is-a-digital-citizen/index.md), where the
+same picture appears.
