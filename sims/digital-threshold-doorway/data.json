@@ -1,0 +1,79 @@
+{
+  "title": "Standing at the Digital Threshold",
+  "orientation": "landscape",
+  "image": "digital-threshold.png",
+  "layout": "side-panel",
+  "clickOnly": true,
+  "callouts": [
+    {
+      "id": 1,
+      "label": "The everyday world",
+      "x": 25,
+      "y": 45,
+      "radius": 5,
+      "color": "#E67E22",
+      "hint": "The warm, cozy side of the doorway.",
+      "description": "This is the room behind you. Nothing has been sent or shared yet. On this side of the doorway, you are still in charge."
+    },
+    {
+      "id": 2,
+      "label": "The hovering thumb",
+      "x": 52.5,
+      "y": 45.5,
+      "radius": 5,
+      "color": "#E74C3C",
+      "hint": "The part of your hand that is about to tap.",
+      "description": "When your finger is hovering over a share button, but you haven't pressed yet, you are standing on the digital threshold."
+    },
+    {
+      "id": 3,
+      "label": "The digital world",
+      "x": 72,
+      "y": 70,
+      "radius": 5,
+      "color": "#3498DB",
+      "hint": "The cool blue side of the doorway.",
+      "description": "This is where your taps, clicks, shares, and posts go. After you tap, the message is sent. After you share, the picture is out there."
+    },
+    {
+      "id": 4,
+      "label": "The digital threshold",
+      "x": 68,
+      "y": 84.5,
+      "radius": 5,
+      "color": "#F39C12",
+      "hint": "The glowing strip at the edge of the door.",
+      "description": "The digital threshold is the moment right before you tap, click, share, or post something online. It is the one second when you can still change your mind."
+    },
+    {
+      "id": 5,
+      "label": "Pause",
+      "x": 38.5,
+      "y": 96,
+      "radius": 5,
+      "color": "#8E44AD",
+      "hint": "The first step: stop your finger.",
+      "description": "Pause: stop your finger before it taps the screen. Take one slow breath."
+    },
+    {
+      "id": 6,
+      "label": "Think",
+      "x": 48.5,
+      "y": 96,
+      "radius": 5,
+      "color": "#16A085",
+      "hint": "The second step: ask three quick questions.",
+      "description": "Think: ask three quick questions. Is this safe? Is this kind? Is this true?"
+    },
+    {
+      "id": 7,
+      "label": "Act",
+      "x": 58,
+      "y": 96,
+      "radius": 5,
+      "color": "#2ECC71",
+      "hint": "The third step: make your choice on purpose.",
+      "description": "Act: now make your choice. You might tap. You might close the screen. You might walk away. Either way, you choose on purpose."
+    }
+  ]
+}

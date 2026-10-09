@@ -2836,11 +2836,11 @@ imitate the style and structure of Chapter 1 directly.</p>
 <li>All dollar figures use Anthropic's <strong>published list rates</strong> as of
   the model's release. Enterprise contracts, prompt-caching discounts,
   or batch-API discounts may reduce the actual cost.</li>
-<li>Cache creation is billed at the <strong>1-hour cache rate</strong> (<span class="arithmatex">\(30/MTok for
+<li>Cache creation is billed at the <strong>1-hour cache rate</strong> ($30/MTok for
   Opus) because the session's <code>cache_creation</code> field showed
   <code>ephemeral_1h_input_tokens &gt; 0</code> and <code>ephemeral_5m_input_tokens = 0</code>.
   Shorter sessions that use the 5-minute cache get a slightly cheaper
-  rate (\)</span>18.75/MTok for Opus).</li>
+  rate ($18.75/MTok for Opus).</li>
 <li>The "economy mode" estimate is a projection, not a measurement.
   The actual cost will not be known until a chapter is generated under
   those constraints. A single empirical measurement of Chapter 2 in

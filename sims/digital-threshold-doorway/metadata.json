@@ -1,21 +1,25 @@
 {
   "title": "Standing at the Digital Threshold",
-  "description": "Standing at the Digital Threshold",
-  "creator": "Dementia Education Project",
+  "description": "Explore a picture of a student standing in a doorway between the everyday world and the digital world, and click each marker to learn about the digital threshold and the three steps of pause, think, act.",
+  "creator": "Digital Citizenship for Grade 5 (ISD 197)",
   "date": "2026-04-11",
   "subject": [
-    "dementia"
+    "digital citizenship",
+    "digital threshold",
+    "pause think act"
   ],
   "type": "Interactive Simulation",
   "format": "text/html",
   "language": "en-US",
   "rights": "CC BY 4.0",
   "identifier": "digital-threshold-doorway",
-  "library": "AI Image Generator",
-  "bloomLevel": "TBD",
-  "bloomVerb": "TBD",
-  "completion_status": "scaffold",
+  "library": "diagram.js (interactive infographic overlay)",
+  "bloomLevel": "Remember",
+  "bloomVerb": "Identify",
+  "completion_status": "implemented",
   "chapter_number": 2,
   "chapter_title": "\"Chapter 2: What Is a Digital Citizen?\"",
-  "chapter_dir": "02-what-is-a-digital-citizen"
+  "chapter_dir": "02-what-is-a-digital-citizen",
+  "canvasHeight": 600,
+  "learning_objective": "Students will be able to identify the digital threshold as the moment right before they tap, click, share, or post, and recall the three steps of pause, think, act."
 }
