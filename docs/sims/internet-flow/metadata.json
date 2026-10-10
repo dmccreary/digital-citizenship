@@ -1,17 +1,15 @@
 {
   "title": "How a Video Gets to Your Tablet",
   "creator": "Dan McCreary",
-  "subject": "High School Geometry",
+  "subject": "Digital Citizenship",
   "description": "Interactive MicroSim for how a video gets to your tablet",
   "date": "2026-04-11",
   "educational": {
     "gradeLevel": [
-      "9",
-      "10",
-      "11",
-      "12"
+      "5",
+      "6"
     ],
-    "subjectArea": "Mathematics",
+    "subjectArea": "Social Studies",
     "topic": "How a Video Gets to Your Tablet",
     "learningObjectives": [
       "TODO: Add learning objectives"
